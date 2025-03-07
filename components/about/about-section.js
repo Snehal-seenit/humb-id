@@ -27,9 +27,8 @@ export default function AboutSection() {
 						<div className="fugu-default-content">
 							<h2>The story behind our companys beginnings and our mission</h2>
 							<p>
-								Mthemeus was founded in 2016, and we have accomplished so much over the years. To create
-								the solution your business. In the digital world, an impactful first impression for you
-								stand
+							Our mission is to provide a secure, reliable, and low-cost trading experience for crypto traders in Indonesia. With cutting-edge technology and compliance with local regulations, we ensure a safe and transparent trading environment.
+
 							</p>
 							<p>
 								Being memorable is hard, but worth it if you want a brand for that will resonate with
