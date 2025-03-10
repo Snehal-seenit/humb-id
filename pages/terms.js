@@ -1,22 +1,19 @@
 
 import Head from "next/head";
-import Breadcrumb from "../components/about/breadcrumb";
+import Breadcrumb from "../components/terms/breadcrumb";
 
 export default function Terms() {
     return (
         <>
             
             <Head>
-				<title>HUMB - Terms of SErvices</title>
+				<title>HUMB - Terms Of Service</title>
 			</Head>
 			<Breadcrumb />
-            <div className="container m-auto">
+            <div className="container my-4">
                 <div className="row">
                     <div>
                     <div class="heading1">
-                                        <h2 className="text-center text-secondary">Terms & Condition</h2>
-                                        <div class="space20"></div>
-                                        <h2 style={{color:"#000"}} className="text-center">User Agreement</h2>
                                         <p style={{color:"#000"}}>This is an agreement between the HumB.io entity identified in the table below (“HumB.io”, “we”, “us”, or “our”) and you (together with HumB.io, the “Parties” and each a “Party”). By using the HumB.io corporate website (the “Site”) and any services available within the Site (collectively the “Services”), you agree that you have read, understood, and accept all of the terms and conditions contained herein (the "User Agreement"), as well as our Privacy Policy, and Cookie Policy.</p>
                                 <p style={{color:"#000"}}>You may contact HumB.io via email at <a href="mailto:support@humb.io" target="_blank"  class="__cf_email__" data-cfemail="691a1c1919061b1d29011c040b470006">support@humb.io</a>.</p>
                                 <p style={{color:"#000"}}>We offer a wide range of Services, and additional terms may apply. When you use a HumB.io service, you will also be subject to the guidelines, terms, and agreements applicable to that particular service (the "Service Terms"). If this User Agreement is inconsistent with the Service Terms, the Service Terms will prevail.</p>
