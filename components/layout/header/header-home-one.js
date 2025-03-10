@@ -49,7 +49,7 @@ export default function HeaderHomeOne() {
 							<Navbar>
 								<NavItem navItemText="Trading Features" menuItems={DemoDropdownMenus} />
 								<NavItem navItemText="Ecosystem" menuItems={PagesDropdownMenus} />
-								<NavItem navItemText="Resources" menuItems={ElementsMegaMenu} />
+								{/* <NavItem navItemText="Resources" menuItems={ElementsMegaMenu} /> */}
 								<NavItem navItemText="Resources" menuItems={WhitePaper} />
 								{/* <NavItem navItemText="About Us" menuItems={BlogDropdownMenus} /> */}
 								{/* <NavItem navItemText="Support" menuItems={ContactDropdownMenus} /> */}

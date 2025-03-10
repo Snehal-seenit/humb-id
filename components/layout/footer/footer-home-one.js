@@ -9,11 +9,10 @@ export default function FooterHomeOne() {
 					<div className="col-lg-4">
 						<div className="fugu-textarea">
 							<div className="fugu-footer-logo">
-								<img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" />
+								<img src="/images/logo/footer-logo.png" alt="footer-logo" className="light-version-logo" style={{width:"160px"}} />
 							</div>
 							<p>
-								Cryptocurrency trading is offered through an account with the fugu crypto app. Our
-								simplified zero commission pricing for use stocks.
+							The Profit Sharing Crypto Exchange.
 							</p>
 							<p className="fugu-copywright">Copyright &copy; 2025 HUMB. All rights reserved.</p>
 						</div>
@@ -23,7 +22,7 @@ export default function FooterHomeOne() {
 							<span> Quick Links</span>
 							<ul>
 								<li>
-									<Link href={"#"}> About Us </Link>
+									<Link href={"/about-us"}> About Us </Link>
 								</li>
 								<li>
 									<Link href={"#"}> Trading Features </Link>
@@ -42,10 +41,10 @@ export default function FooterHomeOne() {
 							<span>Legal</span>
 							<ul>
 								<li>
-									<Link href="/">Terms of Service </Link>
+									<Link href="/terms">Terms of Service </Link>
 								</li>
 								<li>
-									<Link href="about-us">Privacy Policy </Link>
+									<Link href="/privacy-policy">Privacy Policy </Link>
 								</li>
 							</ul>
 						</div>
