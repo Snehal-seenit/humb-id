@@ -9,11 +9,10 @@
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-	reactStrictMode: false,
+	reactStrictMode: true,
 	swcMinify: true,
-	basePath: process.env.NODE_ENV === "production" ? "/id" : "",
-	assetPrefix: process.env.NODE_ENV === "production" ? "/id/" : "",
 	trailingSlash: true,
+	output: 'export'
   };
   
   module.exports = nextConfig;
