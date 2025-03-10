@@ -25,14 +25,9 @@ export default function AboutSection() {
 					</div>
 					<div className="col-xl-5 col-lg-6 col-md-11 d-flex align-items-center">
 						<div className="fugu-default-content">
-							<h2>The story behind our companys beginnings and our mission</h2>
+							<h2>Empowering Indonesia’s Crypto Traders with a Next-Gen Exchange</h2>
 							<p>
-							Our mission is to provide a secure, reliable, and low-cost trading experience for crypto traders in Indonesia. With cutting-edge technology and compliance with local regulations, we ensure a safe and transparent trading environment.
-
-							</p>
-							<p>
-								Being memorable is hard, but worth it if you want a brand for that will resonate with
-								customers, colleagues, and investors.
+								At HUMB, we're not just building a crypto exchange; we're building a community. We believe that success in the crypto world should be shared, and that's why we've created a platform that puts traders first. We're driven by a vision of a more equitable and transparent financial future, and we're committed to empowering our users every step of the way.
 							</p>
 						</div>
 					</div>

@@ -15,49 +15,37 @@ export default function FooterHomeOne() {
 								Cryptocurrency trading is offered through an account with the fugu crypto app. Our
 								simplified zero commission pricing for use stocks.
 							</p>
-							<p className="fugu-copywright">&copy; Copyright 2022, All Rights Reserved by Mthemeus</p>
+							<p className="fugu-copywright">Copyright &copy; 2025 HUMB. All rights reserved.</p>
 						</div>
 					</div>
 					<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 						<div className="fugu-footer-menu">
-							<span>Product</span>
+							<span> Quick Links</span>
 							<ul>
 								<li>
-									<Link href={"#"}> Invest </Link>
+									<Link href={"#"}> About Us </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Crypto </Link>
+									<Link href={"#"}> Trading Features </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Cash Card </Link>
+									<Link href={"#"}> Security </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Learn </Link>
-								</li>
-								<li>
-									<Link href={"#"}> Snacks </Link>
+									<Link href={"#"}> Contact Us </Link>
 								</li>
 							</ul>
 						</div>
 					</div>
 					<div className="col-lg-3 col-md-4 col-sm-4">
 						<div className="fugu-footer-menu fugu-custom-margin">
-							<span>Company</span>
+							<span>Legal</span>
 							<ul>
 								<li>
-									<Link href="/">Home </Link>
+									<Link href="/">Terms of Service </Link>
 								</li>
 								<li>
-									<Link href="about-us">About </Link>
-								</li>
-								<li>
-									<Link href="career">Careers </Link>
-								</li>
-								<li>
-									<Link href="blog">Blog </Link>
-								</li>
-								<li>
-									<Link href="single-blog-light">Blog post </Link>
+									<Link href="about-us">Privacy Policy </Link>
 								</li>
 							</ul>
 						</div>
@@ -70,7 +58,7 @@ export default function FooterHomeOne() {
 									<Link href="tel:123">+088-234-6534 </Link>
 								</li>
 								<li>
-									<Link href="mailto:name@email.com">example@gmail.com </Link>
+									<Link href="mailto:support@humb.io">support@humb.io </Link>
 								</li>
 							</ul>
 						</div>

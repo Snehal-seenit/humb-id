@@ -12,12 +12,11 @@ export default function VideoSectionThree() {
 				<div className="fugu-section-title2">
 					<div className="row">
 						<div className="col-lg-6">
-							<h2>Buy your favorite crypto at the price you want</h2>
+							<h2>Our Values:</h2>
 						</div>
 						<div className="col-lg-5 offset-lg-1 d-flex align-items-center">
 							<p>
-								This is a platform where you can buy & sell all your chosen-cryptocurrencies and digital
-								assets at affordable prices. It is a plans to leverage blockchain technology.
+								Our mission is to provide a secure, reliable, and low-cost trading experience for crypto traders in Indonesia. With cutting-edge technology and compliance with local regulations, we ensure a safe and transparent trading environment.
 							</p>
 						</div>
 					</div>

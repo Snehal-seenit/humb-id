@@ -4,5 +4,5 @@ export default function BlogLight() {
 	return <BlogInnerSection />;
 }
 export async function getStaticProps() {
-	return { props: { header: "four", footer: "four" } };
+	return { props: { header: "one", footer: "one" } };
 }

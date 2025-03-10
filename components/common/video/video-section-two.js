@@ -22,31 +22,42 @@ export default function VideoSectionTwo() {
 					</div>
 					<div className="col-lg-5 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content large-content">
-							<h2>Safe way to buy and sell crypto</h2>
-							<p>
+							<h2>Why Choose Us?</h2>
+							{/* <p>
 								You can easily buy, sell, store, and transfer cryptocurrency in one place. Get the right
 								to buy or sell stocks at a specific date for a specific price. No commissions here
 								either.
-							</p>
+							</p> */}
 							<div className="fugu-icon-list">
 								<ul>
 									<li>
 										<img src="/images/svg/check1.svg" alt="" />
-										Earn a 10-100% bonus on your weekly round-ups.
+										<p className="mb-0">Low Trading Fees</p>
+										<small className="fw-normal">Maximize your profits with the lowest transaction costs.</small>
 									</li>
 									<li>
 										<img src="/images/svg/check1.svg" alt="" />
-										Save money when you shop at some of your spots.
+										<p className="mb-0">Fast & Secure</p>
+										<small className="fw-normal">Instant trade execution with bank-level security.</small>
 									</li>
 									<li>
 										<img src="/images/svg/check1.svg" alt="" />
-										Automatically invest part of every pay of crypto.
+										<p className="mb-0">User-Friendly Interface</p>
+										<small className="fw-normal">Designed for beginners & professionals.</small>
+									</li>
+									<li>
+										<img src="/images/svg/check1.svg" alt="" />
+										<p className="mb-0">Powerful Trading Tools</p>
+										<small className="fw-normal">Real-time market data, advanced charts & analytics.</small>
 									</li>
 								</ul>
 							</div>
 						</div>
 					</div>
 				</div>
+				<div class="fugu-btn-wrap"><a class="fugu-btn" href="https://app.humb.io">Explore Trading Features</a></div>
+			
+			
 			</div>
 			<ModalVideo
 				channel="youtube"

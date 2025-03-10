@@ -27,7 +27,7 @@ export default function HeroSection() {
 									</a>
 								</Link>
 							</div> */}
-							<div className="fugu-hero-client-area wow fadeInUpX" data-wow-delay="0.50s">
+							{/* <div className="fugu-hero-client-area wow fadeInUpX" data-wow-delay="0.50s">
 								<div className="fugu-hero-client-wrap">
 									<div className="fugu-hero-client-thumb">
 										<img src="/images/all-img/client.png" alt="title" />
@@ -58,7 +58,7 @@ export default function HeroSection() {
 										<li>Rating</li>
 									</ul>
 								</div>
-							</div>
+							</div> */}
 						</div>
 					</div>
 					<div className="col-xl-6 col-lg-5">

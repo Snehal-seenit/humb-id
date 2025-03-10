@@ -5,6 +5,7 @@ import {
 	ContactDropdownMenus,
 	DemoDropdownMenus,
 	ElementsMegaMenu,
+	WhitePaper,
 	PagesDropdownMenus,
 } from "../navbar/menu-data";
 import NavItem from "../navbar/nav-item";
@@ -30,7 +31,7 @@ export default function HeaderHomeOne() {
 				<nav className="navbar site-navbar">
 					<div className="brand-logo">
 						<Link href={"/"}>
-							<img src="/id/images/logo/logo-black.svg" alt="logo" className="light-version-logo" />
+							<img src="/images/logo/Logo (1).png" alt="logo" className="light-version-logo" />
 						</Link>
 					</div>
 					<div className="menu-block-wrapper">
@@ -46,17 +47,28 @@ export default function HeaderHomeOne() {
 							</div>
 
 							<Navbar>
-								<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
-								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
-								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
-								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
-								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
+								<NavItem navItemText="Trading Features" menuItems={DemoDropdownMenus} />
+								<NavItem navItemText="Ecosystem" menuItems={PagesDropdownMenus} />
+								<NavItem navItemText="Resources" menuItems={ElementsMegaMenu} />
+								<NavItem navItemText="Resources" menuItems={WhitePaper} />
+								{/* <NavItem navItemText="About Us" menuItems={BlogDropdownMenus} /> */}
+								{/* <NavItem navItemText="Support" menuItems={ContactDropdownMenus} /> */}
+								<li class="nav-item nav-item-has-children">
+								<Link href="about-us" className="nav-link-item drop-trigger">About </Link>
+									{/* <a href="#" class="nav-link-item drop-trigger">About Us</a> */}
+								</li>
+								<li class="nav-item nav-item-has-children">
+									<Link href="https://humb.support" target="_blank" rel="noopener noreferrer" className="nav-link-item drop-trigger">Support</Link>
+								</li>
+								
 							</Navbar>
+
+							
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="fugu-btn fugu-header-btn" href="contact.html">
-							Get Started
+						<a className="fugu-btn fugu-header-btn" href="https://app.humb.io/">
+							Login / Sign Up
 						</a>
 					</div>
 

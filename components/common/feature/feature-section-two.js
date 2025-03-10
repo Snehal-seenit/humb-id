@@ -6,7 +6,7 @@ export default function FeatureSectionTwo() {
 		<div className="section bg-warning-400 fugu-section-padding3">
 			<div className="container">
 				<div className="fugu-section-title title-large">
-					<h2>Combines the best features of crypto</h2>
+					<h2>Why Choose Us?</h2>
 				</div>
 				<div className="row">
 					<div className="col-lg-6">
@@ -15,10 +15,9 @@ export default function FeatureSectionTwo() {
 								<img src="/images/all-img/icon1.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4>Industry-leading security</h4>
+								<h4>Low Fees:</h4>
 								<p>
-									Security tokens are digital that represent & transferred ownership rights to a
-									blockchain token.
+								Highlight competitive fee structures that benefit both casual and professional traders.
 								</p>
 								<Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
@@ -34,10 +33,9 @@ export default function FeatureSectionTwo() {
 								<img src="/images/all-img/icon2.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4>Ownership over your coins</h4>
+								<h4>Fast and Secure Transactions: </h4>
 								<p>
-									The most reliable way to prove ownership of crypto currencies is to sign a specified
-									message with a key.
+									Emphasize robust security measures and swift transaction processing times.
 								</p>
 								<Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
@@ -53,10 +51,9 @@ export default function FeatureSectionTwo() {
 								<img src="/images/all-img/icon3.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4>Cold storage for most users</h4>
+								<h4>User-Friendly Interface:</h4>
 								<p>
-									A cold wallet, otherwise known as a hardware wallet cold storage, is a physical
-									device that keeps offline.
+									Showcase an intuitive platform design that caters to both beginners and seasoned traders.
 								</p>
 								<Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
@@ -72,10 +69,9 @@ export default function FeatureSectionTwo() {
 								<img src="/images/all-img/icon4.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4>Crime insurance against theft</h4>
+								<h4>Powerful Trading Tools:</h4>
 								<p>
-									Crime insurance protects a company from loss of money, securities, inventory from
-									fraud events.
+									Detail advanced charting tools, real-time market data, and customizable trading options.
 								</p>
 								<Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">

@@ -21,5 +21,5 @@ export default function AboutLight() {
 }
 
 export async function getStaticProps() {
-	return { props: { header: "four", footer: "four" } };
+	return { props: { header: "one", footer: "one" } };
 }

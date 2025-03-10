@@ -13,7 +13,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>fugu - index -01</title>
+				<title>HUMB</title>
 			</Head>
 			<HeroSection />
 			<ClientSliderOne />

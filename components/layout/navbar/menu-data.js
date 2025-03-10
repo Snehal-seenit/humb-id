@@ -287,6 +287,13 @@ export const ElementsMegaMenu = [
 	},
 ];
 
+export const WhitePaper = [
+	{
+	  title: "WhitePaper",
+	  path: "/whitepaper", // Add a leading slash
+	}
+  ];
+
 export const BlogDropdownMenus = [
 	{
 		title: "Blog Dark",
@@ -318,17 +325,17 @@ export const BlogDropdownMenus = [
 	},
 ];
 
-export const ContactDropdownMenus = [
-	{
-		title: "Contact Dark",
-		path: "contact-dark",
-	},
-	{
-		title: "Contact Light 01",
-		path: "contact",
-	},
-	{
-		title: "Contact Light 02",
-		path: "contact-light",
-	},
-];
+// export const ContactDropdownMenus = [
+// 	{
+// 		title: "Contact Dark",
+// 		path: "contact-dark",
+// 	},
+// 	{
+// 		title: "Contact Light 01",
+// 		path: "contact",
+// 	},
+// 	{
+// 		title: "Contact Light 02",
+// 		path: "contact-light",
+// 	},
+// ];
