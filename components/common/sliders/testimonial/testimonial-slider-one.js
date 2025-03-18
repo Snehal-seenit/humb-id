@@ -29,9 +29,9 @@ export default function TestimonialSliderOne() {
 		<div className="fugu-testimonial-section fugu-section-padding2">
 			<div className="container">
 				<div className="fugu-section-title title-large">
-					<h2>User gives feedback using our crypto app</h2>
+					<h2>HUMB's Roadmap</h2>
 				</div>
-				<div className="fugu-testimonial-slider">
+				{/* <div className="fugu-testimonial-slider">
 					<Slider {...settings}>
 						<div className="fugu-testimonial-card">
 							<div className="fugu-testimonial-author-wrap">
@@ -136,7 +136,8 @@ export default function TestimonialSliderOne() {
 							</p>
 						</div>
 					</Slider>
-				</div>
+				</div> */}
+				<img src="/images/logo/roadmap.jpg" alt="roadmap-img" />
 			</div>
 		</div>
 	);

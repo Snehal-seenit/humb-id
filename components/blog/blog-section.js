@@ -8,7 +8,7 @@ export default function BlogSection() {
 			<div className="container">
 				<div className="row">
 					<BlogPost />
-					<BlogSidebarSection />
+					{/* <BlogSidebarSection /> */}
 				</div>
 			</div>
 		</div>

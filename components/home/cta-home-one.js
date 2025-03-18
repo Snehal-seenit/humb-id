@@ -14,13 +14,15 @@ export default function CtaHomeOne() {
 					</div>
 					<div className="col-lg-6 d-flex align-items-center">
 						<div className="fugu-cta-app-btn-wrap">
-							<Link href={"contact"} legacyBehavior>
-								<a className="fugu-app-btn wow fadeInUpX" data-wow-delay="0s">
+							<Link href="https://apps.apple.com/us/app/humb/id6737500757" legacyBehavior>
+								<a className="fugu-app-btn wow fadeInUpX" data-wow-delay="0s" target="_blank" 
+    rel="noopener noreferrer">
 									<img src="/images/all-img/app-store.png" alt="" />
 								</a>
 							</Link>
-							<Link href={"contact"} legacyBehavior>
-								<a className="fugu-app-btn wow fadeInUpX" data-wow-delay=".20s">
+							<Link href="https://play.google.com/store/apps/details?id=com.humb.humbnow&pcampaignid=web_share" legacyBehavior>
+								<a className="fugu-app-btn wow fadeInUpX" data-wow-delay=".20s" target="_blank" 
+    rel="noopener noreferrer">
 									<img src="/images/all-img/play-store.png" alt="" />
 								</a>
 							</Link>

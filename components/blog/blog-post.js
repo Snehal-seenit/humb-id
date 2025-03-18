@@ -5,17 +5,17 @@ import BlogPagination from "./blog-pagination";
 
 export default function BlogPost() {
 	return (
-		<div className="col-xl-8 col-lg-7">
+		<div className="col-xl-12 col-lg-7">
 			<div className="row">
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				<div className="col-xl-4 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay="0s">
 						<div className="fugu-blog-thumb">
-							<Link href={"/single-blog-light"}>
-								<img src="/images/all-img/blog/blog1.png" alt="" />
+							<Link href={"blogs/blockchain-transforming-healthcar"}>
+								<img src="/images/all-img/Blog1.jpg" alt="" style={{objectFit:"fill"}} />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
-							<div className="fugu-blog-meta">
+							{/* <div className="fugu-blog-meta">
 								<ul>
 									<li>
 										<Link href={"/"}>Article</Link>
@@ -24,17 +24,16 @@ export default function BlogPost() {
 										<Link href={"/"}>August 26, 2022</Link>
 									</li>
 								</ul>
-							</div>
+							</div> */}
 							<h5>
-								<Link href={"/single-blog-light"}>
-									Do you need a blockchain project? Six very easy steps to verify it as wise
-								</Link>
+								<Link href={"blogs/blockchain-transforming-healthcar"}>
+								How Blockchain is Transforming Healthcare:								</Link>
 							</h5>
-							<p>
+							{/* <p>
 								You may be fascinated by blockchain technology, hearing about all those
 								ground-breaking...
-							</p>
-							<Link href={"/single-blog-light"} legacyBehavior>
+							</p> */}
+							<Link href={"blogs/blockchain-transforming-healthcar"} legacyBehavior>
 								<a className="fugu-icon-btn">
 									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
 								</a>
@@ -42,15 +41,15 @@ export default function BlogPost() {
 						</div>
 					</div>
 				</div>
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				<div className="col-xl-4 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".10s">
 						<div className="fugu-blog-thumb">
-							<Link href={"/single-blog-light"}>
-								<img src="/images/all-img/blog/blog2.png" alt="" />
+							<Link href={"blogs/healthcare-and-cryptoworld"}>
+								<img src="/images/all-img/Blog2.jpg" alt="" style={{objectFit:"fill"}} />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
-							<div className="fugu-blog-meta">
+							{/* <div className="fugu-blog-meta">
 								<ul>
 									<li>
 										<Link href={"/"}>Article</Link>
@@ -59,17 +58,17 @@ export default function BlogPost() {
 										<Link href={"/"}>August 26, 2022</Link>
 									</li>
 								</ul>
-							</div>
+							</div> */}
 							<h5>
-								<Link href={"/single-blog-light"}>
-									How to build NFT marketplace here give a step-by-step guide to help you
+								<Link href={"blogs/healthcare-and-cryptoworld"}>
+								Market Analysis: Opportunities in the Healthcare & Crypto World
 								</Link>
 							</h5>
-							<p>
+							{/* <p>
 								An NFT marketplace is an online platform based on blockchain that allows selling and
 								buying...
-							</p>
-							<Link href={"/single-blog-light"} legacyBehavior>
+							</p> */}
+							<Link href={"blogs/healthcare-and-cryptoworld"} legacyBehavior>
 								<a className="fugu-icon-btn">
 									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
 								</a>
@@ -77,15 +76,15 @@ export default function BlogPost() {
 						</div>
 					</div>
 				</div>
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				<div className="col-xl-4 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".20s">
 						<div className="fugu-blog-thumb">
-							<Link href={"/single-blog-light"}>
-								<img src="/images/all-img/blog/blog3.png" alt="" />
+							<Link href={"blogs/humb-revolution"}>
+								<img src="/images/all-img/Blog3.jpg" alt="" style={{objectFit:"fill"}}/>
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
-							<div className="fugu-blog-meta">
+							{/* <div className="fugu-blog-meta">
 								<ul>
 									<li>
 										<Link href={"/"}>Article</Link>
@@ -94,17 +93,17 @@ export default function BlogPost() {
 										<Link href={"/"}>August 26, 2022</Link>
 									</li>
 								</ul>
-							</div>
+							</div> */}
 							<h5>
-								<Link href={"/single-blog-light"}>
-									Making life of blockchain developers flawless interview with our solutions
+								<Link href={"blogs/humb-revolution"}>
+								HUMB Revolution: The First Healthcare-Focused Crypto Exchange
 								</Link>
 							</h5>
-							<p>
+							{/* <p>
 								The work of people responsible for consulting & analysis, the intermediaries between
 								ideas...
-							</p>
-							<Link href={"/single-blog-light"} legacyBehavior>
+							</p> */}
+							<Link href={"blogs/humb-revolution"} legacyBehavior>
 								<a className="fugu-icon-btn">
 									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
 								</a>
@@ -112,7 +111,7 @@ export default function BlogPost() {
 						</div>
 					</div>
 				</div>
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				{/* <div className="col-xl-6 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".30s">
 						<div className="fugu-blog-thumb">
 							<Link href={"/single-blog-light"}>
@@ -146,8 +145,8 @@ export default function BlogPost() {
 							</Link>
 						</div>
 					</div>
-				</div>
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				</div> */}
+				{/* <div className="col-xl-6 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".40s">
 						<div className="fugu-blog-thumb">
 							<Link href={"/single-blog-light"}>
@@ -181,8 +180,8 @@ export default function BlogPost() {
 							</Link>
 						</div>
 					</div>
-				</div>
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				</div> */}
+				{/* <div className="col-xl-6 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".50s">
 						<div className="fugu-blog-thumb">
 							<Link href={"/single-blog-light"}>
@@ -215,9 +214,9 @@ export default function BlogPost() {
 							</Link>
 						</div>
 					</div>
-				</div>
+				</div> */}
 			</div>
-			<BlogPagination />
+			{/* <BlogPagination /> */}
 		</div>
 	);
 }

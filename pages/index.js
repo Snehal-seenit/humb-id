@@ -22,7 +22,7 @@ export default function Home() {
 			<VideoSectionTwo />
 			<ContentWithPhotoSectionTwo />
 			<TestimonialSliderOne />
-			<FaqHomeOne />
+			{/* <FaqHomeOne /> */}
 			<CtaHomeOne />
 		</>
 	);

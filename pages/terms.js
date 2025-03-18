@@ -12,8 +12,7 @@ export default function Terms() {
 			<Breadcrumb />
             <div className="container my-4">
                 <div className="row">
-                    <div>
-                    <div class="heading1">
+                    <h2>User Agreement</h2>
                                         <p style={{color:"#000"}}>This is an agreement between the HumB.io entity identified in the table below (“HumB.io”, “we”, “us”, or “our”) and you (together with HumB.io, the “Parties” and each a “Party”). By using the HumB.io corporate website (the “Site”) and any services available within the Site (collectively the “Services”), you agree that you have read, understood, and accept all of the terms and conditions contained herein (the "User Agreement"), as well as our Privacy Policy, and Cookie Policy.</p>
                                 <p style={{color:"#000"}}>You may contact HumB.io via email at <a href="mailto:support@humb.io" target="_blank"  class="__cf_email__" data-cfemail="691a1c1919061b1d29011c040b470006">support@humb.io</a>.</p>
                                 <p style={{color:"#000"}}>We offer a wide range of Services, and additional terms may apply. When you use a HumB.io service, you will also be subject to the guidelines, terms, and agreements applicable to that particular service (the "Service Terms"). If this User Agreement is inconsistent with the Service Terms, the Service Terms will prevail.</p>
@@ -86,8 +85,6 @@ By submitting an idea or feedback or any related material that would be subject 
  </p>   
  <p style={{color:"#000"}}>HUMB Native Token is not intended to represent any securities, it is a Utility Token and participants should not expect any returns from Holding the HUMB Token.</p>  		
  <p style={{color:"#000"}}>The value of HUMB Native Token may fluctuate & we do not guarantee any specific value or liquidity.</p>                                        
-                   </div>
-                    </div>
                 </div>
             </div>
            

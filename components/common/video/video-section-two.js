@@ -11,18 +11,18 @@ export default function VideoSectionTwo() {
 				<div className="row">
 					<div className="col-lg-6 offset-lg-1 order-lg-2">
 						<div className="fugu-video-thumb wow fadeInUpX" data-wow-delay=".20s">
-							<img src="/images/all-img/video-thumb.png" alt="" />
-							<div className="fugu-popup">
+							<img src="/images/all-img/features.png" alt="" style={{width:"359px",height:"650px"}}/>
+							{/* <div className="fugu-popup">
 								<img src="/images/all-img/video-btn.png" alt="" />
 								<div className="fugu-play-btn" onClick={() => setOpen(true)}>
 									<img src="/images/all-img/play-btn.png" alt="" />
 								</div>
-							</div>
+							</div> */}
 						</div>
 					</div>
 					<div className="col-lg-5 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content large-content">
-							<h2>Why Choose Us?</h2>
+							<h2>HUMB Trading Features 1</h2>
 							{/* <p>
 								You can easily buy, sell, store, and transfer cryptocurrency in one place. Get the right
 								to buy or sell stocks at a specific date for a specific price. No commissions here
@@ -31,31 +31,27 @@ export default function VideoSectionTwo() {
 							<div className="fugu-icon-list">
 								<ul>
 									<li>
-										<img src="/images/svg/check1.svg" alt="" />
-										<p className="mb-0">Low Trading Fees</p>
-										<small className="fw-normal">Maximize your profits with the lowest transaction costs.</small>
+										{/* <img src="/images/svg/check1.svg" alt="" /> */}
+										<p className="mb-0">💰 Spot Trading</p>
+										<small className="fw-normal"> Buy & sell crypto with real-time liquidity.
+										</small>
 									</li>
 									<li>
-										<img src="/images/svg/check1.svg" alt="" />
-										<p className="mb-0">Fast & Secure</p>
-										<small className="fw-normal">Instant trade execution with bank-level security.</small>
+										{/* <img src="/images/svg/check1.svg" alt="" /> */}
+										<p className="mb-0">📈 Copy Trading</p>
+										<small className="fw-normal">Mirror top-performing traders.</small>
 									</li>
 									<li>
-										<img src="/images/svg/check1.svg" alt="" />
-										<p className="mb-0">User-Friendly Interface</p>
-										<small className="fw-normal">Designed for beginners & professionals.</small>
-									</li>
-									<li>
-										<img src="/images/svg/check1.svg" alt="" />
-										<p className="mb-0">Powerful Trading Tools</p>
-										<small className="fw-normal">Real-time market data, advanced charts & analytics.</small>
+										{/* <img src="/images/svg/check1.svg" alt="" /> */}
+										<p className="mb-0">⚡ Crypto Swap</p>
+										<small className="fw-normal">Convert assets seamlessly.  Swap crypto to crypto instantly.</small>
 									</li>
 								</ul>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="fugu-btn-wrap"><a class="fugu-btn" href="https://app.humb.io">Explore Trading Features</a></div>
+				<div className="fugu-btn-wrap"><a className="fugu-btn" href="https://app.humb.io" target="_blank">Explore Trading Features</a></div>
 			
 			
 			</div>

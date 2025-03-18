@@ -8,7 +8,7 @@ export default function WhitepaperSection() {
 			<div className="container">
 				<div className="row">
 					<WhitepaperPost />
-					<WhitepaperSidebarSection />
+					{/* <WhitepaperSidebarSection /> */}
 				</div>
 			</div>
 		</div>

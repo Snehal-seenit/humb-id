@@ -2,14 +2,12 @@ export const DemoDropdownMenus = [
 	{
 		title: "Spot Trading",
 		path: "https://app.humb.io/spot-trading/SOLUSDT",
+		target: "_blank",
+		rel: "noopener noreferrer",
 	},
 	{
 		title: "Margin Trading",
 		path: "https://app.humb.io/margin-trading/BTCUSDT",
-	},
-	{
-		title: "Futures & Derivatives",
-		path: "index-three",
 	},
 	{
 		title: "Copy Trading",
@@ -23,7 +21,7 @@ export const DemoDropdownMenus = [
 export const PagesDropdownMenus = [
 	{
 		title: "HUMB Token Utilit",
-		path: "about",
+		path: "/token",
 		// submenu: [
 		// 	{
 		// 		title: "About Dark",
@@ -41,7 +39,7 @@ export const PagesDropdownMenus = [
 	},
 	{
 		title: "Launchpad",
-		path: "blog",
+		path: "https://app.humb.io/launchpad",
 		// submenu: [
 		// 	{
 		// 		title: "Blog Light",
@@ -61,24 +59,24 @@ export const PagesDropdownMenus = [
 		// 	},
 		// ],
 	},
-	{
-		title: "Secure Wallet",
-		path: "blog-dark",
-		// submenu: [
-		// 	{
-		// 		title: "Blog Dark",
-		// 		path: "blog-dark",
-		// 	},
-		// 	{
-		// 		title: "Blog Dark Sidebar",
-		// 		path: "blog-dark-sidebar",
-		// 	},
-		// 	{
-		// 		title: "Blog Dark Details",
-		// 		path: "single-blog-dark",
-		// 	},
-		// ],
-	},
+	// {
+	// 	title: "Secure Wallet",
+	// 	path: "blog-dark",
+	// 	// submenu: [
+	// 	// 	{
+	// 	// 		title: "Blog Dark",
+	// 	// 		path: "blog-dark",
+	// 	// 	},
+	// 	// 	{
+	// 	// 		title: "Blog Dark Sidebar",
+	// 	// 		path: "blog-dark-sidebar",
+	// 	// 	},
+	// 	// 	{
+	// 	// 		title: "Blog Dark Details",
+	// 	// 		path: "single-blog-dark",
+	// 	// 	},
+	// 	// ],
+	// },
 	// {
 	// 	title: "Service",
 	// 	path: "#",
@@ -292,10 +290,10 @@ export const WhitePaper = [
 	  title: "WhitePaper",
 	  path: "/whitepaper", // Add a leading slash
 	},
-	{
-		title: "Articles",
-		path: "/articles",
-	},
+	// {
+	// 	title: "Articles",
+	// 	path: "/articles",
+	// },
 	{
 		title: "Blog",
 		path: "/blog",

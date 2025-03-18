@@ -47,17 +47,17 @@ export default function HeaderHomeOne() {
 							</div>
 
 							<Navbar>
-								<NavItem navItemText="Trading Features" menuItems={DemoDropdownMenus} />
+								<NavItem navItemText="Trading Features" menuItems={DemoDropdownMenus}  />
 								<NavItem navItemText="Ecosystem" menuItems={PagesDropdownMenus} />
 								{/* <NavItem navItemText="Resources" menuItems={ElementsMegaMenu} /> */}
 								<NavItem navItemText="Resources" menuItems={WhitePaper} />
 								{/* <NavItem navItemText="About Us" menuItems={BlogDropdownMenus} /> */}
 								{/* <NavItem navItemText="Support" menuItems={ContactDropdownMenus} /> */}
-								<li class="nav-item nav-item-has-children">
+								<li className="nav-item nav-item-has-children">
 								<Link href="about-us" className="nav-link-item drop-trigger">About </Link>
 									{/* <a href="#" class="nav-link-item drop-trigger">About Us</a> */}
 								</li>
-								<li class="nav-item nav-item-has-children">
+								<li className="nav-item nav-item-has-children">
 									<Link href="https://humb.support" target="_blank" rel="noopener noreferrer" className="nav-link-item drop-trigger">Support</Link>
 								</li>
 								

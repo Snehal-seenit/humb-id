@@ -7,7 +7,7 @@ export default function Breadcrumb() {
 			<div className="container">
 				<div className="breadcrumbs">
 					<h1 className="wow fadeInUpX" data-wow-delay="0s">
-                        Privacy Policy
+                        HUMB Token Utility
 					</h1>
 					<nav aria-label="breadcrumb" className="wow fadeInUpX" data-wow-delay="0.15s">
 						<ol className="breadcrumb">
@@ -15,7 +15,7 @@ export default function Breadcrumb() {
 								<Link href={"/"}>Home</Link>
 							</li>
 							<li className="breadcrumb-item active" aria-current="page">
-                                Privacy Policy
+                            HUMB Token Utility
 							</li>
 						</ol>
 					</nav>

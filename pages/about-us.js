@@ -16,12 +16,12 @@ export default function AboutUs() {
 			</Head>
 			<Breadcrumb />
 			<AboutSection />
-			<FeatureOneSection />
-			<VideoSectionThree />
-			<CounterOneSection />
-			<TeamSection />
-			<FaqSection />
-			<ClientSliderTwo />
+			{/* <FeatureOneSection /> */}
+			{/* <VideoSectionThree /> */}
+			{/* <CounterOneSection /> */}
+			{/* <TeamSection /> */}
+			{/* <FaqSection /> */}
+			{/* <ClientSliderTwo /> */}
 		</>
 	);
 }

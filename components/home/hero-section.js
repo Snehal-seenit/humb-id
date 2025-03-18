@@ -9,12 +9,11 @@ export default function HeroSection() {
 					<div className="col-xl-6 col-lg-7">
 						<div className="fugu-hero-content">
 							<h1 className="wow fadeInUpX" data-wow-delay="0s">
-							Trade Crypto with Low Fees, Fast & Secure Transactions!
+							Trade Crypto with Low Fees, Fast & Secure Transactions with High Liquidity!
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.25s">
-							"Join Indonesia's premier crypto exchange offering low fees and advanced trading tools."
-							</p>
-							<div class="fugu-btn-wrap"><a class="fugu-btn" href="https://app.humb.io/">Start Trading Now</a></div>
+							"Join Indonesia's premier crypto exchange, designing for seamless and secure trading.”							</p>
+							<div className="fugu-btn-wrap"><a className="fugu-btn" href="https://app.humb.io/login" target="_blank">Start Trading Now</a></div>
 							{/* <div className="fugu-app-btn-wrap wow fadeInUpX" data-wow-delay="0.40s">
 								<Link href={"contact"} legacyBehavior>
 									<a className="fugu-app-btn">
@@ -63,7 +62,7 @@ export default function HeroSection() {
 					</div>
 					<div className="col-xl-6 col-lg-5">
 						<div className="fugu-hero-thumb">
-							<img src="/images/all-img/hand-mocup.png" alt="title" />
+							<img src="/images/all-img/product image cutting.png" alt="hero-img" />
 							<div className="fugu-shape2">
 								<img src="/images/shape/shape2.png" alt="title" />
 							</div>

@@ -93,12 +93,12 @@ export default function FooterHomeFive() {
 							</div>
 							<div className="fugu--info">
 								<ul>
-									<li>
+									{/* <li>
 										<Link href="#">
 											<img src="/images/svg2/phone.svg" alt="" />
 											+088-234-6534
 										</Link>
-									</li>
+									</li> */}
 									<li>
 										<Link href="#">
 											<img src="/images/svg2/mail.svg" alt="" />

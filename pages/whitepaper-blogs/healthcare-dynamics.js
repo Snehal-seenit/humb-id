@@ -2,7 +2,7 @@
 import WhitepaperSingleBlogContainer from "../../components/whitepaper/whitepaper-blogs-details/whitepaper-single-blogs-details";
 import WhitepaperCrumbSection from "../../components/whitepaper/whitepaperCrumb-section";
 
-export default function SingleBlog() {
+export default function HealthcareDynamics() {
 	return (
 		<>
 			<WhitepaperCrumbSection />

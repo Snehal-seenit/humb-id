@@ -25,46 +25,58 @@ export default function FooterHomeOne() {
 									<Link href={"/about-us"}> About Us </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Trading Features </Link>
+									<Link href="https://humb.support/" target="_blank"> Contact Us </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Security </Link>
+									<Link href="/privacy-policy"> Privacy Policy </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Contact Us </Link>
+									<Link href="/terms"> Terms Of Service </Link>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div className="col-lg-2 col-md-4 col-sm-4">
+						<div className="fugu-footer-menu fugu-custom-margin">
+							<span>Resources</span>
+							<ul>
+								<li>
+									<Link href="/whitepaper">Whitepaper </Link>
+								</li>
+								{/* <li>
+									<Link href="/articles">Articles </Link>
+								</li> */}
+								<li>
+									<Link href="/blog">Blog </Link>
 								</li>
 							</ul>
 						</div>
 					</div>
 					<div className="col-lg-3 col-md-4 col-sm-4">
 						<div className="fugu-footer-menu fugu-custom-margin">
-							<span>Legal</span>
+							<span>Trade</span>
 							<ul>
 								<li>
-									<Link href="/terms">Terms of Service </Link>
+									<Link href="https://app.humb.io/spot-trading/SOLUSDT" target="_blank">Spot Trading </Link>
 								</li>
 								<li>
-									<Link href="/privacy-policy">Privacy Policy </Link>
+									<Link href="https://app.humb.io/margin-trading/BTCUSDT" target="_blank">Margin Trading </Link>
+								</li>
+								<li>
+									<Link href="https://app.humb.io/copy-trade" target="_blank">Copy Trading </Link>
+								</li>
+								<li>
+									<Link href="https://app.humb.io/currency-conversion" target="_blank">Swap </Link>
 								</li>
 							</ul>
 						</div>
 					</div>
-					<div className="col-lg-2 col-md-4 col-sm-4">
-						<div className="fugu-footer-menu">
-							<span>Contact</span>
+					
+				</div>
+				<div className="fugu-social-icon">
 							<ul>
 								<li>
-									<Link href="tel:123">+088-234-6534 </Link>
-								</li>
-								<li>
-									<Link href="mailto:support@humb.io">support@humb.io </Link>
-								</li>
-							</ul>
-						</div>
-						<div className="fugu-social-icon">
-							<ul>
-								<li>
-									<Link href={"#"}>
+									<Link href="https://x.com/i/flow/login?redirect_after_login=%2Fhumbexchange" target="_blank" rel="noopener noreferrer" >
 										<svg
 											width="13"
 											height="11"
@@ -80,7 +92,8 @@ export default function FooterHomeOne() {
 									</Link>
 								</li>
 								<li>
-									<Link href={"#"}>
+									<Link href="https://www.facebook.com/HUMBExchange" target="_blank" 
+rel="noopener noreferrer">
 										<svg
 											width="8"
 											height="14"
@@ -96,7 +109,7 @@ export default function FooterHomeOne() {
 									</Link>
 								</li>
 								<li>
-									<Link href={"#"}>
+									<Link href="https://www.instagram.com/humbexchange/" target="_blank" rel="noopener noreferrer">
 										<svg
 											width="16"
 											height="16"
@@ -120,8 +133,8 @@ export default function FooterHomeOne() {
 									</Link>
 								</li>
 								<li>
-									<Link href={"#"}>
-										<svg
+									<Link href="https://www.linkedin.com/company/99412147/admin/dashboard/" target="_blank" rel="noopener noreferrer">
+										{/* <svg
 											width="15"
 											height="15"
 											viewBox="0 0 15 15"
@@ -134,13 +147,14 @@ export default function FooterHomeOne() {
 												d="M7.65173 0.742188C3.80429 0.742188 0.708984 3.83749 0.708984 7.68493C0.708984 10.7513 2.70502 13.3548 5.45319 14.2805C5.80033 14.3384 5.91604 14.1359 5.91604 13.9334C5.91604 13.7598 5.91604 13.3259 5.91604 12.7474C3.97786 13.1813 3.57287 11.8217 3.57287 11.8217C3.25466 11.0117 2.79181 10.8092 2.79181 10.8092C2.15539 10.3752 2.84966 10.3752 2.84966 10.3752C3.54394 10.4331 3.92 11.0985 3.92 11.0985C4.52749 12.1688 5.53998 11.8506 5.94497 11.677C6.00283 11.2142 6.1764 10.9249 6.37889 10.7513C4.8457 10.5777 3.22573 9.97025 3.22573 7.30887C3.22573 6.55674 3.48608 5.92032 3.94893 5.45747C3.89108 5.2839 3.63072 4.58963 4.00679 3.60607C4.00679 3.60607 4.58535 3.4325 5.91604 4.32927C6.46568 4.18463 7.07317 4.09785 7.65173 4.09785C8.23029 4.09785 8.83778 4.18463 9.38742 4.32927C10.7181 3.4325 11.2967 3.60607 11.2967 3.60607C11.6727 4.5607 11.4413 5.25497 11.3545 5.45747C11.7884 5.94925 12.0777 6.55674 12.0777 7.30887C12.0777 9.97025 10.4578 10.5488 8.89564 10.7224C9.15599 10.9249 9.35849 11.3588 9.35849 11.9952C9.35849 12.9209 9.35849 13.6731 9.35849 13.9045C9.35849 14.078 9.4742 14.3095 9.85027 14.2516C12.5984 13.3548 14.5945 10.7513 14.5945 7.68493C14.5945 3.83749 11.4992 0.742188 7.65173 0.742188Z"
 												fill="white"
 											></path>
-										</svg>
+										</svg> */}
+										<svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7 9H9V17H7V9ZM8 6C7.45 6 7 6.45 7 7C7 7.55 7.45 8 8 8C8.55 8 9 7.55 9 7C9 6.45 8.55 6 8 6ZM11 9H13V10.3C13.5 9.5 14.5 9 15.5 9C17.43 9 18 10.24 18 12.08V17H16V12.5C16 11.5 15.78 11 15 11C14.22 11 14 11.5 14 12.5V17H12V9H11Z" fill="white"/>
+</svg>
 									</Link>
 								</li>
 							</ul>
 						</div>
-					</div>
-				</div>
 			</div>
 		</footer>
 	);

@@ -6,7 +6,7 @@ export default function FeatureSectionTwo() {
 		<div className="section bg-warning-400 fugu-section-padding3">
 			<div className="container">
 				<div className="fugu-section-title title-large">
-					<h2>Why Choose Us?</h2>
+					<h2>Why Choose HUMB</h2>
 				</div>
 				<div className="row">
 					<div className="col-lg-6">
@@ -17,13 +17,13 @@ export default function FeatureSectionTwo() {
 							<div className="fugu-iconbox-data">
 								<h4>Low Fees:</h4>
 								<p>
-								Highlight competitive fee structures that benefit both casual and professional traders.
+									Trades get to keep more profits with ultra-low transaction fees.
 								</p>
-								<Link href={"/"} legacyBehavior>
+								{/* <Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
 									</a>
-								</Link>
+								</Link> */}
 							</div>
 						</div>
 					</div>
@@ -35,13 +35,13 @@ export default function FeatureSectionTwo() {
 							<div className="fugu-iconbox-data">
 								<h4>Fast and Secure Transactions: </h4>
 								<p>
-									Emphasize robust security measures and swift transaction processing times.
+								Enjoy bank-level security with instant trade execution.
 								</p>
-								<Link href={"/"} legacyBehavior>
+								{/* <Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
 									</a>
-								</Link>
+								</Link> */}
 							</div>
 						</div>
 					</div>
@@ -51,15 +51,15 @@ export default function FeatureSectionTwo() {
 								<img src="/images/all-img/icon3.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4>User-Friendly Interface:</h4>
+								<h4>User-Friendly Platform:</h4>
 								<p>
-									Showcase an intuitive platform design that caters to both beginners and seasoned traders.
+									Designed for both novices and professionals traders.
 								</p>
-								<Link href={"/"} legacyBehavior>
+								{/* <Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
 									</a>
-								</Link>
+								</Link> */}
 							</div>
 						</div>
 					</div>
@@ -69,15 +69,15 @@ export default function FeatureSectionTwo() {
 								<img src="/images/all-img/icon4.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4>Powerful Trading Tools:</h4>
+								<h4>Real-Time Market Insights:</h4>
 								<p>
-									Detail advanced charting tools, real-time market data, and customizable trading options.
+								Get instant access to price updates & analytics.
 								</p>
-								<Link href={"/"} legacyBehavior>
+								{/* <Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
 									</a>
-								</Link>
+								</Link> */}
 							</div>
 						</div>
 					</div>

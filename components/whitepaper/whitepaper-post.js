@@ -5,17 +5,17 @@ import BlogPagination from "../blog/blog-pagination";
 
 export default function WhitepaperPost() {
 	return (
-		<div className="col-xl-8 col-lg-7">
+		<div className="col-xl-12 col-lg-7">
 			<div className="row">
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				<div className="col-xl-4 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay="0s">
 						<div className="fugu-blog-thumb">
-							<Link href={"whitepaper-blogs/single-blog-light"}>
-								<img src="/images/all-img/blog/blog1.png" alt="" />
+							<Link href={"whitepaper-blogs/healthcare-dynamics"}>
+								<img src="/images/all-img/wp1.png" alt="" />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
-							<div className="fugu-blog-meta">
+							{/* <div className="fugu-blog-meta">
 								<ul>
 									<li>
 										<Link href={"/"}>Article</Link>
@@ -24,17 +24,16 @@ export default function WhitepaperPost() {
 										<Link href={"/"}>August 26, 2022</Link>
 									</li>
 								</ul>
-							</div>
+							</div> */}
 							<h5>
-								<Link href={"whitepaper-blogs/single-blog-light"}>
-									Do you need a blockchain project? Six very easy steps to verify it as wise
-								</Link>
+								<Link href={"whitepaper-blogs/healthcare-dynamics"}>
+								Transforming Healthcare Dynamics: Leveraging HUMB								</Link>
 							</h5>
-							<p>
+							{/* <p>
 								You may be fascinated by blockchain technology, hearing about all those
 								ground-breaking...
-							</p>
-							<Link href={"whitepaper-blogs/single-blog-light"} legacyBehavior>
+							</p> */}
+							<Link href={"whitepaper-blogs/healthcare-dynamics"} legacyBehavior>
 								<a className="fugu-icon-btn">
 									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
 								</a>
@@ -42,15 +41,15 @@ export default function WhitepaperPost() {
 						</div>
 					</div>
 				</div>
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				<div className="col-xl-4 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".10s">
 						<div className="fugu-blog-thumb">
-							<Link href={"whitepaper-blogs/single-blog-light"}>
-								<img src="/images/all-img/blog/blog2.png" alt="" />
+							<Link href={"whitepaper-blogs/tokenization"}>
+								<img src="/images/all-img/wp2.png" alt="" />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
-							<div className="fugu-blog-meta">
+							{/* <div className="fugu-blog-meta">
 								<ul>
 									<li>
 										<Link href={"/"}>Article</Link>
@@ -59,17 +58,16 @@ export default function WhitepaperPost() {
 										<Link href={"/"}>August 26, 2022</Link>
 									</li>
 								</ul>
-							</div>
+							</div> */}
 							<h5>
-								<Link href={"whitepaper-blogs/single-blog-light"}>
-									How to build NFT marketplace here give a step-by-step guide to help you
-								</Link>
+								<Link href={"whitepaper-blogs/tokenization"}>
+								Tokenization - Future of the Healthcare Industry								</Link>
 							</h5>
-							<p>
+							{/* <p>
 								An NFT marketplace is an online platform based on blockchain that allows selling and
 								buying...
-							</p>
-							<Link href={"whitepaper-blogs/single-blog-light"} legacyBehavior>
+							</p> */}
+							<Link href={"whitepaper-blogs/tokenization"} legacyBehavior>
 								<a className="fugu-icon-btn">
 									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
 								</a>
@@ -77,10 +75,10 @@ export default function WhitepaperPost() {
 						</div>
 					</div>
 				</div>
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				{/* <div className="col-xl-6 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".20s">
 						<div className="fugu-blog-thumb">
-							<Link href={"whitepaper-blogs/single-blog-light"}>
+							<Link href={"whitepaper-blogs/healthcare-dynamics"}>
 								<img src="/images/all-img/blog/blog3.png" alt="" />
 							</Link>
 						</div>
@@ -96,7 +94,7 @@ export default function WhitepaperPost() {
 								</ul>
 							</div>
 							<h5>
-								<Link href={"whitepaper-blogs/single-blog-light"}>
+								<Link href={"whitepaper-blogs/healthcare-dynamics"}>
 									Making life of blockchain developers flawless interview with our solutions
 								</Link>
 							</h5>
@@ -104,18 +102,18 @@ export default function WhitepaperPost() {
 								The work of people responsible for consulting & analysis, the intermediaries between
 								ideas...
 							</p>
-							<Link href={"whitepaper-blogs/single-blog-light"} legacyBehavior>
+							<Link href={"whitepaper-blogs/healthcare-dynamics"} legacyBehavior>
 								<a className="fugu-icon-btn">
 									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
 								</a>
 							</Link>
 						</div>
 					</div>
-				</div>
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				</div> */}
+				{/* <div className="col-xl-6 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".30s">
 						<div className="fugu-blog-thumb">
-							<Link href={"whitepaper-blogs/single-blog-light"}>
+							<Link href={"whitepaper-blogs/healthcare-dynamics"}>
 								<img src="/images/all-img/blog/blog4.png" alt="" />
 							</Link>
 						</div>
@@ -131,7 +129,7 @@ export default function WhitepaperPost() {
 								</ul>
 							</div>
 							<h5>
-								<Link href={"whitepaper-blogs/single-blog-light"}>
+								<Link href={"whitepaper-blogs/healthcare-dynamics"}>
 									Bridges between blockchains for the connecting the DeFi space one place
 								</Link>
 							</h5>
@@ -139,18 +137,18 @@ export default function WhitepaperPost() {
 								The blockchain space has been fortunate with a creativity burst that resulted in
 								impressive...
 							</p>
-							<Link href={"whitepaper-blogs/single-blog-light"} legacyBehavior>
+							<Link href={"whitepaper-blogs/healthcare-dynamics"} legacyBehavior>
 								<a className="fugu-icon-btn">
 									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
 								</a>
 							</Link>
 						</div>
 					</div>
-				</div>
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				</div> */}
+				{/* <div className="col-xl-6 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".40s">
 						<div className="fugu-blog-thumb">
-							<Link href={"whitepaper-blogs/single-blog-light"}>
+							<Link href={"whitepaper-blogs/healthcare-dynamics"}>
 								<img src="/images/all-img/blog/blog5.png" alt="" />
 							</Link>
 						</div>
@@ -166,7 +164,7 @@ export default function WhitepaperPost() {
 								</ul>
 							</div>
 							<h5>
-								<Link href={"whitepaper-blogs/single-blog-light"}>
+								<Link href={"whitepaper-blogs/healthcare-dynamics"}>
 									How to deploy a hyperledger fabric for network on kubernetes networks?
 								</Link>
 							</h5>
@@ -174,23 +172,23 @@ export default function WhitepaperPost() {
 								Enterprise-className companies need secure and efficient solutions that can fluently
 								scale...
 							</p>
-							<Link href={"whitepaper-blogs/single-blog-light"} legacyBehavior>
+							<Link href={"whitepaper-blogs/healthcare-dynamics"} legacyBehavior>
 								<a className="fugu-icon-btn">
 									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
 								</a>
 							</Link>
 						</div>
 					</div>
-				</div>
-				<div className="col-xl-6 col-lg-12 col-md-6">
+				</div> */}
+				<div className="col-xl-4 col-lg-12 col-md-6">
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".50s">
 						<div className="fugu-blog-thumb">
-							<Link href={"whitepaper-blogs/single-blog-light"}>
-								<img src="/images/all-img/blog/blog6.png" alt="" />
+							<Link href={"whitepaper-blogs/democratising-healthcare"}>
+								<img src="/images/all-img/wp3.png" alt="" />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
-							<div className="fugu-blog-meta">
+							{/* <div className="fugu-blog-meta">
 								<ul>
 									<li>
 										<Link href={"/"}>Article</Link>
@@ -199,16 +197,15 @@ export default function WhitepaperPost() {
 										<Link href={"/"}>August 26, 2022</Link>
 									</li>
 								</ul>
-							</div>
+							</div> */}
 							<h5>
-								<Link href={"whitepaper-blogs/single-blog-light"}>
-									Let's meet our blockchain projects - interview with solutions Consultant
-								</Link>
+								<Link href={"whitepaper-blogs/democratising-healthcare"}>
+								The advantages of democratising Healthcare								</Link>
 							</h5>
-							<p>
+							{/* <p>
 								Watch the interview our solutions Consultant Agnieszka Hołownia-Niedzielska who works...
-							</p>
-							<Link href={"whitepaper-blogs/single-blog-light"} legacyBehavior>
+							</p> */}
+							<Link href={"whitepaper-blogs/democratising-healthcare"} legacyBehavior>
 								<a className="fugu-icon-btn">
 									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
 								</a>
@@ -217,7 +214,7 @@ export default function WhitepaperPost() {
 					</div>
 				</div>
 			</div>
-			<BlogPagination />
+			{/* <BlogPagination /> */}
 		</div>
 	);
 }
