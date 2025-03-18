@@ -12,7 +12,7 @@ export default function HeroSection() {
 							Trade Crypto with Low Fees, Fast & Secure Transactions with High Liquidity!
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.25s">
-							"Join Indonesia's premier crypto exchange, designing for seamless and secure trading.”							</p>
+							"Join Indonesia's premier crypto exchange, designed for seamless and secure trading.”							</p>
 							<div className="fugu-btn-wrap"><a className="fugu-btn" href="https://app.humb.io/login" target="_blank">Start Trading Now</a></div>
 							{/* <div className="fugu-app-btn-wrap wow fadeInUpX" data-wow-delay="0.40s">
 								<Link href={"contact"} legacyBehavior>

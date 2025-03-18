@@ -22,7 +22,7 @@ export default function VideoSectionTwo() {
 					</div>
 					<div className="col-lg-5 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content large-content">
-							<h2>HUMB Trading Features 1</h2>
+							<h2>HUMB Trading Features</h2>
 							{/* <p>
 								You can easily buy, sell, store, and transfer cryptocurrency in one place. Get the right
 								to buy or sell stocks at a specific date for a specific price. No commissions here

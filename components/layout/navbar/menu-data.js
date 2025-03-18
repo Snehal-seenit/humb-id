@@ -11,7 +11,7 @@ export const DemoDropdownMenus = [
 	},
 	{
 		title: "Copy Trading",
-		path: "index-four",
+		path: "https://app.humb.io/copy-trade",
 	},
 	{
 		title: "Swap",
