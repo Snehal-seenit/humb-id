@@ -137,7 +137,15 @@ export default function TestimonialSliderOne() {
 						</div>
 					</Slider>
 				</div> */}
-				<img src="/images/logo/roadmap.jpg" alt="roadmap-img" />
+				
+				<picture>
+      {/* Image for mobile (max-width: 768px) */}
+      <source srcSet="/images/all-img/roadmap_mobile.jpg" media="(max-width: 768px)" />
+      
+      {/* Image for desktop (default) */}
+      <img src="/images/logo/roadmap.jpg" alt="Responsive Image" />
+    </picture>
+				
 			</div>
 		</div>
 	);

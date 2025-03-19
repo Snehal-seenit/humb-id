@@ -44,41 +44,34 @@ export default function ClientSliderOne() {
 				<div className="fugu-client-slider">
 					<Slider {...settings}>
 						<div className="fugu-brand-logo">
-							<img src="/images/all-img/client1.png" alt="" />
+							<img src="/images/all-img/WhiteBit - Exchange partner png logo.png" alt="" />
 						</div>
 						<div className="fugu-brand-logo">
-							<img src="/images/all-img/client2.png" alt="" />
+						<img src="/images/all-img/Marquee Equity - Finance Partner png logo.png" alt="" />
+
 						</div>
 						<div className="fugu-brand-logo">
-							<img src="/images/all-img/client3.png" alt="" />
+							<img src="/images/all-img/SeenIT - Technology Partner png logo.png" alt="" />
 						</div>
 						<div className="fugu-brand-logo">
-							<img src="/images/all-img/client4.png" alt="" />
+							<img src="/images/all-img/Maticz - Development Partner png logo.png" alt="" />
 						</div>
 						<div className="fugu-brand-logo">
-							<img src="/images/all-img/client5.png" alt="" />
+						<img src="/images/all-img/Changely - Swap partner png logo.png" alt="" />
 						</div>
 						<div className="fugu-brand-logo">
-							<img src="/images/all-img/client1.png" alt="" />
+							<img src="/images/all-img/Fireblocks - Wallet Security Partner png logo.png" alt="" />
 						</div>
-						<div className="fugu-brand-logo">
-							<img src="/images/all-img/client2.png" alt="" />
+						<div className="fugu-brand-logo ml-0 ml-4">
+							<img src="/images/all-img/Synaps - Regulatory partner png logo.png" alt="" />
 						</div>
-						<div className="fugu-brand-logo">
-							<img src="/images/all-img/client3.png" alt="" />
-						</div>
-						<div className="fugu-brand-logo">
-							<img src="/images/all-img/client4.png" alt="" />
-						</div>
-						<div className="fugu-brand-logo">
-							<img src="/images/all-img/client5.png" alt="" />
-						</div>
+						
 					</Slider>
 				</div>
 			<div style={{color:"#fff",textAlign:"center"}}>
 			<h4 style={{color:"#fff",marginTop:"2rem"}}>Reimagine Crypto Trading</h4>
 				<p>The Exchange That Shares Profits!
-We’re the world’s first healthcare-focused crypto exchange—returning 14% of our profits to traders like you. Trade confidently while earning passive rewards.
+We’re the world’s first healthcare-focused crypto exchange—distributing 14% profits with our registered HUMB traders like you. Trade confidently while earning passive rewards.
 </p>
 			</div>
 			</div>

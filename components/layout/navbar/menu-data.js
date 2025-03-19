@@ -20,7 +20,7 @@ export const DemoDropdownMenus = [
 ];
 export const PagesDropdownMenus = [
 	{
-		title: "HUMB Token Utilit",
+		title: "HUMB Native Token",
 		path: "/token",
 		// submenu: [
 		// 	{
@@ -38,7 +38,7 @@ export const PagesDropdownMenus = [
 		// ],
 	},
 	{
-		title: "Launchpad",
+		title: "HUMB Launchpad",
 		path: "https://app.humb.io/launchpad",
 		// submenu: [
 		// 	{

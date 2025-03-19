@@ -38,6 +38,11 @@ export default function VideoSectionTwo() {
 									</li>
 									<li>
 										{/* <img src="/images/svg/check1.svg" alt="" /> */}
+										<p className="mb-0">📊 Margin Trading</p>
+										<small className="fw-normal">Boost your trading power with leveraged trading options.</small>
+									</li>
+									<li>
+										{/* <img src="/images/svg/check1.svg" alt="" /> */}
 										<p className="mb-0">📈 Copy Trading</p>
 										<small className="fw-normal">Mirror top-performing traders.</small>
 									</li>

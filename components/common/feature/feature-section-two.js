@@ -6,7 +6,7 @@ export default function FeatureSectionTwo() {
 		<div className="section bg-warning-400 fugu-section-padding3">
 			<div className="container">
 				<div className="fugu-section-title title-large">
-					<h2>Why Choose HUMB</h2>
+					<h2>Why Choose HUMB?</h2>
 				</div>
 				<div className="row">
 					<div className="col-lg-6">
@@ -54,7 +54,7 @@ export default function FeatureSectionTwo() {
 							<div className="fugu-iconbox-data">
 								<h4>User-Friendly Platform:</h4>
 								<p>
-									Designed for both novices and professionals traders.
+									Designed for both novice and professional traders.
 								</p>
 								{/* <Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">

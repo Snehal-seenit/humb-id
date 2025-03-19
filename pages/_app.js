@@ -1,7 +1,6 @@
 import "bootstrap/dist/css/bootstrap.css";
 import "slick-carousel/slick/slick.css";
 import Layout from "../components/layout";
-
 import Head from "next/head";
 import "react-modal-video/css/modal-video.min.css";
 import "swiper/css";

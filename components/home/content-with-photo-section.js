@@ -23,17 +23,17 @@ export default function ContentWithPhotoSection() {
 								<ul>
 									<li>
 										<img src="/images/svg/check1.svg" alt="" />
-										<p className="mb-0">HUMB Token Utility</p>
+										<p className="mb-0">HUMB Native Token</p>
 										<small className="fw-normal"> Lower fees & exclusive rewards.</small>
 									</li>
 									<li>
 										<img src="/images/svg/check1.svg" alt="" />
-										<p className="mb-0">Launchpad</p>
+										<p className="mb-0">HUMB Launchpad</p>
 										<small className="fw-normal">Get early access to upcoming crypto projects.</small>
 									</li>
 									<li>
 										<img src="/images/svg/check1.svg" alt="" />
-										<p className="mb-0">Secure Wallets</p>
+										<p className="mb-0">HUMB Secure Wallets</p>
 										<small className="fw-normal">Store and manage your assets securely.</small>
 									</li>
 								</ul>

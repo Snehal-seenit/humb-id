@@ -58,7 +58,7 @@ export default function HeaderHomeOne() {
 									{/* <a href="#" class="nav-link-item drop-trigger">About Us</a> */}
 								</li>
 								<li className="nav-item nav-item-has-children">
-									<Link href="https://humb.support" target="_blank" rel="noopener noreferrer" className="nav-link-item drop-trigger">Support</Link>
+									<Link href="under-construction" className="nav-link-item drop-trigger">Support</Link>
 								</li>
 								
 							</Navbar>

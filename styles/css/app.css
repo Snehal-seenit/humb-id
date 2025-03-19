@@ -2974,12 +2974,14 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	-webkit-transition: all 0.4s ease-in-out;
 	transition: all 0.4s ease-in-out;
 	overflow: hidden;
-	color: var(--gray-800);
+	/* color: var(--gray-800); */
+	color: #fff;
 	/* background-color: var(--warning-500); */
 	background-image: linear-gradient(91deg, rgb(242, 19, 97) 17.46%, rgb(120, 14, 169) 93.13%);
 }
 .fugu-btn:hover {
-	color: var(--gray-10);
+	/* color: var(--gray-10); */
+	color: #ffc947;
 	background-color: var(--gray-800);
 }
 .fugu-btn.fugu-header-btn {
@@ -2989,7 +2991,8 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	/* border: 2px solid var(--gray-800); */
 }
 .fugu-btn.fugu-header-btn:hover {
-	color: var(--gray-10);
+	/* color: var(--gray-10); */
+	color: #ffc947;
 	background-color: var(--gray-800);
 }
 .fugu-btn.fugu-header-btn.fugu-header-btn2 {
@@ -4357,9 +4360,9 @@ a.fugu-app-btn {
 		margin: 10px;
 	}
 }
-a.fugu-app-btn:last-child {
+/* a.fugu-app-btn:last-child {
 	margin: 0;
-}
+} */
 
 .fugu-hero-client-area {
 	display: flex;
@@ -5367,7 +5370,7 @@ a.fugu-app-btn:last-child {
 }
 .fugu-team-data {
 	bottom: 20px;
-	padding: 20px;
+	padding: 5px 10px;
 	margin-left: 20px;
 	width: calc(100% - 40px);
 	border-radius: 10px;
@@ -5975,8 +5978,8 @@ a.fugu-app-btn:last-child {
 }
 
 .fugu-accordion-item {
-	margin-bottom: 40px;
-	padding-bottom: 40px;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
 	border-bottom: 1px solid var(--gray-800);
 }
 .fugu-accordion-item h4 {
@@ -7769,7 +7772,7 @@ a.fugu-pricing-btn.active {
 
 .fugu-section-title {
 	text-align: center;
-	max-width: 655px;
+	max-width: 665px;
 	margin: 0 auto 75px;
 }
 @media (max-width: 991px) {
@@ -9352,7 +9355,7 @@ a.fugu-pricing-btn.active {
 .fugu-blog-thumb img {
 	width: 100%;
 	height: 100%;
-	object-fit: cover;
+	object-fit: contain;
 	object-position: center top;
 	border-radius: 8px;
 	transition: all 0.4s;
@@ -11537,4 +11540,12 @@ circle {
 .fugu-testimonial-slider .slick-initialized .slick-slide,
 .fugu-testimonial-slider2 .slick-initialized .slick-slide {
 	padding: 0 15px;
+}
+@media (max-width: 767px){
+	.ml-0{
+		margin-left: 0;
+	}
+}
+.ml-4{
+	margin-left: 4rem;
 }

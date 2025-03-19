@@ -47,12 +47,17 @@ export default function ContentWithPhotoSectionTwo() {
 										<div className="fulo-list-icon">
 											<img src="/images/svg/lightning-bolt.svg" alt="" />
 										</div>
-										<h4>Complete KYC/KYH</h4>
+										<h4>Complete KYC</h4>
 										<p>Verify your identity quickly to ensure a <b>secure and seamless trading experience.</b></p>
 									</li>
 								</ul>
-								<div class="fugu-btn-wrap">
-									<a class="fugu-btn" href="https://play.google.com/store/apps/details?id=com.humb.humbnow&pcampaignid=web_share" target="_blank">Download Now</a>
+								<div className="fugu-btn-wrap">
+								<a href="https://apps.apple.com/us/app/humb/id6737500757" className="fugu-app-btn wow fadeInUpX" data-wow-delay="0s" target="_blank" rel="noopener noreferrer">
+									<img src="/images/all-img/app-store.png" alt="" />
+								</a>
+								<a href="https://play.google.com/store/apps/details?id=com.humb.humbnow&pcampaignid=web_share" className="fugu-app-btn wow fadeInUpX" data-wow-delay=".20s" target="_blank" rel="noopener noreferrer">
+									<img src="/images/all-img/play-store.png" alt="" />
+								</a>
 								</div>
 							</div>
 						</div>
