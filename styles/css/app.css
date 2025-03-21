@@ -10,7 +10,8 @@
 	--success-500: #32e7b1;
 	--warning-600: #eee6d0;
 	--warning-500: #ffc947;
-	--warning-400: #f0e9e1;
+	/* --warning-400: #f0e9e1; */
+	--warning-400: #000;
 	--warning-300: #fffdf5;
 	--warning-200: #f6f2e8;
 	--warning-100: #fffcf2;
@@ -42,7 +43,8 @@ html {
 
 body {
 	height: 100%;
-	color: rgba(19, 17, 26, 0.8);
+	/* color: rgba(19, 17, 26, 0.8); */
+	color: #fff;
 	font-family: "Inter", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -338,7 +340,8 @@ h6,
 .h5,
 .h6 {
 	font-family: "Public Sans", sans-serif;
-	color: var(--gray-800);
+	/* color: var(--gray-800); */
+	color: #28e7c5;
 	font-weight: 700;
 }
 
@@ -1113,7 +1116,8 @@ blockquote {
 }
 
 .bg-warning-400 {
-	background-color: #f0e9e1 !important;
+	/* background-color: #f0e9e1 !important; */
+	background-color: #000 !important;
 }
 
 .border-warning-400 {
@@ -2354,7 +2358,8 @@ header.fugu-header-section.sticky-menu {
 }
 
 .site-menu-main .nav-link-item {
-	color: var(--gray-800);
+	/* color: var(--gray-800); */
+	color: #28e7c5;
 }
 
 .nexto-header-two .site-menu-main .nav-link-item {
@@ -2976,8 +2981,9 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	overflow: hidden;
 	/* color: var(--gray-800); */
 	color: #fff;
+	background-color: #542E71;
 	/* background-color: var(--warning-500); */
-	background-image: linear-gradient(91deg, rgb(242, 19, 97) 17.46%, rgb(120, 14, 169) 93.13%);
+	/* background-image: linear-gradient(91deg, rgb(242, 19, 97) 17.46%, rgb(120, 14, 169) 93.13%); */
 }
 .fugu-btn:hover {
 	/* color: var(--gray-10); */
@@ -4329,7 +4335,8 @@ a.fugu--readmore-btn span:before {
 	font-size: 20px;
 	line-height: 32px;
 	letter-spacing: -0.5px;
-	color: var(--gray-800);
+	/* color: var(--gray-800); */
+	color: #fff;
 }
 
 .fugu-app-btn-wrap {
