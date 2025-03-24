@@ -2359,9 +2359,11 @@ header.fugu-header-section.sticky-menu {
 
 .site-menu-main .nav-link-item {
 	/* color: var(--gray-800); */
-	color: #28e7c5;
+	color: #dcdcdc;
 }
-
+.sticky-menu .site-menu-main .nav-link-item,.sticky-menu .header-btn .fugu-btn{
+color: #000;
+}
 .nexto-header-two .site-menu-main .nav-link-item {
 	color: var(--gray-800);
 }
@@ -2993,13 +2995,13 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 .fugu-btn.fugu-header-btn {
 	padding: 11px 33px;
 	margin-left: 40px;
-	background-color: transparent;
+	background-color: #542E71;
 	/* border: 2px solid var(--gray-800); */
 }
 .fugu-btn.fugu-header-btn:hover {
-	/* color: var(--gray-10); */
-	color: #ffc947;
-	background-color: var(--gray-800);
+	
+	color: #fff;
+	background-color: #9254c9;
 }
 .fugu-btn.fugu-header-btn.fugu-header-btn2 {
 	border-radius: 100px;

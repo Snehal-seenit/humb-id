@@ -49,7 +49,8 @@ export default function FeatureSectionTwo() {
 					<div className="col-lg-6">
 						<div className="fugu-iconbox-wrap wow fadeInUpX" data-wow-delay=".30s">
 							<div className="fugu-iconbox-icon">
-								<img src="/images/all-img/icon1.png" alt="" />
+								<img src="/images/all-img/icons.png" alt="" />
+
 							</div>
 							<div className="fugu-iconbox-data">
 								<h4>User-Friendly Platform:</h4>
