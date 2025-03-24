@@ -39,7 +39,7 @@ export default function ClientSliderOne() {
 		<div className="fugu-client-section bg-gray-800">
 			<div className="container">
 				<div className="fugu-client-title text-white">
-					<h5>Our Partners</h5>
+					<h5 style={{color:"#DCDCDC"}}>Our Partners</h5>
 				</div>
 				<div className="fugu-client-slider">
 					<Slider {...settings}>
@@ -69,8 +69,8 @@ export default function ClientSliderOne() {
 					</Slider>
 				</div>
 			<div style={{color:"#fff",textAlign:"center"}}>
-			<h4 style={{color:"#fff",marginTop:"2rem"}}>Reimagine Crypto Trading</h4>
-				<p>The Exchange That Shares Profits!
+			<h4 style={{color:"#DCDCDC",marginTop:"2rem"}}>Reimagine Crypto Trading</h4>
+				<p style={{color:"#A1A1AAC"}}>The Exchange That Shares Profits!
 We’re the world’s first healthcare-focused crypto exchange—distributing 14% profits with our registered HUMB traders like you. Trade confidently while earning passive rewards.
 </p>
 			</div>

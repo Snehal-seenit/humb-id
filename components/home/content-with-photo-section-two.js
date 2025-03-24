@@ -65,7 +65,7 @@ export default function ContentWithPhotoSectionTwo() {
 				</div>
 			</div>
 			<div className="fugu-shape3">
-				<img src="/images/shape/shape2.png" alt="" />
+				<img src="/images/shape/background_1.png" alt="" />
 			</div>
 		</div>
 	);

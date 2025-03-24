@@ -19,16 +19,16 @@ export default function DemocratisingHealthcareSingleBlogContainer() {
 					</li>
 				</ul>
 			</div> */}
-			<h5>
+			<h5 className="heading-color">
 			The advantages of democratising Healthcare data
 			</h5>
-			<p>
+			<p className="text-color">
             Traditionally, healthcare data has been siloed within disparate systems, hindering interoperability and limiting patients' engagement in their own care. However, with the advent of innovative technologies, particularly blockchain and tokenization, there is a growing movement toward democratizing health data. This transformative approach envisions patients as active participants, allowing them to tokenize their health records securely on a blockchain. By doing so, individuals gain the ability to control who accesses their data, fostering transparency and privacy. The democratization of data not only enhances patient autonomy but also facilitates seamless collaboration among healthcare providers, researchers, and insurers. Patients become key stakeholders, able to make informed decisions, participate in medical research, and even monetize their health data in a secure and transparent manner. Ultimately, the democratization of healthcare data holds the promise of creating a more patient-centric, collaborative, and efficient healthcare ecosystem.			</p>
-			<p>
+			<p className="text-color">
             This transformative concept has several implications for the healthcare sector:           
             Patient Centric Data Control			
             </p>
-			<p>
+			<p className="text-color">
             Patients can have their health records represented as tokens on a blockchain. This allows them to control access to their data, selectively sharing it with healthcare providers, researchers, and insurers while maintaining ownership.
 
 Informed Decision Making

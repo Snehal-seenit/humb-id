@@ -26,7 +26,7 @@ export default function BreadcrumbSection() {
 				<img src="assets/images/shape/shape7.png" alt="" />
 			</div>
 			<div className="fugu-shape9">
-				<img src="assets/images/shape/shape8.png" alt="" />
+				<img src="assets/images/shape/image_1.png" alt="" />
 			</div>
 		</div>
 	);

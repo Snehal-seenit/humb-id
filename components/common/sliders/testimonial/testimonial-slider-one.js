@@ -140,10 +140,10 @@ export default function TestimonialSliderOne() {
 				
 				<picture>
       {/* Image for mobile (max-width: 768px) */}
-      <source srcSet="/images/all-img/roadmap_mobile.jpg" media="(max-width: 768px)" />
+      <source srcSet="/images/all-img/roadmap_mobile1-04.jpg" media="(max-width: 768px)" />
       
       {/* Image for desktop (default) */}
-      <img src="/images/logo/roadmap.jpg" alt="Responsive Image" />
+      <img src="/images/logo/roadmap_1-01.jpg" alt="Responsive Image" />
     </picture>
 				
 			</div>

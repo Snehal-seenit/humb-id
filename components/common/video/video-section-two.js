@@ -11,7 +11,7 @@ export default function VideoSectionTwo() {
 				<div className="row">
 					<div className="col-lg-6 offset-lg-1 order-lg-2">
 						<div className="fugu-video-thumb wow fadeInUpX" data-wow-delay=".20s">
-							<img src="/images/all-img/features.png" alt="" style={{width:"359px",height:"650px"}}/>
+							<img src="/images/all-img/product_image4.png" alt="" style={{width:"auto",height:"auto"}}/>
 							{/* <div className="fugu-popup">
 								<img src="/images/all-img/video-btn.png" alt="" />
 								<div className="fugu-play-btn" onClick={() => setOpen(true)}>

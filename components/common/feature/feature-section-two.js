@@ -13,7 +13,7 @@ export default function FeatureSectionTwo() {
 						<div className="fugu-iconbox-wrap wow fadeInUpX" data-wow-delay="0s">
 							<div className="fugu-iconbox-icon">
 								
-								<img src="/images/all-img/icon2.png" alt="" />
+								<img src="/images/all-img/icons for website 2.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
 								<h4>Low Fees:</h4>
@@ -31,7 +31,7 @@ export default function FeatureSectionTwo() {
 					<div className="col-lg-6">
 						<div className="fugu-iconbox-wrap wow fadeInUpX" data-wow-delay=".20s">
 							<div className="fugu-iconbox-icon">
-							<img src="/images/all-img/icon3.png" alt="" />
+							<img src="/images/all-img/icons for website.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
 								<h4>Fast and Secure Transactions: </h4>
@@ -49,7 +49,7 @@ export default function FeatureSectionTwo() {
 					<div className="col-lg-6">
 						<div className="fugu-iconbox-wrap wow fadeInUpX" data-wow-delay=".30s">
 							<div className="fugu-iconbox-icon">
-								<img src="/images/all-img/icons.png" alt="" />
+								<img src="/images/all-img/icon.png" alt="" />
 
 							</div>
 							<div className="fugu-iconbox-data">
@@ -68,7 +68,7 @@ export default function FeatureSectionTwo() {
 					<div className="col-lg-6">
 						<div className="fugu-iconbox-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-iconbox-icon">
-								<img src="/images/all-img/icon4.png" alt="" />
+								<img src="/images/all-img/icons for humb website 22-01.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
 								<h4>Real-Time Market Insights:</h4>

@@ -9,7 +9,7 @@ export default function HeroSection() {
 					<div className="col-xl-6 col-lg-7">
 						<div className="fugu-hero-content">
 							<h1 className="wow fadeInUpX" data-wow-delay="0s">
-							Trade Crypto with Low Fees, Fast & Secure Transactions with High Liquidity!
+							Fast, Secure, and Low Fees Crypto Trading With High Liquidity!
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.25s">
 							"Join Indonesia's premier crypto exchange, designed for seamless and secure trading.”							</p>
@@ -62,19 +62,19 @@ export default function HeroSection() {
 					</div>
 					<div className="col-xl-6 col-lg-5">
 						<div className="fugu-hero-thumb">
-							<img src="/images/all-img/product image cutting.png" alt="hero-img" />
+							<img src="/images/all-img/product_image1.png" alt="hero-img" />
 							<div className="fugu-shape2">
-								<img src="/images/shape/shape2.png" alt="title" />
+								<img src="/images/shape/background_1.png" alt="title" />
 							</div>
 							<div className="fugu-hero-star">
-								<img src="/images/all-img/star-shape.png" alt="title" />
+								<img src="/images/all-img/background_3.png" alt="title" />
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div className="fugu-shape1">
-				<img src="/images/shape/shape1.png" alt="title" />
+				<img src="/images/shape/background_2.png" alt="title" />
 			</div>
 		</div>
 	);

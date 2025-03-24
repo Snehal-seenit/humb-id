@@ -441,7 +441,7 @@
 	color: inherit;
 	padding: 6px 20px;
 	font-weight: 700;
-	color: #000;
+	color: #727272;
 }
 
 @media (min-width: 992px) {
@@ -451,7 +451,7 @@
 }
 
 .site-menu-main .sub-menu--item:hover > a {
-	color: #28e7c5;
+	color: #542E71;
 }
 
 @media (min-width: 992px) {
@@ -852,9 +852,9 @@
 	}
 }
 
-.menu-block.active .nav-link-item {
+/* .menu-block.active .nav-link-item {
 	color: #000 !important;
-}
+} */
 
 @media (min-width: 480px) {
 	.d-xs-inline-flex {
@@ -972,4 +972,23 @@ a.log-in-btn:hover:after {
 }
 .log-in-btn.yellow-btn:hover {
 	background-color: #fff;
+}
+
+.fugu-iconbox-data p{
+	color: #A1A1AA;
+}
+.fugu-icon-list p{
+	color: #DCDCDC;
+}
+.fugu-icon-list small,.fugu-icon-list2 P{
+	color: #A1A1AA;
+}
+.heading-color{
+color: #DCDCDC;
+}
+.text-color{
+	color: #A1A1AA;
+}
+.fugu-icon-btn:hover{
+	color: #542e71;
 }

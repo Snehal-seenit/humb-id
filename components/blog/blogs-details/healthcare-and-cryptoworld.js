@@ -19,66 +19,66 @@ export default function HealthcareCryptoWorldContainer() {
 					</li>
 				</ul>
 			</div> */}
-			<h5>
+			<h5 className="heading-color">
 			Market Analysis: Opportunities in the Healthcare & Crypto World
 			</h5>
-            <p>
+            <p className="text-color">
             The intersection of healthcare and cryptocurrency is shaping a new digital era, revolutionizing financial transactions, patient data security, and medical research funding. The fusion of HealthcareBlockchain, CryptoExchange, and HealthcareCrypto is unlocking numerous opportunities, making it a lucrative sector for investors and innovators alike. HUMB Exchange is at the forefront of this transformation, offering a secure, transparent, and efficient trading platform for healthcare-related digital assets.
             </p>
-			<p>
+			<p className="text-color">
             Understanding the Healthcare & Crypto Market<br />
             Healthcare is a trillion-dollar industry, and with the rise of blockchain technology, it is experiencing a digital shift. Blockchain in healthcare ensures data security, enhances efficiency, and reduces fraud, while cryptocurrency provides a decentralized and borderless financial infrastructure. The combination of these two sectors is reshaping the global healthcare economy, offering numerous benefits for stakeholders.
             </p>
-            <p>
+            <p className="text-color">
             Key Market Trends Driving Growth<br />
 
 Rising Adoption of Blockchain in Healthcare
 Hospitals, pharmaceutical companies, and insurance providers are increasingly integrating blockchain technology to streamline operations.
 HUMBExchange is pioneering blockchain-based HealthcareCrypto solutions, ensuring secure transactions and data integrity.
             </p>
-            <p>
+            <p className="text-color">
             Expanding Digital Payment Solutions in Healthcare<br />
 Cryptocurrency is enabling seamless cross-border payments for healthcare services.
 CryptoExchange platforms, like HUMB Exchange, are making it easier for patients and providers to transact securely using HealthcareCrypto.
             </p>
-            <p>
+            <p className="text-color">
             Growth of Tokenized Healthcare Assets<br />
 Digital tokens representing healthcare services, research investments, and medical data ownership are gaining traction.
 Investors are exploring HUMBExchange as a reliable platform for trading healthcare-related digital assets.
             </p>
-            <p>
+            <p className="text-color">
             Enhanced Data Security & Patient Privacy<br />
 HealthcareBlockchain ensures immutable, tamper-proof medical records.
 Decentralized platforms help reduce the risk of data breaches, which is a growing concern in the healthcare industry.
             </p>
-            <p>
+            <p className="text-color">
             Crypto-Based Crowdfunding for Medical Research<br />
 Blockchain is enabling transparent and efficient fundraising for drug development and medical advancements.
 HUMB Exchange facilitates investments in promising healthcare innovations through secure crypto trading mechanisms.
             </p>
-            <p>
+            <p className="text-color">
             Opportunities in the Healthcare & Crypto Market<br />
 
 1. Blockchain-Based Electronic Health Records (EHRs)<br />
 Current Challenge:<br /> Traditional EHRs are fragmented, leading to inefficiencies in patient care.
 Blockchain Solution: A decentralized network for EHRs enables real-time access, ensuring secure and accurate medical records.
             </p>
-            <p>
+            <p className="text-color">
             2. Crypto Payments for Medical Services<br />
 Current Challenge: <br />Cross-border healthcare payments face delays, high costs, and currency fluctuations.
 CryptoExchange Solution: HUMBExchange enables healthcare providers to accept cryptocurrency payments, reducing transaction costs and improving accessibility.
             </p>
-            <p>
+            <p className="text-color">
             3. Pharmaceutical Supply Chain Transparency<br />
 Current Challenge:<br /> Counterfeit drugs cost the industry billions and endanger patients.
 Blockchain Solution: HealthcareBlockchain tracks pharmaceuticals from production to distribution, ensuring authenticity.
             </p>
-            <p>
+            <p className="text-color">
             4. Smart Contracts for Insurance & Billing<br />
 Current Challenge:<br /> Manual processing of insurance claims leads to delays and fraud.
 Blockchain Solution: Smart contracts on HUMBExchange automate claim verifications, reducing administrative costs and fraud risks.
             </p>
-            <p>
+            <p className="text-color">
             5. Decentralized Medical Research & Data Sharing
 Current Challenge: Medical research data is often inaccessible or controlled by a few institutions.
 Blockchain Solution: Secure HealthcareBlockchain platforms allow researchers to share data transparently, fostering collaboration.

@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /id/
+RewriteRule ^_next/ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /id/$1 [L,QSA]
