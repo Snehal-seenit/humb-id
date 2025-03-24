@@ -10,6 +10,7 @@ export default function Privacy() {
 				<title>HUMB - Privacy Policy</title>
 			</Head>
 			<Breadcrumb />
+            <div className="fugu-blog-section fugu-section-padding">
             <div className="container my-4">
                 <div className="row">
                     <div>
@@ -236,7 +237,7 @@ You have the right to revoke Your consent any time within the methods described 
                     </div>
                 </div>
             </div>
-           
+           </div>
         </>
     );
 }
