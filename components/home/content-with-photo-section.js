@@ -37,7 +37,7 @@ export default function ContentWithPhotoSection() {
 										<small className="fw-normal">Store and manage your assets securely.</small>
 									</li>
 									<li>
-										<img src="/images/svg/icons_1.png" alt="" />
+										<img src="/id/images/svg/icons_1.png" alt="" />
 										<p className="mb-0">HUMB Staking Program</p>
 										<small className="fw-normal">Participate in our staking program to earn passive income on your holdings. By staking your HUMB tokens, but you also receive attractive rewards over time.</small>
 									</li>
