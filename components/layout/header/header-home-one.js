@@ -34,7 +34,7 @@ export default function HeaderHomeOne() {
           <div className="brand-logo">
             <Link href={"/"}>
               <img
-                src="/images/logo/Logo (1).png"
+                src="/id/images/logo/Logo (1).png"
                 alt="logo"
                 className="light-version-logo"
               />

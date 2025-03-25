@@ -30,7 +30,7 @@ export default function Token() {
 			</div>
 			</div>
 			<div className="col-lg-6">
-				<img src="/images/all-img/humb-token.png" alt="token-img" />
+				<img src="/id/images/all-img/humb-token.png" alt="token-img" />
 			</div>
 			</div>
 

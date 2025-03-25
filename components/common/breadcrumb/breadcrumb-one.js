@@ -20,10 +20,10 @@ export default function BreadcrumbOne({ title }) {
 				</div>
 			</div>
 			<div className="fugu-shape8">
-				<img src="/images/shape/image_2.png" alt="" />
+				<img src="/id/images/shape/image_2.png" alt="" />
 			</div>
 			<div className="fugu-shape9">
-				<img src="/images/shape/image_1.png" alt="" />
+				<img src="/id/images/shape/image_1.png" alt="" />
 			</div>
 		</div>
 	);

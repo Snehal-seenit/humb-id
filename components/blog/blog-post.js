@@ -11,7 +11,7 @@ export default function BlogPost() {
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay="0s">
 						<div className="fugu-blog-thumb">
 							<Link href={"blogs/blockchain-transforming-healthcar"}>
-								<img src="/images/all-img/Blog1.jpg" alt="" />
+								<img src="/id/images/all-img/Blog1.jpg" alt="" />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
@@ -45,7 +45,7 @@ export default function BlogPost() {
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".10s">
 						<div className="fugu-blog-thumb">
 							<Link href={"blogs/healthcare-and-cryptoworld"}>
-								<img src="/images/all-img/Blog2.jpg" alt="" />
+								<img src="/id/images/all-img/Blog2.jpg" alt="" />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
@@ -80,7 +80,7 @@ export default function BlogPost() {
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".20s">
 						<div className="fugu-blog-thumb">
 							<Link href={"blogs/humb-revolution"}>
-								<img src="/images/all-img/Blog3.jpg" alt="" />
+								<img src="/id/images/all-img/Blog3.jpg" alt="" />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">

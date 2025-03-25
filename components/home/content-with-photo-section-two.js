@@ -14,7 +14,7 @@ export default function ContentWithPhotoSectionTwo() {
 							<img
 								className="wow fadeInUpX"
 								data-wow-delay=".10s"
-								src="/images/all-img/mocup2.png"
+								src="/id/images/all-img/mocup2.png"
 								alt=""
 							/>
 						</div>
@@ -30,7 +30,7 @@ export default function ContentWithPhotoSectionTwo() {
 								<ul>
 									<li>
 										<div className="fulo-list-icon">
-											<img src="/images/svg/download.svg" alt="" />
+											<img src="/id/images/svg/download.svg" alt="" />
 										</div>
 										<h4>Download the HUMB App
 										</h4>
@@ -38,14 +38,14 @@ export default function ContentWithPhotoSectionTwo() {
 									</li>
 									<li>
 										<div className="fulo-list-icon">
-											<img src="/images/svg/link.svg" alt="" />
+											<img src="/id/images/svg/link.svg" alt="" />
 										</div>
 										<h4>Register & Create Your Account</h4>
 										<p>Sign up in just a few clicks and become a part of the <b>next-gen blockchain revolution in healthcare!</b></p>
 									</li>
 									<li>
 										<div className="fulo-list-icon">
-											<img src="/images/svg/lightning-bolt.svg" alt="" />
+											<img src="/id/images/svg/lightning-bolt.svg" alt="" />
 										</div>
 										<h4>Complete KYC</h4>
 										<p>Verify your identity quickly to ensure a <b>secure and seamless trading experience.</b></p>
@@ -53,10 +53,10 @@ export default function ContentWithPhotoSectionTwo() {
 								</ul>
 								<div className="fugu-btn-wrap">
 								<a href="https://apps.apple.com/us/app/humb/id6737500757" className="fugu-app-btn wow fadeInUpX" data-wow-delay="0s" target="_blank" rel="noopener noreferrer">
-									<img src="/images/all-img/app-store.png" alt="" />
+									<img src="/id/images/all-img/app-store.png" alt="" />
 								</a>
 								<a href="https://play.google.com/store/apps/details?id=com.humb.humbnow&pcampaignid=web_share" className="fugu-app-btn wow fadeInUpX" data-wow-delay=".20s" target="_blank" rel="noopener noreferrer">
-									<img src="/images/all-img/play-store.png" alt="" />
+									<img src="/id/images/all-img/play-store.png" alt="" />
 								</a>
 								</div>
 							</div>
@@ -65,7 +65,7 @@ export default function ContentWithPhotoSectionTwo() {
 				</div>
 			</div>
 			<div className="fugu-shape3">
-				<img src="/images/shape/background_1.png" alt="" />
+				<img src="/id/images/shape/background_1.png" alt="" />
 			</div>
 		</div>
 	);

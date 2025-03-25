@@ -23,7 +23,7 @@ export default function ScrollTop() {
 	return (
 		showTopBtn && (
 			<div className="fugu-go-top" onClick={goToTop}>
-				<img src="/images/svg/arrow-black-right.svg" alt="" />
+				<img src="/id/images/svg/arrow-black-right.svg" alt="" />
 			</div>
 		)
 	);

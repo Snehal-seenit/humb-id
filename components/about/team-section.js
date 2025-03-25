@@ -12,7 +12,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".10s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/richard.png" alt="" />
+								<img src="/id/images/all-img/about/richard.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<Link href="https://au.linkedin.com/in/richardsatur" target="_blank">Richard Satur</Link>
@@ -37,7 +37,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".20s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/manoj.png" alt="" />
+								<img src="/id/images/all-img/about/manoj.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://in.linkedin.com/in/manoj-karde-7a258a21" target="_blank">Manoj Karde</a>
@@ -61,7 +61,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".30s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/sunil.png" alt="" />
+								<img src="/id/images/all-img/about/sunil.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://www.linkedin.com/in/sunil-mangwani/" target="_blank">Sunil Mangwani</a>
@@ -85,7 +85,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/Brad.png" alt="" />
+								<img src="/id/images/all-img/about/Brad.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://au.linkedin.com/in/brad-gillan-6b22a94" target="_blank">Brad Gillan</a>
@@ -109,7 +109,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/allan.png" alt="" />
+								<img src="/id/images/all-img/about/allan.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://au.linkedin.com/in/allankaufman" target="_blank">Allan Kaufman</a>
@@ -133,7 +133,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/danny.png" alt="" />
+								<img src="/id/images/all-img/about/danny.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://www.linkedin.com/in/kaufmandanny?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Danny Kaufman</a>
@@ -157,7 +157,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/vishwajeet.png" alt="" />
+								<img src="/id/images/all-img/about/vishwajeet.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://in.linkedin.com/in/vishwajeetjathar" target="_blank">Vishwajeet Jathar</a>
@@ -181,7 +181,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/atul.png" alt="" />
+								<img src="/id/images/all-img/about/atul.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://in.linkedin.com/in/dr-atul-gadagkar-2770941/ar?trk=public_post_comment_actor-image" target="_blank">Dr. Atul Gadagkar</a>
@@ -210,7 +210,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".10s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/dr_Simon.png" alt="" />
+								<img src="/id/images/all-img/about/dr_Simon.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<Link href="https://www.linkedin.com/in/simon-platt-3478281a/" target="_blank">Dr. Simon Platt</Link>
@@ -235,7 +235,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".20s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/dr_gareth.png" alt="" />
+								<img src="/id/images/all-img/about/dr_gareth.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://www.linkedin.com/in/gareth-morris-stiff-9199a68/" target="_blank">Dr. Gareth Morris- Stiff</a>
@@ -259,7 +259,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".30s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/dr_anil.png" alt="" />
+								<img src="/id/images/all-img/about/dr_anil.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://mgmhealthcare.in/all_doctor/prof-dr-anil-vaidya-m-d/" target="_blank">Dr. Anil Vaidya</a>
@@ -274,7 +274,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/dr_dinesh.png" alt="" />
+								<img src="/id/images/all-img/about/dr_dinesh.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://www.linkedin.com/in/dinesh-pendharkar-md-phd-fasco-5b645818/" target="_blank">Dr. Dinesh Pendharkar</a>
@@ -298,7 +298,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/dr_amy.png" alt="" />
+								<img src="/id/images/all-img/about/dr_amy.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										Dr. Amy Lightner
@@ -314,7 +314,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/dr_venkatesh.png" alt="" />
+								<img src="/id/images/all-img/about/dr_venkatesh.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://www.linkedin.com/in/venkatesh-krishnamurthi-511b4014a/" target="_blank">Dr. Venkatesh Krishnamurthi</a>
@@ -338,7 +338,7 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/dharmesh.png" alt="" />
+								<img src="/id/images/all-img/about/dharmesh.png" alt="" />
 								<div className="fugu-team-data">
 									<h5>
 										<a href="https://www.linkedin.com/in/dharmeshsampat/" target="_blank">Dharmesh Sampat</a>

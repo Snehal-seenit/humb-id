@@ -13,7 +13,7 @@ export default function FaqSection() {
 							{/* <Link href={"/contact"} legacyBehavior>
 								<a className="fugu-faq-btn">Don't find the answer? Contact us here</a>
 							</Link> */}
-							<img src="/images/all-img/token.png" alt="token-img" />
+							<img src="/id/images/all-img/token.png" alt="token-img" />
 						</div>
 					</div>
 					<div className="col-lg-6 offset-lg-1">

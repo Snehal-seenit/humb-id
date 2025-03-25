@@ -11,7 +11,7 @@ export default function WhitepaperPost() {
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay="0s">
 						<div className="fugu-blog-thumb">
 							<Link href={"whitepaper-blogs/healthcare-dynamics"}>
-								<img src="/images/all-img/wp1.png" alt="" />
+								<img src="/id/images/all-img/wp1.png" alt="" />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
@@ -45,7 +45,7 @@ export default function WhitepaperPost() {
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".10s">
 						<div className="fugu-blog-thumb">
 							<Link href={"whitepaper-blogs/tokenization"}>
-								<img src="/images/all-img/wp2.png" alt="" />
+								<img src="/id/images/all-img/wp2.png" alt="" />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
@@ -184,7 +184,7 @@ export default function WhitepaperPost() {
 					<div className="fugu-blog-card wow fadeInUpX" data-wow-delay=".50s">
 						<div className="fugu-blog-thumb">
 							<Link href={"whitepaper-blogs/democratising-healthcare"}>
-								<img src="/images/all-img/wp3.png" alt="" />
+								<img src="/id/images/all-img/wp3.png" alt="" />
 							</Link>
 						</div>
 						<div className="fugu-blog-content">
