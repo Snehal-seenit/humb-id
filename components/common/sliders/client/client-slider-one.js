@@ -44,26 +44,26 @@ export default function ClientSliderOne() {
 				<div className="fugu-client-slider">
 					<Slider {...settings}>
 						<div className="fugu-brand-logo">
-							<img src="/images/all-img/WhiteBit - Exchange partner png logo.png" alt="" />
+							<img src="/id/images/all-img/WhiteBit - Exchange partner png logo.png" alt="" />
 						</div>
 						<div className="fugu-brand-logo">
-						<img src="/images/all-img/Marquee Equity - Finance Partner png logo.png" alt="" />
+						<img src="/id/images/all-img/Marquee Equity - Finance Partner png logo.png" alt="" />
 
 						</div>
 						<div className="fugu-brand-logo">
-							<img src="/images/all-img/SeenIT - Technology Partner png logo.png" alt="" />
+							<img src="/id/images/all-img/SeenIT - Technology Partner png logo.png" alt="" />
 						</div>
 						<div className="fugu-brand-logo">
-							<img src="/images/all-img/Maticz - Development Partner png logo.png" alt="" />
+							<img src="/id/images/all-img/Maticz - Development Partner png logo.png" alt="" />
 						</div>
 						<div className="fugu-brand-logo">
-						<img src="/images/all-img/Changely - Swap partner png logo.png" alt="" />
+						<img src="/id/images/all-img/Changely - Swap partner png logo.png" alt="" />
 						</div>
 						<div className="fugu-brand-logo">
-							<img src="/images/all-img/Fireblocks - Wallet Security Partner png logo.png" alt="" />
+							<img src="/id/images/all-img/Fireblocks - Wallet Security Partner png logo.png" alt="" />
 						</div>
 						<div className="fugu-brand-logo ml-0 ml-4">
-							<img src="/images/all-img/Synaps - Regulatory partner png logo.png" alt="" />
+							<img src="/id/images/all-img/Synaps - Regulatory partner png logo.png" alt="" />
 						</div>
 						
 					</Slider>

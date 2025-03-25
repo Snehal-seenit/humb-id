@@ -9,7 +9,7 @@ export default function FooterHomeOne() {
 					<div className="col-lg-4">
 						<div className="fugu-textarea">
 							<div className="fugu-footer-logo">
-								<img src="/images/logo/footer-logo.png" alt="footer-logo" className="light-version-logo" style={{width:"160px"}} />
+								<img src="/id/images/logo/footer-logo.png" alt="footer-logo" className="light-version-logo" style={{width:"160px"}} />
 							</div>
 							<p>
 							The Profit Sharing Crypto Exchange.

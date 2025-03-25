@@ -11,7 +11,7 @@ export default function ContentWithPhotoSection() {
 							<img
 								className="wow fadeInUpX"
 								data-wow-delay=".10s"
-								src="/images/all-img/product_image3.png" 
+								src="/id/images/all-img/product_image3.png" 
 								alt=""
 							/>
 						</div>
@@ -22,17 +22,17 @@ export default function ContentWithPhotoSection() {
 							<div className="fugu-icon-list">
 								<ul>
 									<li>
-										<img src="/images/svg/icons_1.png" alt="" />
+										<img src="/id/images/svg/icons_1.png" alt="" />
 										<p className="mb-0">HUMB Native Token</p>
 										<small className="fw-normal"> Lower fees & exclusive rewards.</small>
 									</li>
 									<li>
-										<img src="/images/svg/icons_1.png" alt="" />
+										<img src="/id/images/svg/icons_1.png" alt="" />
 										<p className="mb-0">HUMB Launchpad</p>
 										<small className="fw-normal">Get early access to upcoming crypto projects.</small>
 									</li>
 									<li>
-										<img src="/images/svg/icons_1.png" alt="" />
+										<img src="/id/images/svg/icons_1.png" alt="" />
 										<p className="mb-0">HUMB Secure Wallets</p>
 										<small className="fw-normal">Store and manage your assets securely.</small>
 									</li>
@@ -53,7 +53,7 @@ export default function ContentWithPhotoSection() {
 				</div>
 			</div>
 			<div className="fugu-shape3">
-				<img src="/images/shape/background_1.png" alt="" />
+				<img src="/id/images/shape/background_1.png" alt="" />
 			</div>
 		</div>
 	);

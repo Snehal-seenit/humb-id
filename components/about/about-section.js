@@ -10,14 +10,14 @@ export default function AboutSection() {
 							<img
 								className="wow fadeInLeft"
 								data-wow-delay=".10s"
-								src="/images/all-img/about/about-thumb1.png"
+								src="/id/images/all-img/about/about-thumb1.png"
 								alt=""
 							/>
 							<div className="fugu-about-thumb2">
 								<img
 									className="wow fadeInUpX"
 									data-wow-delay=".30s"
-									src="/images/all-img/about/about-thumb2.png"
+									src="/id/images/all-img/about/about-thumb2.png"
 									alt=""
 								/>
 							</div>
