@@ -14,10 +14,18 @@ export default function ContentWithPhotoSectionTwo() {
 							<img
 								className="wow fadeInUpX"
 								data-wow-delay=".10s"
-								src="/images/all-img/mocup2.png"
+								src="/images/all-img/app_rateing.png"
 								alt=""
 							/>
 						</div>
+						<div className="fugu-btn-wrap mb-4">
+								<a href="https://apps.apple.com/us/app/humb/id6737500757" className="fugu-app-btn wow fadeInUpX border" data-wow-delay="0s" target="_blank" rel="noopener noreferrer">
+									<img src="/images/all-img/app-store.png" alt="" />
+								</a>
+								<a href="https://play.google.com/store/apps/details?id=com.humb.humbnow&pcampaignid=web_share" className="fugu-app-btn wow fadeInUpX border" data-wow-delay=".20s" target="_blank" rel="noopener noreferrer">
+									<img src="/images/all-img/play-store.png" alt="" />
+								</a>
+								</div>
 					</div>
 					<div className="col-lg-6 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content large-content">
@@ -51,14 +59,6 @@ export default function ContentWithPhotoSectionTwo() {
 										<p>Verify your identity quickly to ensure a <b>secure and seamless trading experience.</b></p>
 									</li>
 								</ul>
-								<div className="fugu-btn-wrap">
-								<a href="https://apps.apple.com/us/app/humb/id6737500757" className="fugu-app-btn wow fadeInUpX" data-wow-delay="0s" target="_blank" rel="noopener noreferrer">
-									<img src="/images/all-img/app-store.png" alt="" />
-								</a>
-								<a href="https://play.google.com/store/apps/details?id=com.humb.humbnow&pcampaignid=web_share" className="fugu-app-btn wow fadeInUpX" data-wow-delay=".20s" target="_blank" rel="noopener noreferrer">
-									<img src="/images/all-img/play-store.png" alt="" />
-								</a>
-								</div>
 							</div>
 						</div>
 					</div>

@@ -25,7 +25,7 @@ export default function Token() {
 				<hr /><hr /><h6 style={{margin:"1rem 0",marginBottom:"0"}}><b style={{color:"#DCDCDC"}}>8) Advisors (8%)</b></h6><span style={{color:"#A1A1AA", fontSize:"1rem"}}>Set aside for advisory teams helping in project strategy.</span>
 				<hr /><hr /><h6 style={{margin:"1rem 0",marginBottom:"0"}}><b style={{color:"#DCDCDC"}}>9) Influencer Marketing (8%)</b></h6><span style={{color:"#A1A1AA", fontSize:"1rem"}}>Used to promote HUMB through influencers.</span>
 				<hr /><hr /><h6 style={{margin:"1rem 0",marginBottom:"0"}}><b style={{color:"#DCDCDC"}}>10) Listing Partners (8%)</b></h6><span style={{color:"#A1A1AA", fontSize:"1rem"}}> Allocated for exchange listings and strategic partnerships.</span>
-				<hr /><hr /><p>The token price at launch is $0.25 per HUMB, and the total supply is 5 billion tokens.</p>
+				<hr /><hr /><p><b>The token price at launch is $0.25 per HUMB, and the total supply is 5 billion tokens.</b></p>
 			
 			</div>
 			</div>

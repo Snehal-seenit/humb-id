@@ -12,7 +12,9 @@ const nextConfig = {
 	reactStrictMode: true,
 	swcMinify: true,
 	trailingSlash: true,
-	output: 'export'
+	output: 'export',
+// 	basePath: '/id', 
+//   assetPrefix: '/id',
   };
   
   module.exports = nextConfig;

@@ -4,6 +4,7 @@ import Link from "next/link";
 export default function FeatureSectionTwo() {
 	return (
 		<div className="section bg-warning-400 fugu-section-padding3">
+			
 			<div className="container">
 				<div className="fugu-section-title title-large">
 					<h2>Why Choose HUMB?</h2>

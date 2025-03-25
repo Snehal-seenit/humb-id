@@ -62,7 +62,7 @@ export default function HeroSection() {
 					</div>
 					<div className="col-xl-6 col-lg-5">
 						<div className="fugu-hero-thumb">
-							<img src="/images/all-img/product_image1.png" alt="hero-img" />
+							<img src="/images/all-img/new_image_hand.png" alt="hero-img" />
 							<div className="fugu-shape2">
 								<img src="/images/shape/background_1.png" alt="title" />
 							</div>

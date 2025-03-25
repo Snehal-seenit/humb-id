@@ -13,7 +13,7 @@ export default function ClientSliderOne() {
 		speed: 10000,
 		cssEase: "linear",
 		pauseOnHover: true,
-		adaptiveHeight: true,
+		adaptiveHeight: false,
 		responsive: [
 			{
 				breakpoint: 1199,

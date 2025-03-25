@@ -2436,7 +2436,7 @@ header.fugu--header-section.fugu--header-two.sticky-menu {
 
 footer.fugu-footer-section {
 	background-color:#13111a;
-	padding: 100px 0 95px;
+	padding: 75px 0 95px;
 }
 @media (max-width: 991px) {
 	footer.fugu-footer-section {
@@ -5700,7 +5700,7 @@ a.fugu-app-btn {
 @media (max-width: 991px) {
 	.fugu-iconbox-wrap {
 		padding: 30px;
-		background-color: var(--warning-300);
+	
 	}
 }
 @media (max-width: 479px) {
@@ -6910,7 +6910,7 @@ a.fugu-faq-btn:hover {
 	margin-right: 0;
 }
 .fugu-social-icon2 ul li a path {
-	fill: var(--gray-800);
+	fill: #000;
 	transition: all 0.4s;
 }
 .fugu-social-icon2 ul li a:hover path {
@@ -7038,7 +7038,7 @@ a.fugu-faq-btn:hover {
 }
 
 .fugu-client-section {
-	padding: 75px 0 80px;
+	padding: 75px 0 75px;
 }
 @media (max-width: 767px) {
 	.fugu-client-section {
@@ -7071,7 +7071,7 @@ a.fugu-faq-btn:hover {
 }
 
 .fugu-icon-list {
-	margin-top: 55px;
+	margin-top: 40px;
 }
 @media (max-width: 991px) {
 	.fugu-icon-list {
@@ -7084,7 +7084,6 @@ a.fugu-faq-btn:hover {
 	font-size: 18px;
 	padding-left: 30px;
 	margin-bottom: 18px;
-	/* color: var(--gray-800); */
 	color: #fff;
 }
 .fugu-icon-list ul li:last-child {
@@ -7743,46 +7742,46 @@ a.fugu-pricing-btn.active {
 }
 
 .fugu-section-padding {
-	padding: 120px 0;
+	padding: 50px 0;
 	background-color: #000;
 }
 @media (max-width: 991px) {
 	.fugu-section-padding {
-		padding: 100px 0;
+		padding: 60px 0;
 	}
 }
 @media (max-width: 767px) {
 	.fugu-section-padding {
-		padding: 80px 0;
+		padding: 40px 0;
 	}
 }
 
 .fugu-section-padding2 {
-	padding: 110px 0 120px;
+	padding: 50px 0 75px;
 }
 @media (max-width: 991px) {
 	.fugu-section-padding2 {
-		padding: 90px 0 100px;
+		padding: 60px 0 100px;
 	}
 }
 @media (max-width: 767px) {
 	.fugu-section-padding2 {
-		padding: 70px 0 80px;
+		padding: 40px 0 80px;
 	}
 }
 
 .fugu-section-padding3 {
-	padding: 110px 0 96px;
+	padding: 50px 0 75px;
 	background-color: #000;
 }
 @media (max-width: 991px) {
 	.fugu-section-padding3 {
-		padding: 90px 0 76px;
+		padding: 60px 0 76px;
 	}
 }
 @media (max-width: 767px) {
 	.fugu-section-padding3 {
-		padding: 70px 0 56px;
+		padding: 40px 0 56px;
 	}
 }
 
@@ -7793,7 +7792,7 @@ a.fugu-pricing-btn.active {
 }
 @media (max-width: 991px) {
 	.fugu-section-title {
-		margin: 0 auto 45px;
+		margin: 0 auto 30px;
 		max-width: 590px;
 	}
 }
@@ -8240,6 +8239,9 @@ a.fugu-pricing-btn.active {
 @media (max-width: 991px) {
 	.fugu-btn-wrap {
 		margin-top: 40px;
+	}
+	.mb-4{
+		margin-bottom: 40px !important;
 	}
 }
 

@@ -36,7 +36,7 @@ export default function HeaderHomeOne() {
               <img
                 src="/images/logo/Logo (1).png"
                 alt="logo"
-                className="light-version-logo"
+                className="light-version-logo" style={{maxWidth:"180px"}}
               />
             </Link>
           </div>
@@ -56,6 +56,7 @@ export default function HeaderHomeOne() {
                 >
                   &times;
                 </div>
+                
               </div>
 
               <Navbar>
@@ -77,6 +78,7 @@ export default function HeaderHomeOne() {
                 />
                 {/* <NavItem navItemText="About Us" menuItems={BlogDropdownMenus} /> */}
                 {/* <NavItem navItemText="Support" menuItems={ContactDropdownMenus} /> */}
+                
                 <li className="nav-item nav-item-has-children">
                   <Link href="about-us" className="nav-link-item drop-trigger">
                     About{" "}
