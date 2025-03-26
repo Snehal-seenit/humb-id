@@ -3032,7 +3032,6 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	border: 2px solid var(--gray-800);
 }
 .fugu-btn.small-btn {
-	border-radius: 10px;
 	padding: 15.5px 41px;
 }
 .fugu-btn.disabled,
@@ -3536,8 +3535,8 @@ button#fugu--search-btn {
 	font-size: 16px;
 	color: #fff;
 	transition: all 0.4s;
-	background: linear-gradient(225deg, #0080ff 0, #7d41ea 46.35%, #ff00d4 100%);
-	border-radius: 10px;
+	background: #542E71;
+	border-radius: 50px;
 }
 
 .fugu-breadcrumb-section {
@@ -5673,7 +5672,8 @@ a.fugu-app-btn {
 }
 
 .fugu--inner-section.bg-white {
-	background: var(--gray-10);
+	/* background: var(--gray-10); */
+	background-color: #000 !important;
 }
 
 .fugu--team-button {
@@ -10981,7 +10981,7 @@ button#fugu-input-submit:hover {
 }
 
 .white-version {
-	background-color: #fff;
+	background-color: #000;
 }
 .white-version .fugu--contact-info h4 {
 	color: #13111a;

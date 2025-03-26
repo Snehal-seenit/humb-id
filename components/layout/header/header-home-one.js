@@ -65,11 +65,11 @@ export default function HeaderHomeOne() {
                   menuItems={DemoDropdownMenus}
                   handleCloseMobileMenu={handleCloseMobileMenu}
                 />
-                <NavItem
+                {/* <NavItem
                   navItemText="Ecosystem"
                   menuItems={PagesDropdownMenus}
                   handleCloseMobileMenu={handleCloseMobileMenu}
-                />
+                /> */}
                 {/* <NavItem navItemText="Resources" menuItems={ElementsMegaMenu} /> */}
                 <NavItem
                   navItemText="Resources"
@@ -81,7 +81,7 @@ export default function HeaderHomeOne() {
                 
                 <li className="nav-item nav-item-has-children">
                   <Link href="about-us" className="nav-link-item drop-trigger">
-                    About{" "}
+                    About Us
                   </Link>
                   {/* <a href="#" class="nav-link-item drop-trigger">About Us</a> */}
                 </li>
@@ -93,11 +93,16 @@ export default function HeaderHomeOne() {
                     Support
                   </Link>
                 </li>
+                <div className="nav-item nav-item-has-children d-block d-md-none">
+                  <a className="fugu-btn fugu-header-btn m-4" href="https://app.humb.io/register">
+                      Login / Sign Up
+                  </a>
+                </div>
               </Navbar>
             </nav>
           </div>
           <div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-            <a className="fugu-btn fugu-header-btn" href="https://app.humb.io/">
+            <a className="fugu-btn fugu-header-btn" href="https://app.humb.io/register">
               Login / Sign Up
             </a>
           </div>

@@ -5,7 +5,7 @@ export default function AboutSection() {
 		<div className="fugu-about-section">
 			<div className="container">
 				<div className="row">
-					<div className="col-xl-7 col-lg-6">
+					<div className="col-xl-5 col-lg-6">
 						<div className="fugu-about-thumb">
 							<img
 								className="wow fadeInLeft"
@@ -13,17 +13,17 @@ export default function AboutSection() {
 								src="/id/images/all-img/about/about-thumb1.png"
 								alt=""
 							/>
-							<div className="fugu-about-thumb2">
+							{/* <div className="fugu-about-thumb2">
 								<img
 									className="wow fadeInUpX"
 									data-wow-delay=".30s"
 									src="/id/images/all-img/about/about-thumb2.png"
 									alt=""
 								/>
-							</div>
+							</div> */}
 						</div>
 					</div>
-					<div className="col-xl-5 col-lg-6 col-md-11 d-flex align-items-center">
+					<div className="col-xl-7 col-lg-6 col-md-11 d-flex align-items-center">
 						<div className="fugu-default-content">
 							<h2>Empowering Indonesia’s Crypto Traders with a Next-Gen Exchange</h2>
 							<p>

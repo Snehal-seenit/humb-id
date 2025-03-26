@@ -2,8 +2,6 @@ export const DemoDropdownMenus = [
 	{
 		title: "Spot Trading",
 		path: "https://app.humb.io/spot-trading/SOLUSDT",
-		target: "_blank",
-		rel: "noopener noreferrer",
 	},
 	{
 		title: "Margin Trading",
@@ -11,7 +9,7 @@ export const DemoDropdownMenus = [
 	},
 	{
 		title: "Copy Trading",
-		path: "https://app.humb.io/copy-trade",
+		path: "/copy-trading",
 	},
 	{
 		title: "Swap",

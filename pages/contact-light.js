@@ -8,12 +8,12 @@ export default function ContactLight() {
 		<div>
 			<BreadcrumbSection />
 			<ContactFormSection />
-			<CommunicationSection />
-			<FaqAccordionFour />
+			{/* <CommunicationSection />
+			<FaqAccordionFour /> */}
 		</div>
 	);
 }
 
 export async function getStaticProps() {
-	return { props: { header: "four", footer: "four" } };
+	return { props: { header: "one", footer: "one" } };
 }
