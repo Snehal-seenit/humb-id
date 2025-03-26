@@ -12,72 +12,70 @@ export default function TeamSection() {
 				<div>
 					<b>Increasing Blockchain Adoption in Healthcare</b>
 					<ul>
-						<li>Rewarding Traders and KYH (Know Your Healthcare): <small>14% of HUMB’s Profit will be shared with;</small></li> <br />
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Rewarding Traders and KYH (Know Your Healthcare): </b><br /><small className="fs-6"> 14% of HUMB’s Profit will be shared with;</small></li>
+						<li className="ms-5 list-circle"><strong className="fs-6">Traders holding HUMB Native Tokens,</strong></li>
+						<li className="ms-5 list-circle"><strong className="fs-6">Traders trading in Healthcare Tokens on HUMB exchange, and</strong></li>
+						<li className="ms-5 list-circle"><strong className="fs-6">Traders who demonstrate KYH because they are involved in healthcare.</strong></li>
+					</ul><br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Tokenization of Healthcare Assets:</b><br /><small className="fs-6">The healthcare industry is rapidly embracing blockchain technology to tokenize assets like medical equipment, patient data, and healthcare services, opening the door for platforms like HUMB to facilitate their exchange.</small></li> <br />
 					</ul>
-					<ol style={{listStyleType:"dec !important"}}>
-						<li className="ms-4"><strong>Traders holding HUMB Native Tokens,</strong></li>
-						<li className="ms-4"><strong>Traders trading in Healthcare Tokens on HUMB exchange, and</strong></li>
-						<li className="ms-4"><strong>Traders who demonstrate KYH because they are involved in healthcare.</strong></li>
-					</ol>
-					<ul>
-						<li>Tokenization of Healthcare Assets:<small>The healthcare industry is rapidly embracing blockchain technology to tokenize assets like medical equipment, patient data, and healthcare services, opening the door for platforms like HUMB to facilitate their exchange.</small></li> <br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Decentralized Healthcare Systems:</b><br /><small className="fs-6">Many healthcare organisations and global initiatives are driving decentralization, creating a demand for platforms that bridge traditional healthcare with blockchain.</small></li> <br />
 					</ul>
-					<ul>
-						<li>Decentralized Healthcare Systems:<small>Many healthcare organisations and global initiatives are driving decentralization, creating a demand for platforms that bridge traditional healthcare with blockchain.</small></li> <br />
-					</ul>
-					<ul>
-						<li>Real-World Applications:<small>Blockchain is being used for secure health record management, incentivized patient wellness programs, and supply chain transparency, all of which align with HUMB's vision.</small></li> <br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Real-World Applications:</b><br /><small className="fs-6">Blockchain is being used for secure health record management, incentivized patient wellness programs, and supply chain transparency, all of which align with HUMB's vision.</small></li> <br />
 					</ul>
 				</div>
 
 				<div>
 					<b>Favorable Market Conditions</b>
 					<ul>
-						<li>Crypto Market Recovery: <small>The cryptocurrency market has shown strong signs of resurgence in early 2025, with growing investor confidence and high trading volumes.</small></li> <br />
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Crypto Market Recovery:</b><br /> <small className="fs-6">The cryptocurrency market has shown strong signs of resurgence in early 2025, with growing investor confidence and high trading volumes.</small></li> <br />
 					</ul>
-					<ul>
-						<li>Regulatory Clarity: <small>The cryptocurrency market has shown strong signs of resurgence in early 2025, with growing investor confidence and high trading volumes.</small></li> <br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Regulatory Clarity:</b><br /> <small className="fs-6">The cryptocurrency market has shown strong signs of resurgence in early 2025, with growing investor confidence and high trading volumes.</small></li> <br />
 					</ul>
-					<ul>
-						<li>Innovations in Tokenization: <small>With tokenized bonds projected to reach $1 trillion by 2028, the healthcare sector is poised for a similar revolution, which HUMB can spearhead.</small></li> <br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Innovations in Tokenization:</b><br /> <small className="fs-6">With tokenized bonds projected to reach $1 trillion by 2028, the healthcare sector is poised for a similar revolution, which HUMB can spearhead.</small></li> <br />
 					</ul>
 				</div>
 
 				<div>
 					<b>Unmet Needs in the Healthcare Industry</b>
-					<ul>
-						<li>Interoperability and Data Sharing: <small>The cryptocurrency market has shown strong signs of resurgence in early 2025, with growing investor confidence and high trading volumes.</small></li> <br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Interoperability and Data Sharing:</b><br /> <small className="fs-6">The cryptocurrency market has shown strong signs of resurgence in early 2025, with growing investor confidence and high trading volumes.</small></li> <br />
 					</ul>
-					<ul>
-						<li>Funding Medical Innovation: <small>There is a significant gap in funding for medical research and innovation. A healthcare-focused crypto exchange can enable new fundraising mechanisms through healthcare tokens.</small></li> <br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Funding Medical Innovation:</b> <br /><small className="fs-6">There is a significant gap in funding for medical research and innovation. A healthcare-focused crypto exchange can enable new fundraising mechanisms through healthcare tokens.</small></li> <br />
 					</ul>
-					<ul>
-						<li>Patient Incentivization: <small>HUMB is introducing token-based rewards for patients who share anonymized data or participate in wellness programs, clinical trials, medical research addressing the need for more patient-centric solutions.</small></li> <br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Patient Incentivization:</b> <br /><small className="fs-6">HUMB is introducing token-based rewards for patients who share anonymized data or participate in wellness programs, clinical trials, medical research addressing the need for more patient-centric solutions.</small></li> <br />
 					</ul>
 				</div>
 
 				<div>
 					<b>Generative AI and Blockchain Synergy</b>
-					<ul>
-						<li>AI-Driven Healthcare Insights:  <small>Generative AI is being increasingly used for drug discovery, diagnostics, and personalized care. Tokenized data ecosystems on HUMB can power AI models by providing secure, anonymized datasets.</small></li> <br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>AI-Driven Healthcare Insights:</b>  <br /><small className="fs-6">Generative AI is being increasingly used for drug discovery, diagnostics, and personalized care. Tokenized data ecosystems on HUMB can power AI models by providing secure, anonymized datasets.</small></li> <br />
 					</ul>
-					<ul>
-						<li>Blockchain for Bias-Free AI: <small>By ensuring data integrity and provenance, blockchain can address systemic biases in AI-driven healthcare, a critical concern for the industry.</small></li> <br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Blockchain for Bias-Free AI: </b><br /><small className="fs-6">By ensuring data integrity and provenance, blockchain can address systemic biases in AI-driven healthcare, a critical concern for the industry.</small></li> <br />
 					</ul>
 				</div>
 
 				<div>
 					<b>Competitive Advantage</b>
-					<ul>
-						<li>First-Mover Advantage:<small>The healthcare-focused crypto exchange niche is still in its infancy. HUMB can establish itself as a leader in this space by launching at a time when the market is primed for adoption.</small> </li>
-					</ul>
-					<ul>
-						<li>Specialized Ecosystem:<small>Unlike generic crypto exchanges, HUMB's tailored approach to healthcare tokens and data sharing creates a unique value proposition for healthcare stakeholders, including hospitals, researchers, and patients.</small></li>
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>First-Mover Advantage:</b><br /><small className="fs-6">The healthcare-focused crypto exchange niche is still in its infancy. HUMB can establish itself as a leader in this space by launching at a time when the market is primed for adoption.</small> </li>
+					</ul> <br />
+					<ul className="custom-list">
+						<li className="fs-6 ms-4 custom-list list-sqr"><b>Specialized Ecosystem:</b><br /><small className="fs-6">Unlike generic crypto exchanges, HUMB's tailored approach to healthcare tokens and data sharing creates a unique value proposition for healthcare stakeholders, including hospitals, researchers, and patients.</small></li>
 					</ul>
 				</div>
-
+				<br />
 				<div>
-					<p><b>Conclusion</b></p>
+					<b>Conclusion</b>
 					<p>2025 offers a rare alignment of factors—technological readiness, regulatory support, market momentum, and industry needs—making it the ideal time for HUMB to launch. With its specialized focus on healthcare tokenization and data-driven innovation, HUMB not only aims to capitalize on current market trends but also shape the future of decentralized healthcare.</p>
 				</div>
 				{/* <div className="row">

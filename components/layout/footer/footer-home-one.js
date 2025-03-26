@@ -44,7 +44,7 @@ export default function FooterHomeOne() {
 									<Link href="/blog">Blog </Link>
 								</li>
 								<li>
-									<Link href="/contact-light">Contact</Link>
+									<Link href="/contact-light">Contact Us</Link>
 								</li>
 							</ul>
 						</div>
@@ -60,7 +60,7 @@ export default function FooterHomeOne() {
 									<Link href="https://app.humb.io/margin-trading/BTCUSDT" target="_blank">Margin Trading </Link>
 								</li>
 								<li>
-									<Link href="https://app.humb.io/copy-trade" target="_blank">Copy Trading </Link>
+									<Link href="/copy-trading">Copy Trading </Link>
 								</li>
 								<li>
 									<Link href="https://app.humb.io/currency-conversion" target="_blank">Swap </Link>

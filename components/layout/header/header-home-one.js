@@ -81,7 +81,7 @@ export default function HeaderHomeOne() {
                 
                 <li className="nav-item nav-item-has-children">
                   <Link href="about-us" className="nav-link-item drop-trigger">
-                    About{" "}
+                    About Us
                   </Link>
                   {/* <a href="#" class="nav-link-item drop-trigger">About Us</a> */}
                 </li>

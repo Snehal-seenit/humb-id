@@ -13,7 +13,8 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>HUMB</title>
+				<title>HUMB Exchange | The World's First Healthcare-Focused Crypto Trading Platform</title>
+				<meta name="description" content="Trade crypto & healthcare tokens on HUMB Exchange, the world's first regulated healthcare-focused crypto platform. Enjoy low fees, high liquidity, instant swaps, and 14% profit sharing for registered traders. Start trading today!" />
 			</Head>
 			<HeroSection />
 			<ClientSliderOne />

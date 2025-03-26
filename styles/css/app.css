@@ -3535,8 +3535,8 @@ button#fugu--search-btn {
 	font-size: 16px;
 	color: #fff;
 	transition: all 0.4s;
-	background: linear-gradient(225deg, #0080ff 0, #7d41ea 46.35%, #ff00d4 100%);
-	border-radius: 10px;
+	background: #542E71;
+	border-radius: 50px;
 }
 
 .fugu-breadcrumb-section {
@@ -10981,7 +10981,7 @@ button#fugu-input-submit:hover {
 }
 
 .white-version {
-	background-color: #fff;
+	background-color: #000;
 }
 .white-version .fugu--contact-info h4 {
 	color: #13111a;
