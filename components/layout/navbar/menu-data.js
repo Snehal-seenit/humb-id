@@ -9,10 +9,10 @@ export const DemoDropdownMenus = [
 		title: "Margin Trading",
 		path: "https://app.humb.io/margin-trading/BTCUSDT",
 	},
-	{
-		title: "Copy Trading",
-		path: "https://app.humb.io/copy-trade",
-	},
+	// {
+	// 	title: "Copy Trading",
+	// 	path: "https://app.humb.io/copy-trade",
+	// },
 	{
 		title: "Swap",
 		path: "https://app.humb.io/currency-conversion",

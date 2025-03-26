@@ -19,7 +19,7 @@ export default function AboutUs() {
 			{/* <FeatureOneSection /> */}
 			{/* <VideoSectionThree /> */}
 			{/* <CounterOneSection /> */}
-			<TeamSection />
+			{/* <TeamSection /> */}
 			<FaqSection />
 			{/* <ClientSliderTwo /> */}
 		</>

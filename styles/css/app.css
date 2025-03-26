@@ -3032,7 +3032,6 @@ footer.fugo--footer-section.white-version .fugo--footer-bottom p {
 	border: 2px solid var(--gray-800);
 }
 .fugu-btn.small-btn {
-	border-radius: 10px;
 	padding: 15.5px 41px;
 }
 .fugu-btn.disabled,
@@ -5673,7 +5672,8 @@ a.fugu-app-btn {
 }
 
 .fugu--inner-section.bg-white {
-	background: var(--gray-10);
+	/* background: var(--gray-10); */
+	background-color: #000 !important;
 }
 
 .fugu--team-button {

@@ -65,11 +65,11 @@ export default function HeaderHomeOne() {
                   menuItems={DemoDropdownMenus}
                   handleCloseMobileMenu={handleCloseMobileMenu}
                 />
-                <NavItem
+                {/* <NavItem
                   navItemText="Ecosystem"
                   menuItems={PagesDropdownMenus}
                   handleCloseMobileMenu={handleCloseMobileMenu}
-                />
+                /> */}
                 {/* <NavItem navItemText="Resources" menuItems={ElementsMegaMenu} /> */}
                 <NavItem
                   navItemText="Resources"
@@ -97,7 +97,7 @@ export default function HeaderHomeOne() {
             </nav>
           </div>
           <div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-            <a className="fugu-btn fugu-header-btn" href="https://app.humb.io/">
+            <a className="fugu-btn fugu-header-btn" href="https://app.humb.io/register">
               Login / Sign Up
             </a>
           </div>

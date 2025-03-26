@@ -15,7 +15,7 @@ export default function ContactFormSection() {
 			<div className="container">
 				<div className="fugu--contact-column">
 					<div className="row">
-						<div className="col-lg-5">
+						{/* <div className="col-lg-5">
 							<div className="fugu--contact-info">
 								<h4>Reach out to us at:</h4>
 								<ul>
@@ -59,8 +59,8 @@ export default function ContactFormSection() {
 									</li>
 								</ul>
 							</div>
-						</div>
-						<div className="col-lg-7">
+						</div> */}
+						<div className="col-lg-12">
 							<div className="fugu--contact-form wow fadeInUpX">
 								<h3>Leave a Reply:</h3>
 								<p>Your email address will not be published. Required fields are marked*</p>
