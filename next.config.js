@@ -13,8 +13,8 @@ const nextConfig = {
 	swcMinify: true,
 	trailingSlash: true,
 	output: 'export',
-// 	basePath: '/id', 
-//   assetPrefix: '/id',
+	basePath: '/id', 
+  assetPrefix: '/id',
   };
   
   module.exports = nextConfig;
