@@ -36,7 +36,8 @@ export default function HeaderHomeOne() {
               <img
                 src="/images/logo/Logo (1).png"
                 alt="logo"
-                className="light-version-logo" style={{maxWidth:"180px"}}
+                className="light-version-logo"
+                style={{ maxWidth: "180px" }}
               />
             </Link>
           </div>
@@ -56,7 +57,6 @@ export default function HeaderHomeOne() {
                 >
                   &times;
                 </div>
-                
               </div>
 
               <Navbar>
@@ -78,14 +78,20 @@ export default function HeaderHomeOne() {
                 />
                 {/* <NavItem navItemText="About Us" menuItems={BlogDropdownMenus} /> */}
                 {/* <NavItem navItemText="Support" menuItems={ContactDropdownMenus} /> */}
-                
-                <li className="nav-item nav-item-has-children">
-                  <Link href="about-us" className="nav-link-item drop-trigger">
+
+                <li
+                  className="nav-item nav-item-has-children"
+                  onClick={handleCloseMobileMenu}
+                >
+                  <Link href="/about-us" className="nav-link-item drop-trigger">
                     About{" "}
                   </Link>
                   {/* <a href="#" class="nav-link-item drop-trigger">About Us</a> */}
                 </li>
-                <li className="nav-item nav-item-has-children">
+                <li
+                  className="nav-item nav-item-has-children"
+                  onClick={handleCloseMobileMenu}
+                >
                   <Link
                     href="under-construction"
                     className="nav-link-item drop-trigger"
@@ -97,7 +103,10 @@ export default function HeaderHomeOne() {
             </nav>
           </div>
           <div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-            <a className="fugu-btn fugu-header-btn" href="https://app.humb.io/register">
+            <a
+              className="fugu-btn fugu-header-btn"
+              href="https://app.humb.io/register"
+            >
               Login / Sign Up
             </a>
           </div>
