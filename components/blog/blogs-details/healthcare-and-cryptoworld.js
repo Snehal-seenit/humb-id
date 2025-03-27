@@ -114,7 +114,7 @@ With continued advancements in CryptoExchange technologies and blockchain integr
 Join the Healthcare Blockchain Revolution with HUMB Exchange
 Are you ready to explore the future of Healthcare Blockchain and Crypto Trading?
 Sign up today and be a part of the revolution!
-<a href="https://humb.io" target="_blank">Register now: https://humb.io</a>
+<a href="https://app.humb.io/register" target="_blank">Register now: https://app.humb.io/register</a>
 
 
             </p>

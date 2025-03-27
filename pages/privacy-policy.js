@@ -189,7 +189,7 @@ The personal data stated in this Privacy Policy and processed by us will be dele
 <br />
 <p ><strong>15.	 OBJECTION ADVERTISEMENT</strong></p>
 <p ><strong>How can I object to the processing of my data for advertising purposes?</strong></p>
-<p >You can also object to any use of Your personal data for advertising purposes. Please contact us by email <a href="mailto:privacy@humb.io" target="_blank" ><span  data-cfemail="58282a312e393b2118302d353a763137">privacy@humbio</span></a> if You would like to object in general to the processing of Your data for advertising purposes. The objection does not affect the legality of the processing of Your personal data based on legitimate interests until You withdraw Your consent. Please note, that after the objection You may still receive advertising about HUMB from other providers over which we have no control.</p>
+<p >You can also object to any use of Your personal data for advertising purposes. Please contact us by email <a href="mailto:privacy@humb.io" target="_blank" ><span  data-cfemail="58282a312e393b2118302d353a763137">privacy@humb.io</span></a> if You would like to object in general to the processing of Your data for advertising purposes. The objection does not affect the legality of the processing of Your personal data based on legitimate interests until You withdraw Your consent. Please note, that after the objection You may still receive advertising about HUMB from other providers over which we have no control.</p>
 <br />
 <p ><strong>16.	 AUTOMATED DECISION-MAKING</strong></p>
 <p ><strong>Does HUMB use my personal data for automated decision-making including profiling?</strong></p>

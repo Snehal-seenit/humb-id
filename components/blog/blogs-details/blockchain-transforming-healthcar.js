@@ -52,7 +52,7 @@ Traditional healthcare models offer patients limited control over their own medi
                 </p>
                 <p className="text-color">
                 Real-World Applications of Blockchain in Healthcare<br />
-1. Blockchain-based electronic Health Records (EHRs)
+1. Blockchain-based Electronic Health Records (EHRs)
 Current Challenge:
 Medical records are often scattered across different providers, leading to inefficiencies, misdiagnoses, and delays in treatment.
 Blockchain Solution:

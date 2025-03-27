@@ -35,7 +35,7 @@ export default function BlogPost() {
 							</p> */}
 							<Link href={"blogs/blockchain-transforming-healthcar"} legacyBehavior>
 								<a className="fugu-icon-btn">
-									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
+									{/* Read More <img src="/images/svg/arrow-black-right.svg" alt="" /> */}
 								</a>
 							</Link>
 						</div>
@@ -70,7 +70,7 @@ export default function BlogPost() {
 							</p> */}
 							<Link href={"blogs/healthcare-and-cryptoworld"} legacyBehavior>
 								<a className="fugu-icon-btn">
-									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
+									{/* Read More <img src="/images/svg/arrow-black-right.svg" alt="" /> */}
 								</a>
 							</Link>
 						</div>
@@ -105,7 +105,7 @@ export default function BlogPost() {
 							</p> */}
 							<Link href={"blogs/humb-revolution"} legacyBehavior>
 								<a className="fugu-icon-btn">
-									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
+									{/* Read More <img src="/images/svg/arrow-black-right.svg" alt="" /> */}
 								</a>
 							</Link>
 						</div>

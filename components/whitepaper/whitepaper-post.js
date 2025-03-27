@@ -35,7 +35,8 @@ export default function WhitepaperPost() {
 							</p> */}
 							<Link href={"whitepaper-blogs/healthcare-dynamics"} legacyBehavior>
 								<a className="fugu-icon-btn">
-									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
+									Read More 
+									{/* <img src="/images/svg/arrow-black-right.svg" alt="" /> */}
 								</a>
 							</Link>
 						</div>
@@ -69,7 +70,8 @@ export default function WhitepaperPost() {
 							</p> */}
 							<Link href={"whitepaper-blogs/tokenization"} legacyBehavior>
 								<a className="fugu-icon-btn">
-									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
+									Read More 
+									{/* <img src="/images/svg/arrow-black-right.svg" alt="" /> */}
 								</a>
 							</Link>
 						</div>
@@ -207,7 +209,8 @@ export default function WhitepaperPost() {
 							</p> */}
 							<Link href={"whitepaper-blogs/democratising-healthcare"} legacyBehavior>
 								<a className="fugu-icon-btn">
-									Read More <img src="/images/svg/arrow-black-right.svg" alt="" />
+									Read More 
+									{/* <img src="/images/svg/arrow-black-right.svg" alt="" /> */}
 								</a>
 							</Link>
 						</div>

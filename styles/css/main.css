@@ -351,8 +351,7 @@
 }
 
 .site-menu-main .nav-link-item {
-	/* color: #fff; */
-	font-size: 16px;
+	font-size: clamp(0.875rem, 0.8173rem + 0.2564vw, 1.125rem);
 	font-weight: 600;
 	font-style: normal;
 	letter-spacing: normal;
@@ -451,7 +450,7 @@
 }
 
 .site-menu-main .sub-menu--item:hover > a {
-	color: #542E71;
+	color: #a872da;
 }
 
 @media (min-width: 992px) {

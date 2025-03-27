@@ -84,7 +84,7 @@ export default function HeaderHomeOne() {
                   onClick={handleCloseMobileMenu}
                 >
                   <Link href="/about-us" className="nav-link-item drop-trigger">
-                    About{" "}
+                    About HUMB{" "}
                   </Link>
                   {/* <a href="#" class="nav-link-item drop-trigger">About Us</a> */}
                 </li>
