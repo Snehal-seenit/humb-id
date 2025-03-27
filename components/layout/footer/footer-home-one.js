@@ -22,7 +22,7 @@ export default function FooterHomeOne() {
 							<span> Quick Links</span>
 							<ul>
 								<li>
-									<Link href={"/about-us"}> About Us </Link>
+									<Link href={"/about-us"}> About HUMB </Link>
 								</li>
 								<li>
 									<Link href="/privacy-policy"> Privacy Policy </Link>
@@ -44,7 +44,10 @@ export default function FooterHomeOne() {
 									<Link href="/blog">Blog </Link>
 								</li>
 								<li>
-									<Link href="/contact-light">Contact Us</Link>
+									<Link href="/contact-us">Contact Us</Link>
+								</li>
+								<li>
+									<Link href="https://humb.io/about-us" target="_blank">Team Members</Link>
 								</li>
 							</ul>
 						</div>

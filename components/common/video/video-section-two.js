@@ -54,7 +54,7 @@ export default function VideoSectionTwo() {
 										<small className="fw-normal">Engage in futures trading to speculate on the future price of cryptocurrencies. With our futures contracts, you can profit from both rising and falling markets, providing flexibility and more ways to trade.</small>
 									</li>
 									<li>
-									<img src="/images/svg/new icons for website-01.png" alt="" />
+									<img src="/images/svg/icons_1.png" alt="" />
 										<p className="mb-0">Crypto Swap</p>
 										<small className="fw-normal">Convert assets seamlessly with our instant crypto swap feature. Swap one cryptocurrency for another without delays, allowing you to take advantage of market opportunities as they arise.</small>
 									</li>

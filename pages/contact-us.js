@@ -1,9 +1,9 @@
 import FaqAccordionFour from "../components/common/faq/faq-accordion-four";
-import BreadcrumbSection from "../components/contact-light/breadcrumb-section";
-import ContactFormSection from "../components/contact-light/contact-form-section";
-import CommunicationSection from "./../components/contact-light/communication-section";
+import BreadcrumbSection from "../components/contact-us/breadcrumb-section";
+import ContactFormSection from "../components/contact-us/contact-form-section";
+import CommunicationSection from "./../components/contact-us/communication-section";
 
-export default function ContactLight() {
+export default function ContactUs() {
 	return (
 		<div>
 			<BreadcrumbSection />
