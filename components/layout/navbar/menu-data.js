@@ -2,17 +2,15 @@ export const DemoDropdownMenus = [
 	{
 		title: "Spot Trading",
 		path: "https://app.humb.io/spot-trading/SOLUSDT",
-		target: "_blank",
-		rel: "noopener noreferrer",
 	},
 	{
 		title: "Margin Trading",
 		path: "https://app.humb.io/margin-trading/BTCUSDT",
 	},
-	// {
-	// 	title: "Copy Trading",
-	// 	path: "https://app.humb.io/copy-trade",
-	// },
+	{
+		title: "Copy Trading",
+		path: "/copy-trading",
+	},
 	{
 		title: "Swap",
 		path: "https://app.humb.io/currency-conversion",

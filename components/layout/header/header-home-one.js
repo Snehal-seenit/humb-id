@@ -99,6 +99,11 @@ export default function HeaderHomeOne() {
                     Support
                   </Link>
                 </li>
+                <div className="nav-item nav-item-has-children d-block d-md-none">
+                  <a className="fugu-btn fugu-header-btn m-4" href="https://app.humb.io/register">
+                      Login / Sign Up
+                  </a>
+                </div>
               </Navbar>
             </nav>
           </div>

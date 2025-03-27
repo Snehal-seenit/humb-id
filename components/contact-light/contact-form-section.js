@@ -45,10 +45,12 @@ export default function ContactFormSection() {
     } catch (error) {
       setSubmitStatus({
         success: false,
-        message: "Failed to send message. Please try again.",
+        message: "",
       });
+	  reset(); // Reset the form after successful submission
     } finally {
       setIsSubmitting(false);
+	  reset(); // Reset the form after successful submission
     }
   };
 

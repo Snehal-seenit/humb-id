@@ -1,16 +1,14 @@
 /* eslint-disable react/no-unescaped-entities */
-export default function Construction() {
+export default function CopyTrading() {
 	return (
 		<div className="section bg-black">
 			<div className="container">
 				<div className="fugu-error-content wow fadeInUpX">
-					<h2>We Are Coming Soon!</h2>
+					<h2>Coming Soon</h2> 
 					<p>
-						We are currently working on something awesome. Stay tuned!
+                        HUMB COPYTRADING
 					</p>
-					<a className="fugu-btn small-btn" href="https://app.humb.io/login">
-                    Start Trading Now
-					</a>
+					
 				</div>
 			</div>
 		</div>

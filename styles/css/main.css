@@ -992,3 +992,12 @@ color: #DCDCDC;
 .fugu-icon-btn:hover{
 	color: #542e71;
 }
+.list-circle{
+	list-style: circle !important;
+}
+.list-sqr{
+	list-style: square !important;
+}
+.custom-list::marker{
+	color: #542E71;
+}
