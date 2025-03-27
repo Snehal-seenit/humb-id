@@ -71,7 +71,7 @@ export default function ClientSliderOne() {
 			<div style={{color:"#fff",textAlign:"center"}}>
 			<h4 style={{color:"#DCDCDC",marginTop:"2rem"}}>Reimagine Crypto Trading</h4>
 				<p style={{color:"#A1A1AAC"}}>The Exchange That Shares Profits!
-We’re the world’s first healthcare-focused crypto exchange—distributing 14% profits with our registered HUMB traders like you. Trade confidently while earning passive rewards.
+We’re the world’s first healthcare-focused crypto exchange distributing 14% profits with our registered HUMB traders like you. Trade confidently while earning passive rewards.
 </p>
 			</div>
 			</div>

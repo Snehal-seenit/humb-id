@@ -6,7 +6,7 @@ export default function DemocratisingHealthcareSingleBlogContainer() {
         <div className="fugu-blog-section fugu-section-padding">
             <div className="container">
                 <div className="row">
-                    <div className="col-xl-8 col-lg-7">
+                    <div className="col-lg-8 m-auto">
                     <div className="fugu-blog-single-wrap">
 			{/* <img className="wow fadeInUpX" src="/images/all-img/blog/blog-single-thumb.png" alt="" /> */}
 			{/* <div className="fugu-blog-meta">
@@ -60,7 +60,7 @@ Participation in Health research
 Informed consent processes can be facilitated through tokenization. Patients can provide consent for their data to be used in research projects, and the terms of consent can be encoded in smart contracts
 
 Efficient Claim Processing
-Insurance claims proces s ing can be streamlined through tokenization. Tokens representing claims can be automatically processed through smart contracts, reducing administrative overhead.
+Insurance claims processing can be streamlined through tokenization. Tokens representing claims can be automatically processed through smart contracts, reducing administrative overhead.
 
 Inclusive Financial Models
  

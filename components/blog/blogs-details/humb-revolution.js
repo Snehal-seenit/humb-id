@@ -6,7 +6,7 @@ export default function HumbRevolutionContainer() {
         <div className="fugu-blog-section fugu-section-padding">
             <div className="container">
                 <div className="row">
-                    <div className="col-xl-8 col-lg-7">
+                    <div className="col-lg-8 m-auto">
                     <div className="fugu-blog-single-wrap">
 			{/* <img className="wow fadeInUpX" src="/images/all-img/blog/blog-single-thumb.png" alt="" /> */}
 			{/* <div className="fugu-blog-meta">
@@ -19,7 +19,7 @@ export default function HumbRevolutionContainer() {
 					</li>
 				</ul>
 			</div> */}
-			<h5>
+			<h5 className="heading-color">
             HUMB Revolution: The First Healthcare-Focused Crypto Exchange			</h5>
 			<p>
             The digital finance world is evolving, and HUMB is leading the charge. HUMB is the first crypto exchange focused on healthcare.

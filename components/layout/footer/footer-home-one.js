@@ -14,7 +14,7 @@ export default function FooterHomeOne() {
 							<p>
 							The Profit Sharing Crypto Exchange.
 							</p>
-							{/* <p className="fugu-copywright">Copyright &copy; 2025 HUMB. All rights reserved.</p> */}
+							<p className="fugu-copywright">Copyright &copy; 2025 HUMB. All rights reserved.</p>
 						</div>
 					</div>
 					<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">

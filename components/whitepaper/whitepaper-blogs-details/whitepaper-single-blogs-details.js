@@ -6,7 +6,7 @@ export default function WhitepaperSingleBlogContainer() {
         <div className="fugu-blog-section fugu-section-padding">
             <div className="container">
                 <div className="row">
-                    <div className="col-xl-8 col-lg-7">
+                    <div className="col-lg-8 m-auto">
                     <div className="fugu-blog-single-wrap">
 			{/* <img className="wow fadeInUpX" src="/images/all-img/blog/blog-single-thumb.png" alt="" /> */}
 			{/* <div className="fugu-blog-meta">

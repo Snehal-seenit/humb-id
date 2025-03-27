@@ -3540,7 +3540,7 @@ button#fugu--search-btn {
 }
 
 .fugu-breadcrumb-section {
-	padding: 188px 0 120px;
+	padding: 188px 0 0px;
 	position: relative;
 	background-color: var(--warning-400);
 }
@@ -9086,7 +9086,7 @@ a.fugu-pricing-btn.active {
 }
 
 .fugu-about-section {
-	padding: 120px 0 140px;
+	padding: 50px 0 140px;
 	background-color: #000;
 }
 @media (max-width: 991px) {
