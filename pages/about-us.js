@@ -7,7 +7,7 @@ import FaqSection from "../components/common/faq/faq-section";
 import FeatureOneSection from "../components/common/feature/feature-one-section";
 import ClientSliderTwo from "./../components/common/sliders/client/client-slider-two";
 import VideoSectionThree from "./../components/common/video/video-section-three";
-
+import MissionVision from "../components/about/mission-vision";
 export default function AboutUs() {
 	return (
 		<>
@@ -16,6 +16,7 @@ export default function AboutUs() {
 			</Head>
 			<Breadcrumb />
 			<AboutSection />
+			<MissionVision />
 			{/* <FeatureOneSection /> */}
 			{/* <VideoSectionThree /> */}
 			{/* <CounterOneSection /> */}
