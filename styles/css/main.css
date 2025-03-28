@@ -1000,3 +1000,6 @@ color: #DCDCDC;
 .custom-list::marker{
 	color: #542E71;
 }
+.site-menu-main li.nav-item:hover a.nav-link-item{
+	color:#a872da;
+}
