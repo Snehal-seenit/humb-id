@@ -6,7 +6,7 @@ export default function TokenizationSingleBlogContainer() {
         <div className="fugu-blog-section fugu-section-padding">
             <div className="container">
                 <div className="row">
-                    <div className="col-xl-8 col-lg-7">
+                    <div className="col-lg-8 m-auto">
                     <div className="fugu-blog-single-wrap">
 			{/* <img className="wow fadeInUpX" src="/images/all-img/blog/blog-single-thumb.png" alt="" /> */}
 			{/* <div className="fugu-blog-meta">
@@ -26,7 +26,7 @@ export default function TokenizationSingleBlogContainer() {
 			This white paper delves into the ground-breaking realm of healthcare transformation, spotlighting the potent impact of tokenization through platforms like HUMB. We explore how the convergence of blockchain technology, and a dedicated token exchange platform has the potential to revolutionize information exchange, enhance data security, and streamline business processes within the healthcare industry. By adopting assertive strategies and leveraging real-world examples, we unravel the compelling narrative of a future where HUMB becomes the linchpin in reshaping the landscape of healthcare information management.
 			</p>
 			<p className="text-color">
-			Tokenization today, stands as the beacon guiding the future of the healthcare industry, promising a transformative shift in the way we manage, share, and leverage health related data. At its core, tokenization involves the representation of health assets, patient records, and medical information as secure and interoperable digital tokens on blockchain platforms. Tokenization is an innovative approach and is poised to be a transformative force in the healthcare industry, offering solutions to several challenges and introducing novel possibilities. At HUMB we believe that TOKENIZATION is considered the next big revolution in healthcare and brings along with it myriad of benefits::
+			Tokenization today, stands as the beacon guiding the future of the healthcare industry, promising a transformative shift in the way we manage, share, and leverage health related data. At its core, tokenization involves the representation of health assets, patient records, and medical information as secure and interoperable digital tokens on blockchain platforms. Tokenization is an innovative approach and is poised to be a transformative force in the healthcare industry, offering solutions to several challenges and introducing novel possibilities. At HUMB we believe that TOKENIZATION is considered the next big revolution in healthcare and brings along with it myriad of benefits:
 			</p>
 			<p className="text-color">
 			Enhanced Data Security and Privacy

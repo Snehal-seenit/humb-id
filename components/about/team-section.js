@@ -6,7 +6,7 @@ export default function TeamSection() {
 		<div className=" fugu-blog-section fugu-section-padding">
 			<div className="container">
 				<div className="row">
-					<h2>2025 is the right time for HUMB’s healthcare focused crypto exchange platform</h2>
+					<h2>2025 is the right time for HUMB healthcare focused crypto exchange platform</h2>
 					<p>2025 presents a unique convergence of technological advancements, regulatory shifts, and market readiness, making it an opportune moment to for a healthcare-focused crypto exchange platform like HUMB. Here are some of the reasons why – </p>
 				</div><br />
 				<div>

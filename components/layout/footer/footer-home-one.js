@@ -14,7 +14,7 @@ export default function FooterHomeOne() {
 							<p>
 							The Profit Sharing Crypto Exchange.
 							</p>
-							{/* <p className="fugu-copywright">Copyright &copy; 2025 HUMB. All rights reserved.</p> */}
+							<p className="fugu-copywright">Copyright &copy; 2025 HUMB. All rights reserved.</p>
 						</div>
 					</div>
 					<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
@@ -22,7 +22,7 @@ export default function FooterHomeOne() {
 							<span> Quick Links</span>
 							<ul>
 								<li>
-									<Link href={"/about-us"}> About Us </Link>
+									<Link href={"/about-us"}> About HUMB </Link>
 								</li>
 								<li>
 									<Link href="/privacy-policy"> Privacy Policy </Link>
@@ -44,7 +44,10 @@ export default function FooterHomeOne() {
 									<Link href="/blog">Blog </Link>
 								</li>
 								<li>
-									<Link href="/contact-light">Contact Us</Link>
+									<Link href="/contact-us">Contact Us</Link>
+								</li>
+								<li>
+									<Link href="https://humb.io/about-us" target="_blank">Team Members</Link>
 								</li>
 							</ul>
 						</div>

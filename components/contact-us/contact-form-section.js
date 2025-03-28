@@ -59,7 +59,7 @@ export default function ContactFormSection() {
       <div className="container">
         <div className="fugu--contact-column">
           <div className="row">
-            <div className="col-lg-12">
+            <div className="col-lg-8 m-auto">
               <div className="fugu--contact-form wow fadeInUpX">
                 <h3>Send Us A Message</h3>
                 <p>

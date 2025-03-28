@@ -6,7 +6,7 @@ export default function HealthcareCryptoWorldContainer() {
         <div className="fugu-blog-section fugu-section-padding">
             <div className="container">
                 <div className="row">
-                    <div className="col-xl-8 col-lg-7">
+                    <div className="col-lg-8 m-auto">
                     <div className="fugu-blog-single-wrap">
 			{/* <img className="wow fadeInUpX" src="/images/all-img/blog/blog-single-thumb.png" alt="" /> */}
 			{/* <div className="fugu-blog-meta">
@@ -114,7 +114,7 @@ With continued advancements in CryptoExchange technologies and blockchain integr
 Join the Healthcare Blockchain Revolution with HUMB Exchange
 Are you ready to explore the future of Healthcare Blockchain and Crypto Trading?
 Sign up today and be a part of the revolution!
-<a href="https://humb.io" target="_blank">Register now: https://humb.io</a>
+<a href="https://app.humb.io/register" target="_blank">Register now: https://app.humb.io/register</a>
 
 
             </p>

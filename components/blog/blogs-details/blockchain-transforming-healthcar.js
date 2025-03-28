@@ -6,7 +6,7 @@ export default function BlockchainTransformingHealthcareContainer() {
         <div className="fugu-blog-section fugu-section-padding">
             <div className="container">
                 <div className="row">
-                    <div className="col-xl-8 col-lg-7">
+                    <div className="col-lg-8 m-auto">
                     <div className="fugu-blog-single-wrap">
 			{/* <img className="wow fadeInUpX" src="/images/all-img/blog/blog-single-thumb.png" alt="" /> */}
 			{/* <div className="fugu-blog-meta">
@@ -39,7 +39,7 @@ Healthcare organizations handle vast amounts of sensitive patient information, m
                 A major challenge in healthcare is the lack of interoperability between hospitals, clinics, and medical systems. Many institutions use Electronic Health Records (EHRs) that do not communicate efficiently with each other. Blockchain-based EHRs create a standardized, secure, and interoperable network, allowing seamless data exchange among healthcare providers. This results in better patient care, fewer medical errors, and improved efficiency.
                 </p>
                 <p className="text-color">
-                3. Fraud Prevention and Suppl className="text-color"y Chain Transparency
+                3. Fraud Prevention and Supply Chain Transparency
                 Healthcare fraud, including false insurance claims and counterfeit medications, costs billions of dollars every year. With blockchain’s immutable ledger, all transactions, prescriptions, and records are secure, transparent, and verifiable. HUMB Exchange’s CryptoExchange solutions track pharmaceutical supply chains, ensuring that only authentic, regulation-compliant drugs reach the market.
                 </p>
                 <p className="text-color">
@@ -52,7 +52,7 @@ Traditional healthcare models offer patients limited control over their own medi
                 </p>
                 <p className="text-color">
                 Real-World Applications of Blockchain in Healthcare<br />
-1. Blockchain-based electronic Health Records (EHRs)
+1. Blockchain-based Electronic Health Records (EHRs)
 Current Challenge:
 Medical records are often scattered across different providers, leading to inefficiencies, misdiagnoses, and delays in treatment.
 Blockchain Solution:
@@ -107,7 +107,7 @@ As blockchain regulations evolve and technology advances, it will become an esse
 
 Be a Part of the Blockchain Revolution with HUMB Exchange
 Are you ready to experience the future of Healthcare Blockchain and Crypto Trading?
-Sign up today and explore the endless possibilities of blockchain in healthcare! <a href="https://humb.io" target="_blank">Register now: https://humb.io</a>
+Sign up today and explore the endless possibilities of blockchain in healthcare! <a href="https://app.humb.io/register" target="_blank">Register now: https://app.humb.io/register</a>
                 </p>
 		</div>
                     </div>                  
