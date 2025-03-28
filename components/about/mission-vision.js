@@ -20,7 +20,7 @@ export default function MissionVision() {
 							<img
 								className="wow fadeInLeft"
 								data-wow-delay=".10s"
-								src="/images/all-img/image of mission and vision-01.png"
+								src="/id/images/all-img/image of mission and vision-01.png"
 								alt=""
 							/>
 							{/* <div className="fugu-about-thumb2">
