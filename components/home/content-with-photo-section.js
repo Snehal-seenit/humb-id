@@ -22,22 +22,22 @@ export default function ContentWithPhotoSection() {
 							<div className="fugu-icon-list">
 								<ul>
 									<li>
-										<img src="/images/svg/icons_1.png" alt="" />
+										<img src="/images/svg/new_icons-06.png" alt="" />
 										<p className="mb-0">HUMB Native Token</p>
 										<small className="fw-normal"> Lower fees & exclusive rewards.</small>
 									</li>
 									<li>
-										<img src="/images/svg/icons_1.png" alt="" />
+										<img src="/images/svg/new_icons-07.png" alt="" />
 										<p className="mb-0">HUMB Launchpad</p>
 										<small className="fw-normal">Get early access to upcoming crypto projects.</small>
 									</li>
 									<li>
-										<img src="/images/svg/icons_1.png" alt="" />
+										<img src="/images/svg/new_icons-08.png" alt="" />
 										<p className="mb-0">HUMB Secure Wallets</p>
 										<small className="fw-normal">Store and manage your assets securely.</small>
 									</li>
 									<li>
-										<img src="/images/svg/icons_1.png" alt="" />
+										<img src="/images/svg/new_icons-09.png" alt="" />
 										<p className="mb-0">HUMB Staking Program</p>
 										<small className="fw-normal">Participate in our staking program to earn passive income on your holdings. By staking your HUMB tokens, but you also receive attractive rewards over time.</small>
 									</li>

@@ -30,33 +30,33 @@ export default function ContentWithPhotoSectionTwo() {
 					<div className="col-lg-6 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content large-content">
 							<h2>Get Started With HUMB in 3 Simple Steps! </h2>
-							<p>
+							<small className="fw-normal">
 								Become a better investor on the go, right in the app. Join a new generation of crypto
 								investors. Easy interface to create an account.
-							</p>
-							<div className="fugu-icon-list2">
+							</small>
+							<div className="fugu-icon-list">
 								<ul>
 									<li>
 										<div className="fulo-list-icon">
 											<img src="/images/svg/download.svg" alt="" />
 										</div>
-										<h4>Download the HUMB App
-										</h4>
-										<p>Get the <b>HUMB Exchange</b> app from the official website and start your journey in <b>healthcare-focused crypto trading!</b></p>
+										<p className="mb-0">Download the HUMB App
+										</p>
+										<small className="fw-normal">Get the <b>HUMB Exchange</b> app from the official website and start your journey in <b>healthcare-focused crypto trading!</b></small>
 									</li>
 									<li>
 										<div className="fulo-list-icon">
 											<img src="/images/svg/link.svg" alt="" />
 										</div>
-										<h4>Register & Create Your Account</h4>
-										<p>Sign up in just a few clicks and become a part of the <b>next-gen blockchain revolution in healthcare!</b></p>
+										<p className="mb-0">Register & Create Your Account</p>
+										<small className="fw-normal">Sign up in just a few clicks and become a part of the <b>next-gen blockchain revolution in healthcare!</b></small>
 									</li>
 									<li>
 										<div className="fulo-list-icon">
 											<img src="/images/svg/lightning-bolt.svg" alt="" />
 										</div>
-										<h4>Complete KYC</h4>
-										<p>Verify your identity quickly to ensure a <b>secure and seamless trading experience.</b></p>
+										<p className="mb-0">Complete KYC</p>
+										<small className="fw-normal">Verify your identity quickly to ensure a <b>secure and seamless trading experience.</b></small>
 									</li>
 								</ul>
 							</div>

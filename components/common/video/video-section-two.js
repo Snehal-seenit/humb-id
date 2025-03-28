@@ -34,22 +34,22 @@ export default function VideoSectionTwo() {
 							<div className="fugu-icon-list">
 								<ul>
 									<li>
-									<img src="/images/svg/icons_1.png" alt="" />
+									<img src="/images/svg/new_icons-05.png" alt="" />
 										<p className="mb-0">Spot Trading</p>
 										<small className="fw-normal"> Buy and sell cryptocurrencies with real-time high liquidity, allowing you to capitalize on market movements instantly and efficiently.</small>
 									</li>
 									<li>
-									<img src="/images/svg/icons_1.png" alt="" />
+									<img src="/images/svg/new_icons-03.png" alt="" />
 										<p className="mb-0">Margin Trading</p>
 										<small className="fw-normal">Boost your trading power with our leveraged trading options. Maximize your potential returns by trading with more capital than you initially possess, while managing the risks wisely.</small>
 									</li>
 									<li>
-									<img src="/images/svg/icons_1.png" alt="" />
+									<img src="/images/svg/new_icons-04.png" alt="" />
 										<p className="mb-0">Copy Trading</p>
 										<small className="fw-normal">Mirror the strategies of top-performing traders effortlessly. With our copy trading feature, you can follow and replicate the trades of successful investors, making it easier to navigate the market.</small>
 									</li>
 									<li>
-									<img src="/images/svg/icons_1.png" alt="" />
+									<img src="/images/svg/new_icons-02.png" alt="" />
 										<p className="mb-0">Futures Trading</p>
 										<small className="fw-normal">Engage in futures trading to speculate on the future price of cryptocurrencies. With our futures contracts, you can profit from both rising and falling markets, providing flexibility and more ways to trade.</small>
 									</li>
