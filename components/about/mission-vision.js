@@ -1,12 +1,14 @@
 /* eslint-disable react/no-unescaped-entities */
 /* eslint-disable @next/next/no-img-element */
-export default function MissionVision() {
+export default function AboutSection() {
 	return (
 		<div className="fugu-about-section">
 			<div className="container">
 				<div className="row">
 					<div className="col-lg-7">
-                    <div className="fugu-default-content">
+						
+                        <div className="fugu-default-content">
+                        <h2>Our Vision & Mission</h2>
 							<p>
                             <b>HUMB’s vision</b> is to bridge the gap between crypto world and traditional healthcare using blockchain technology, unlocking new opportunities for innovation, investment, and growth within the healthcare industry.
                             </p>
@@ -16,21 +18,13 @@ export default function MissionVision() {
 						</div>
 					</div>
 					<div className="col-lg-5 d-flex align-items-center">
-                        <div className="pe-0">
-							<img
+                    <div className="fugu-about-thumb pe-0">
+                    <img
 								className="wow fadeInLeft"
 								data-wow-delay=".10s"
 								src="/id/images/all-img/image of mission and vision-01.png"
 								alt=""
 							/>
-							{/* <div className="fugu-about-thumb2">
-								<img
-									className="wow fadeInUpX"
-									data-wow-delay=".30s"
-									src="/images/all-img/about/about-thumb2.png"
-									alt=""
-								/>
-							</div> */}
 						</div>
 					</div>
 				</div>
