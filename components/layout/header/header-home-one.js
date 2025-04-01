@@ -93,8 +93,8 @@ export default function HeaderHomeOne() {
                   onClick={handleCloseMobileMenu}
                 >
                   <Link
-                    href="under-construction"
-                    className="nav-link-item drop-trigger"
+                    href="https://www.humb.support/"
+                    className="nav-link-item drop-trigger" target="_blank"
                   >
                     Support
                   </Link>

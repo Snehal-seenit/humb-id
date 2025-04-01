@@ -18,7 +18,7 @@ export default function ContentWithPhotoSection() {
 					</div>
 					<div className="col-lg-6 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content large-content">
-							<h2>HUMB Ecosystem Features</h2>
+							<h2>HUMB Platform Features</h2>
 							<div className="fugu-icon-list">
 								<ul>
 									<li>
