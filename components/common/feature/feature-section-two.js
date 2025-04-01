@@ -19,7 +19,7 @@ export default function FeatureSectionTwo() {
 							<div className="fugu-iconbox-data">
 								<h4>Low Fees:</h4>
 								<p>
-									Trades get to keep more profits with ultra-low transaction fees.
+									Traders get to keep more profits with ultra-low transaction fees.
 								</p>
 								{/* <Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
