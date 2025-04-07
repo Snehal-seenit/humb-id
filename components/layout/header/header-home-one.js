@@ -65,11 +65,11 @@ export default function HeaderHomeOne() {
                   menuItems={DemoDropdownMenus}
                   handleCloseMobileMenu={handleCloseMobileMenu}
                 />
-                {/* <NavItem
+                <NavItem
                   navItemText="Ecosystem"
                   menuItems={PagesDropdownMenus}
                   handleCloseMobileMenu={handleCloseMobileMenu}
-                /> */}
+                />
                 {/* <NavItem navItemText="Resources" menuItems={ElementsMegaMenu} /> */}
                 <NavItem
                   navItemText="Resources"

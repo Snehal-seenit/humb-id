@@ -18,26 +18,12 @@ export const DemoDropdownMenus = [
 ];
 export const PagesDropdownMenus = [
 	{
-		title: "HUMB Native Token",
-		path: "/token",
-		// submenu: [
-		// 	{
-		// 		title: "About Dark",
-		// 		path: "about-dark",
-		// 	},
-		// 	{
-		// 		title: "About Light 01",
-		// 		path: "about-us",
-		// 	},
-		// 	{
-		// 		title: "Blog Light 02",
-		// 		path: "about-light",
-		// 	},
-		// ],
+		title: "Rewards Zone",
+		path: "/rewards",
 	},
 	{
-		title: "HUMB Launchpad",
-		path: "https://app.humb.io/launchpad",
+		title: "Fee",
+		path: "/fee",
 		// submenu: [
 		// 	{
 		// 		title: "Blog Light",
