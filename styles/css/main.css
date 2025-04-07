@@ -1003,3 +1003,95 @@ color: #DCDCDC;
 .site-menu-main li.nav-item:hover a.nav-link-item{
 	color:#a872da;
 }
+/* Reward Page CSS */
+@media (max-width: 768px) {
+	.overflow-x{
+		overflow-x: scroll;
+	}
+.w-0{
+	width: unset !important;
+}
+.padding-2{
+	padding: 2rem;
+}
+}
+.font38to48{
+	font-size: clamp(1rem, 0.5385rem + 2.0513vw, 3rem);
+}
+.font18to24{
+	font-size: clamp(1.125rem, 1.0385rem + 0.3846vw, 1.5rem);
+}
+.font14to16{
+	font-size: clamp(0.875rem, 0.8462rem + 0.1282vw, 1rem);
+}
+.tab-section h4 a{
+	font-size: 15px;
+	font-weight: 600;
+	color: #fff;
+}
+.reward-heading{
+	font-size: clamp(2.375rem, 2.2308rem + 0.641vw, 3rem);
+	text-align: center;
+}
+.reward-heading p{
+	font-size: clamp(0.875rem, 0.8462rem + 0.1282vw, 1rem);
+	text-align: center;
+	width: 700px;
+	margin: auto;
+}
+.circle-list {
+	list-style-type: disc;
+  }
+.deposite-list li::marker{
+	color:#D9D9D9;
+	font-size: 1.5em;
+}
+/* Button CSS */
+.btn-check:focus + .btn-primary, .btn-primary:focus{
+	background: #9254C9;
+	color: #fff;
+}
+.btn-primary{
+	background: #9254C9;
+	color: #fff;
+}
+.btn-primary:hover{
+	color: #fff;
+    background-color: #542e71;
+}
+/* border */
+.border-b{
+	border: 1px solid #3D3E4F;
+	background: #1B1B22;
+	border-radius: 8px;
+}
+
+@media (min-width: 768px){
+.padding-3{
+	padding: 3rem;
+}
+/* width */
+.w-40{
+	width: 40%;
+}
+.flex{
+	display: flex;
+}
+.g-4{
+gap: 4rem;
+}
+}
+.bg-dark{
+	background-color: #1B1B22 !important;
+}
+.text-highlight{
+	color: #28E7C5;
+}
+.card{
+	border-top-right-radius: 12px;
+    border-bottom-left-radius: 10px;
+}
+.card .card-body .bag{
+	border-top-right-radius: 12px;
+    border-bottom-left-radius: 10px;
+}
