@@ -1113,6 +1113,7 @@ gap: 4rem;
 }
 .table-even thead  tr th{
 	background: #048170 !important;
+	vertical-align: middle;
 }
 
 

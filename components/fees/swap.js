@@ -1,8 +1,7 @@
 export default function Swap() {
     return (
-      <div className="fugu-about-section bg-black ">
+      <div className="fugu-about-section bg-black">
         <div className="container">
-            <h3 className="font14to16 mb-0" style={{color:" #C09AE6"}}>Coins</h3>
            <p className="mb-2">HUMB Exchange Swap Fees – Simple, Transparent & Efficient</p>
           <div className="instant-info border-b padding-2 padding-3">
             {/* <h2 className="font18to24 mb-0">Instant Deposit Bonuses</h2> */}

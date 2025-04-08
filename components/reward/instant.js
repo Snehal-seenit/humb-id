@@ -3,7 +3,7 @@ import Trading from "./trading";
 
 export default function Instant() {
   return (
-    <div className="fugu-about-section bg-black ">
+    <div className="bg-black">
       <div className="container">
       <div className="bg-black reward-heading p-2">
         <h4 className="text-center font38to48 pt-4">
@@ -35,7 +35,7 @@ export default function Instant() {
             <thead>
               <tr>
                 <th>Deposit Amount (USD)</th>
-                <th>Total Cashback (USD)</th>
+                <th>Total Cashback (USDT)</th>
                 <th>HUMB Tokens (USDT Worth)</th>
                 <th>USDT</th>
               </tr>

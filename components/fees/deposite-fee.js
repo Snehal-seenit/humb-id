@@ -10,7 +10,7 @@ export default function DepositFee() {
       cursor: "pointer",
       color: activeSection === section ? "#C09AE6" : "#aaa", // active vs inactive
       textDecoration: "none",
-      fontSize:"clamp(0.875rem, 0.8462rem + 0.1282vw, 1rem)"
+      fontSize:"clamp(1.125rem, 1.0962rem + 0.1282vw, 1.25rem)"
     };
   };
 
