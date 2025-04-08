@@ -1024,6 +1024,9 @@ color: #DCDCDC;
 .font14to16{
 	font-size: clamp(0.875rem, 0.8462rem + 0.1282vw, 1rem);
 }
+.font14to18{
+	font-size: clamp(1.125rem, 1.0962rem + 0.1282vw, 1.25rem);
+}
 .tab-section h4 a{
 	font-size: 15px;
 	font-weight: 600;
@@ -1095,3 +1098,21 @@ gap: 4rem;
 	border-top-right-radius: 12px;
     border-bottom-left-radius: 10px;
 }
+.active-text{
+	color: #C09AE6;
+}
+.table > :not(caption) > * > *{
+	background-color: unset;
+}
+.table-even tr:nth-child(even){
+	background-color: #00342F !important;
+
+	
+
+	
+}
+.table-even thead  tr th{
+	background: #048170 !important;
+}
+
+

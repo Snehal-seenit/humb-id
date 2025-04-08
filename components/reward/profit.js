@@ -48,6 +48,11 @@ const rewards = [
 export default function RewardCardsBootstrap() {
   return (
     <div className="container py-5  text-white">
+        <div className="bg-black reward-heading p-2">
+        <h4 className="text-center font38to48 pt-4">
+        HUMB Profit Sharing Program
+        </h4>
+      </div>
       <div className="row">
         {rewards.map((item, index) => (
           <div className="col-md-6 mb-4" key={index}>

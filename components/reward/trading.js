@@ -1,19 +1,28 @@
 export default function Trading() {
   return (
-    <div className="container fugu-about-section">
+    <div className="container">
+        <div className="bg-black reward-heading p-2">
+        <h4 className="text-center font38to48 pt-4">
+          HUMB Exclusive Reward Program
+        </h4>
+        <p className="text-center mx-auto w-0 pb-4">
+          At HUMB, we value our traders with instant bonuses and exclusive
+          rewards. Deposit, trade, and earn as you grow your trading volume.
+        </p>
+      </div>
       <div className="trading-content border-b padding-2 padding-3">
         <h2 className="font18to24 mb-0">Trading Rewards</h2>
+        
         <p className="font14to16 mb-0">
-          Maintain your trading volume and unlock even bigger rewards!
-        </p>
-        <p className="font14to16">
           Maximize your earnings with rewards
           program! Trade more and earn exciting rewards in USDT and HUMB Tokens.
           Check out the reward structure below:
         </p>
-
+        <p className="font14to16 mb-4">
+          Maintain your trading volume and unlock even bigger rewards!
+        </p>
         <div className="table-container crypto-table overflow-x">
-          <table className="table table-bordered table-dark text-white text-center font14to16">
+          <table className="table-even table table-bordered table-dark text-white text-center font14to16">
             <thead>
               <tr>
                 <th>Trade Volume</th>
@@ -57,7 +66,7 @@ export default function Trading() {
           </table>
           <h3 className="my-2 font14to16">
             <b>
-              Hurry! Only one month to Hit Your Trading Target & Grab Exciting
+              Hurry! Only One Month to Hit Your Trading Target & Grab Exciting
               Rewards!
             </b>
           </h3>
@@ -73,14 +82,11 @@ export default function Trading() {
           </div>
         </div>
       </div>
-      <div>
+      <div className="pb-5">
         <h2 className="reward-heading mt-4 mb-4">Terms & Conditions Apply</h2>
         <div className="terms-list border-b padding-2 padding-3 deposite-list">
           <ul className="headding-txt">
-            <li className="font14to16 circle-list">
-              To earn the deposit bonus reward, the trader must deposit the
-              required amount at one time within one month from registration.
-            </li>
+           
             <li className="font14to16 circle-list">
               To qualify, users must maintain the required trading volume for 1
               month.
