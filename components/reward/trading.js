@@ -19,48 +19,48 @@ export default function Trading() {
           Check out the reward structure below:
         </p>
         <p className="font14to16 mb-4">
-          Maintain your trading volume and unlock even bigger rewards!
+          Maintain your trading volume for 1 month and unlock even bigger rewards!
         </p>
         <div className="table-container crypto-table overflow-x">
           <table className="table-even table table-bordered table-dark text-white text-center font14to16">
             <thead>
               <tr>
                 <th>Trade Volume</th>
-                <th>Total Reward (USDT)</th>
+                <th>Total Rewards (USDT)</th>
                 <th>HUMB Tokens (USDT)</th>
-                <th>USDT Reward</th>
+                <th>USDT Rewards</th>
               </tr>
             </thead>
             <tbody>
               <tr>
                 <td>$5,000</td>
-                <td>25 USDT</td>
-                <td>15 USDT</td>
-                <td>10 USDT</td>
+                <td>25</td>
+                <td>15</td>
+                <td>10</td>
               </tr>
               <tr>
                 <td>$10,000</td>
-                <td>50 USDT</td>
-                <td>30 USDT</td>
-                <td>20 USDT</td>
+                <td>50</td>
+                <td>30</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>$50,000</td>
-                <td>150 USDT</td>
-                <td>100 USDT</td>
-                <td>50 USDT</td>
+                <td>150</td>
+                <td>100</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>$100,000</td>
-                <td>300 USDT</td>
-                <td>200 USDT</td>
-                <td>100 USDT</td>
+                <td>300</td>
+                <td>200</td>
+                <td>100</td>
               </tr>
               <tr>
                 <td>$300,000</td>
-                <td>800 USDT</td>
-                <td>600 USDT</td>
-                <td>200 USDT</td>
+                <td>800</td>
+                <td>600</td>
+                <td>200</td>
               </tr>
             </tbody>
           </table>

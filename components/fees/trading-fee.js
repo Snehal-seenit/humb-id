@@ -5,7 +5,7 @@ export default function TradingFee() {
         <div className="instant-info border-b padding-2 padding-3">
           {/* <h2 className="font18to24 mb-0">Instant Deposit Bonuses</h2> */}
           <p className="font14to16 mb-0">
-          Spot Trading Fees – Enjoy low maker and taker fees, ensuring cost-effective trading.
+          <b style={{color:"#28e7c5"}}>Spot Trading Fees – </b>Enjoy low maker and taker fees, ensuring cost-effective trading.
           </p>
           <div className="deposite-list">
             <ul className="d-flex gap-5">
@@ -18,7 +18,7 @@ export default function TradingFee() {
           <div className="instant-info py-4">
           {/* <h2 className="font18to24 mb-0">Instant Deposit Bonuses</h2> */}
           <p className="font14to16 mb-0">
-          Futures trading fees. Please note that the trading fee can vary for some pairs, but it never exceeds 0.035%
+          <b style={{color:"#28e7c5"}}>Futures Trading Fees - </b> Please note that the trading fee can vary for some pairs, but it never exceeds 0.035%
           </p>
           <div className="deposite-list">
             <ul className="d-flex gap-5">
@@ -31,7 +31,7 @@ export default function TradingFee() {
         <div className="instant-info">
           {/* <h2 className="font18to24 mb-0">Instant Deposit Bonuses</h2> */}
           <p className="font14to16 mb-0">
-          Margin Trading Fees – Leverage your trades with just a 0.5% margin trading fee.
+          <b style={{color:"#28e7c5"}}> Margin Trading Fees –</b> Leverage your trades with just a 0.5% margin trading fee.
           </p>
           <div className="deposite-list">
             <ul className="d-flex gap-5">
