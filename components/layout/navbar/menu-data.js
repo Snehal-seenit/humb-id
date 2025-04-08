@@ -22,8 +22,8 @@ export const PagesDropdownMenus = [
 		path: "/rewards",
 	},
 	{
-		title: "Fee",
-		path: "/fee",
+		title: "Fees",
+		path: "/fees",
 		// submenu: [
 		// 	{
 		// 		title: "Blog Light",
