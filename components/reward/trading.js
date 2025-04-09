@@ -1,15 +1,8 @@
 export default function Trading() {
   return (
+    <div className="fugu-about-section bg-black">
     <div className="container">
-        <div className="bg-black reward-heading p-2">
-        <h4 className="text-center font38to48 pt-4">
-          HUMB Exclusive Reward Program
-        </h4>
-        <p className="text-center mx-auto w-0 pb-4">
-          At HUMB, we value our traders with instant bonuses and exclusive
-          rewards. Deposit, trade, and earn as you grow your trading volume.
-        </p>
-      </div>
+        
       <div className="trading-content border-b padding-2 padding-3">
         <h2 className="font18to24 mb-0">Trading Rewards</h2>
         
@@ -34,33 +27,33 @@ export default function Trading() {
             <tbody>
               <tr>
                 <td>$5,000</td>
-                <td>25</td>
-                <td>15</td>
-                <td>10</td>
+                <td>$25</td>
+                <td>$15</td>
+                <td>$10</td>
               </tr>
               <tr>
                 <td>$10,000</td>
-                <td>50</td>
-                <td>30</td>
-                <td>20</td>
+                <td>$50</td>
+                <td>$30</td>
+                <td>$20</td>
               </tr>
               <tr>
                 <td>$50,000</td>
-                <td>150</td>
-                <td>100</td>
-                <td>50</td>
+                <td>$150</td>
+                <td>$100</td>
+                <td>$50</td>
               </tr>
               <tr>
                 <td>$100,000</td>
-                <td>300</td>
-                <td>200</td>
-                <td>100</td>
+                <td>$300</td>
+                <td>$200</td>
+                <td>$100</td>
               </tr>
               <tr>
                 <td>$300,000</td>
-                <td>800</td>
-                <td>600</td>
-                <td>200</td>
+                <td>$800</td>
+                <td>$600</td>
+                <td>$200</td>
               </tr>
             </tbody>
           </table>
@@ -128,6 +121,7 @@ export default function Trading() {
           </div>
         </div>
       </div>
+    </div>
     </div>
   );
 }
