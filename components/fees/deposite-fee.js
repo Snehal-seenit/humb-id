@@ -115,7 +115,7 @@ export default function DepositFee() {
                                                 <th>5</th>
                                                 <td>USDC</td>
                                                 <td>Token</td>
-                                                <td>BNB Chain/Polygon Mainnet</td>
+                                                <td>BNB Chain / Polygon Mainnet</td>
                                                 <td>Free</td>
                                                 <td>0.5</td>
                                                 <td>2</td>
@@ -428,7 +428,7 @@ export default function DepositFee() {
                                                 <th>31</th>
                                                 <td>USDT</td>
                                                 <td>Token</td>
-                                                <td>TRON Mainnet</td>
+                                                <td>TRON Mainnet / Ethereum Mainnet / BNB Chain</td>
                                                 <td>Free</td>
                                                 <td>10</td>
                                                 <td>5</td>
@@ -472,7 +472,7 @@ export default function DepositFee() {
                                                 <td>0.0038</td>
                                                 <td>10</td>
                                             </tr>
-                                            <tr>
+                                            {/* <tr>
                                                 <th>35</th>
                                                 <td>USDT</td>
                                                 <td>Token</td>
@@ -483,8 +483,8 @@ export default function DepositFee() {
                                                 <td>100000</td>
                                                 <td>10</td>
                                                 <td>100000</td>
-                                            </tr>
-                                            <tr>
+                                            </tr> */}
+                                            {/* <tr>
                                                 <th>36</th>
                                                 <td>USDT</td>
                                                 <td>Token</td>
@@ -495,9 +495,9 @@ export default function DepositFee() {
                                                 <td>100000</td>
                                                 <td>10</td>
                                                 <td>100000</td>
-                                            </tr>
+                                            </tr> */}
                                             <tr>
-                                                <th>37</th>
+                                                <th>35</th>
                                                 <td>BNB</td>
                                                 <td>Crypto</td>
                                                 <td>BNB Chain</td>
