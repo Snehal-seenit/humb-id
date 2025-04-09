@@ -21,7 +21,15 @@ export default function Reward() {
       </Head>
 
       <RewardBreadcrumb />
-
+      <div className="bg-black reward-heading p-2">
+        <h4 className="text-center font38to48 pt-4">
+          HUMB Exclusive Reward Program
+        </h4>
+        <p className="text-center mx-auto w-0 pb-4">
+          At HUMB, we value our traders with instant bonuses and exclusive
+          rewards. Deposit, trade, and earn as you grow your trading volume.
+        </p>
+      </div>
       <div className="bg-black">
         <div className="tab-section container d-flex flex-wrap gap-2 pt-4 pb-4 justify-center">
           <button

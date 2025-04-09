@@ -3,17 +3,9 @@ import Trading from "./trading";
 
 export default function Instant() {
   return (
-    <div className="bg-black">
+    <div className="fugu-about-section bg-black ">
       <div className="container">
-      <div className="bg-black reward-heading p-2">
-        <h4 className="text-center font38to48 pt-4">
-          HUMB Exclusive Reward Program
-        </h4>
-        <p className="text-center mx-auto w-0 pb-4">
-          At HUMB, we value our traders with instant bonuses and exclusive
-          rewards. Deposit, trade, and earn as you grow your trading volume.
-        </p>
-      </div>
+      
         <div className="instant-info border-b padding-2 padding-3">
           <h2 className="font18to24 mb-0">Deposit Rewards– Get 5% Cashback on Every $100!</h2>
           <p className="font14to16 mb-4">
