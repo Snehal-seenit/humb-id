@@ -23,7 +23,7 @@ export default function Reward() {
       <RewardBreadcrumb />
 
       <div className="bg-black">
-        <div className="tab-section container d-flex flex-wrap gap-2 pt-4 pb-4">
+        <div className="tab-section container d-flex flex-wrap gap-2 pt-4 pb-4 justify-center">
           <button
             onClick={() => setActiveSection("instant")}
             className={`${getButtonClass("instant")}`}

@@ -34,7 +34,7 @@ export default function Swap() {
             </p>
             <div className="deposite-list">
               <ul className="d-flex gap-5">
-                <li className="font14to16 circle-list small ms-4">The fee varies with network congestion and is always displayed before confirmation, keeping you informed.</li>
+                <li className="font14to16 circle-list small ms-4">The fees varies with network congestion and is always displayed before confirmation, keeping you informed.</li>
               </ul>
             </div>
           </div>

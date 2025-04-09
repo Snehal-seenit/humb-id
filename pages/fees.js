@@ -32,18 +32,18 @@ export default function Fees() {
       </div>
 
       <div className="bg-black">
-        <div className="tab-section container d-flex flex-wrap gap-2 pt-4 pb-4">
+        <div className="tab-section container d-flex flex-wrap gap-2 pt-4 pb-4 justify-center">
           <button
             onClick={() => setActiveSection("trading")}
             className={`${getButtonClass("trading")}`}
           >
-            Trading Fee
+            Trading Fees
           </button>
           <button
             onClick={() => setActiveSection("deposit")}
             className={getButtonClass("deposit")}
           >
-            Deposit/Withdrawal Fee 
+            Deposit/Withdrawal Fees 
           </button>
           <button
             onClick={() => setActiveSection("swap")}

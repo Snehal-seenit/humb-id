@@ -10,16 +10,12 @@ export default function FooterHomeOne() {
             <div className="fugu-textarea">
               <div className="fugu-footer-logo">
                 <img
-                  src="/images/logo/footer-logo.png"
+                  src="/images/all-img/Background.png"
                   alt="footer-logo"
                   className="light-version-logo"
-                  style={{ width: "160px" }}
                 />
               </div>
-              <p>The Profit Sharing Crypto Exchange.</p>
-              <p className="fugu-copywright">
-                Copyright &copy; 2025 HUMB. All rights reserved.
-              </p>
+              {/* <p>The Profit Sharing Crypto Exchange.</p> */}
             </div>
           </div>
           <div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
@@ -95,7 +91,7 @@ export default function FooterHomeOne() {
           </div>
         </div>
         <div className="fugu-social-icon">
-          <ul>
+          <ul className="justify-content-center">
             <li>
               <Link
                 href="https://x.com/humbindonesia"
@@ -267,6 +263,15 @@ export default function FooterHomeOne() {
               </Link>
             </li>
           </ul>
+		
+		  <div className="mt-4">
+		  <hr />
+			<p style={{fontSize:"14px"}} className="mt-4 mb-4 text-center">HUMB UAB is licensed by the Lithuania, Financial Crime Investigation Service (FCIS) as a Virtual Asset Service Provider (VASP Reference: Kodas 306756840) for the following Virtual Asset Activities: (10.1) Virtual currency exchange operator, (10.2) Deposit virtual currency wallet operator.</p>
+		 <p style={{fontSize:"14px"}} className="mb-2 text-center">Market Risks: Cryptocurrency prices are highly volatile and can result in significant gains or losses. No Guarantees: HUMB Exchange does not guarantee profits or protect against losses. User Responsibility: You are solely responsible for your trading decisions, and the Company shall not be liable for any losses incurred.</p>
+		  </div>
+		  <p className="fugu-copywright text-center mt-4 font14to16">
+                Copyright &copy; 2025 HUMB. All rights reserved.
+              </p>
         </div>
       </div>
     </footer>

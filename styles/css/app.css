@@ -2436,7 +2436,7 @@ header.fugu--header-section.fugu--header-two.sticky-menu {
 
 footer.fugu-footer-section {
 	background-color:#13111a;
-	padding: 75px 0 95px;
+	padding: 75px 0 40px;
 }
 @media (max-width: 991px) {
 	footer.fugu-footer-section {
@@ -3537,7 +3537,7 @@ button#fugu--search-btn {
 }
 
 .fugu-breadcrumb-section {
-	padding: 188px 0 0px;
+	padding: 120px 0 0px;
 	position: relative;
 	background-color: var(--warning-400);
 }
