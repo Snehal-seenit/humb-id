@@ -54,8 +54,8 @@ export default function DepositFee() {
                                                 <th>Name</th>
                                                 <th>Type</th>
                                                 <th>Network</th>
-                                                <th>Deposit Fee</th>
-                                                <th>Withdrawal Fee</th>
+                                                <th>Deposit Fees</th>
+                                                <th>Withdrawal Fees</th>
                                                 <th>Deposit Min</th>
                                                 <th>Deposit Max</th>
                                                 <th>Withdrawal Min</th>
@@ -524,8 +524,8 @@ export default function DepositFee() {
                                         <thead>
                                             <tr>
                                                 <th>Currency</th>
-                                                <th>Deposit Fee</th>
-                                                <th>Withdrawal Fee</th>
+                                                <th>Deposit Fees</th>
+                                                <th>Withdrawal Fees</th>
                                                 <th>Deposit Min</th>
                                                 <th>Deposit Max</th>
                                                 <th>Withdrawal Min</th>

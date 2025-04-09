@@ -1005,6 +1005,9 @@ color: #DCDCDC;
 }
 /* Reward Page CSS */
 @media (max-width: 768px) {
+	.justify-center{
+		justify-content: center;
+	}
 	.overflow-x{
 		overflow-x: scroll;
 	}

@@ -111,7 +111,7 @@ export default function Instant() {
             <a href="https://app.humb.io/register" className="fugu-btn fugu-header-btn m-0" target="_blank">Register Now</a>
           </div>
         </div>
-        <div>
+        <div className="pb-5">
         <h2 className="reward-heading mt-4 mb-4">Terms & Conditions Apply</h2>
         <div className="terms-list border-b padding-2 padding-3 deposite-list">
           <h2 className="font18to24 mb-0">Deposit Rewards</h2>
