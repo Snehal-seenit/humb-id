@@ -35,63 +35,63 @@ export default function Instant() {
             <tbody>
               <tr>
                 <td>$100</td>
-                <td>$5</td>
+                <td>5</td>
                 <td>-</td>
-                <td>$5</td>
+                <td>5</td>
               </tr>
               <tr>
                 <td>$200</td>
-                <td>$10</td>
+                <td>10</td>
                 <td>-</td>
-                <td>$10</td>
+                <td>10</td>
               </tr>
               <tr>
                 <td>$300</td>
-                <td>$15</td>
+                <td>15</td>
                 <td>-</td>
-                <td>$15</td>
+                <td>15</td>
               </tr>
               <tr>
                 <td>$400</td>
-                <td>$20</td>
+                <td>20</td>
                 <td>-</td>
-                <td>$20</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>$500</td>
-                <td>$25</td>
-                <td>$10</td>
-                <td>$15</td>
+                <td>25</td>
+                <td>10</td>
+                <td>15</td>
               </tr>
               <tr>
                 <td>$600</td>
-                <td>$30</td>
-                <td>$15</td>
-                <td>$15</td>
+                <td>30</td>
+                <td>15</td>
+                <td>15</td>
               </tr>
               <tr>
                 <td>$700</td>
-                <td>$35</td>
-                <td>$15</td>
-                <td>$20</td>
+                <td>35</td>
+                <td>15</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>$800</td>
-                <td>$40</td>
-                <td>$20</td>
-                <td>$20</td>
+                <td>40</td>
+                <td>20</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>$900</td>
-                <td>$45</td>
-                <td>$20</td>
-                <td>$25</td>
+                <td>45</td>
+                <td>20</td>
+                <td>25</td>
               </tr>
               <tr>
                 <td>$1000</td>
-                <td>$50</td>
-                <td>$25</td>
-                <td>$25</td>
+                <td>50</td>
+                <td>25</td>
+                <td>25</td>
               </tr>
             </tbody>
           </table>

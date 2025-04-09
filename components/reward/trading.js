@@ -27,33 +27,33 @@ export default function Trading() {
             <tbody>
               <tr>
                 <td>$5,000</td>
-                <td>$25</td>
-                <td>$15</td>
-                <td>$10</td>
+                <td>25</td>
+                <td>15</td>
+                <td>10</td>
               </tr>
               <tr>
                 <td>$10,000</td>
-                <td>$50</td>
-                <td>$30</td>
-                <td>$20</td>
+                <td>50</td>
+                <td>30</td>
+                <td>20</td>
               </tr>
               <tr>
                 <td>$50,000</td>
-                <td>$150</td>
-                <td>$100</td>
-                <td>$50</td>
+                <td>150</td>
+                <td>100</td>
+                <td>50</td>
               </tr>
               <tr>
                 <td>$100,000</td>
-                <td>$300</td>
-                <td>$200</td>
-                <td>$100</td>
+                <td>300</td>
+                <td>200</td>
+                <td>100</td>
               </tr>
               <tr>
                 <td>$300,000</td>
-                <td>$800</td>
-                <td>$600</td>
-                <td>$200</td>
+                <td>800</td>
+                <td>600</td>
+                <td>200</td>
               </tr>
             </tbody>
           </table>
