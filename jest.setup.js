@@ -1,5 +1,3 @@
-// jest.setup.js
-
 import '@testing-library/jest-dom';
 
 // Mock next/router
@@ -18,6 +16,15 @@ jest.mock('next/router', () => ({
 jest.mock('next/image', () => ({
   __esModule: true,
   default: (props) => {
-    return <img {...props} />;
+    return <img alt={props.alt || ''} {...props} />;
   },
 }));
+
+// Mock matchMedia for react-slick compatibility
+global.matchMedia = global.matchMedia || function() {
+  return {
+    matches: false,
+    addListener: jest.fn(),
+    removeListener: jest.fn(),
+  };
+};
