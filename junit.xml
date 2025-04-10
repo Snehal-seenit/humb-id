@@ -1,767 +1,767 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="191" failures="0" errors="0" time="65.336">
-  <testsuite name="client-slider-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:30" time="9.794" tests="1">
-    <testcase classname="client-slider-two renders without crashing" name="client-slider-two renders without crashing" time="0.105">
+<testsuites name="jest tests" tests="191" failures="0" errors="0" time="59.881">
+  <testsuite name="testimonial-slider-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:20" time="5.156" tests="1">
+    <testcase classname="testimonial-slider-one renders without crashing" name="testimonial-slider-one renders without crashing" time="0.15">
     </testcase>
   </testsuite>
-  <testsuite name="text-slider-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:30" time="9.786" tests="1">
-    <testcase classname="text-slider-two renders without crashing" name="text-slider-two renders without crashing" time="0.081">
+  <testsuite name="text-slider-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:20" time="5.132" tests="1">
+    <testcase classname="text-slider-two renders without crashing" name="text-slider-two renders without crashing" time="0.178">
     </testcase>
   </testsuite>
-  <testsuite name="client-slider-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:30" time="9.882" tests="1">
-    <testcase classname="client-slider-one renders without crashing" name="client-slider-one renders without crashing" time="0.084">
+  <testsuite name="text-slider-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:20" time="5.094" tests="1">
+    <testcase classname="text-slider-one renders without crashing" name="text-slider-one renders without crashing" time="0.204">
     </testcase>
   </testsuite>
-  <testsuite name="text-slider-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:30" time="9.82" tests="1">
-    <testcase classname="text-slider-three renders without crashing" name="text-slider-three renders without crashing" time="0.069">
+  <testsuite name="client-slider-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:20" time="5.147" tests="1">
+    <testcase classname="client-slider-two renders without crashing" name="client-slider-two renders without crashing" time="0.173">
     </testcase>
   </testsuite>
-  <testsuite name="testimonial-slider-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:30" time="9.799" tests="1">
-    <testcase classname="testimonial-slider-two renders without crashing" name="testimonial-slider-two renders without crashing" time="0.073">
+  <testsuite name="testimonial-slider-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:20" time="5.337" tests="1">
+    <testcase classname="testimonial-slider-two renders without crashing" name="testimonial-slider-two renders without crashing" time="0.205">
     </testcase>
   </testsuite>
-  <testsuite name="testimonial-slider-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:30" time="9.725" tests="1">
-    <testcase classname="testimonial-slider-one renders without crashing" name="testimonial-slider-one renders without crashing" time="0.07">
+  <testsuite name="text-slider-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:20" time="5.199" tests="1">
+    <testcase classname="text-slider-three renders without crashing" name="text-slider-three renders without crashing" time="0.182">
     </testcase>
   </testsuite>
-  <testsuite name="text-slider-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:30" time="9.781" tests="1">
-    <testcase classname="text-slider-one renders without crashing" name="text-slider-one renders without crashing" time="0.079">
+  <testsuite name="client-slider-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:20" time="5.126" tests="1">
+    <testcase classname="client-slider-one renders without crashing" name="client-slider-one renders without crashing" time="0.236">
     </testcase>
   </testsuite>
-  <testsuite name="nav-item" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:40" time="2.288" tests="1">
-    <testcase classname="nav-item renders without crashing" name="nav-item renders without crashing" time="0.021">
+  <testsuite name="index" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:26" time="2.282" tests="1">
+    <testcase classname="index renders without crashing" name="index renders without crashing" time="0.037">
     </testcase>
   </testsuite>
-  <testsuite name="header-home-five" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:40" time="2.315" tests="1">
-    <testcase classname="header-home-five renders without crashing" name="header-home-five renders without crashing" time="0.013">
+  <testsuite name="header-home-five" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:26" time="2.048" tests="1">
+    <testcase classname="header-home-five renders without crashing" name="header-home-five renders without crashing" time="0.022">
     </testcase>
   </testsuite>
-  <testsuite name="faq-accordion-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:40" time="2.715" tests="1">
-    <testcase classname="faq-accordion-one renders without crashing" name="faq-accordion-one renders without crashing" time="0.019">
+  <testsuite name="filter-faq-gallary" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:26" time="2.939" tests="1">
+    <testcase classname="filter-faq-gallary renders without crashing" name="filter-faq-gallary renders without crashing" time="0.08">
     </testcase>
   </testsuite>
-  <testsuite name="faq-accordion-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:40" time="2.678" tests="1">
-    <testcase classname="faq-accordion-two renders without crashing" name="faq-accordion-two renders without crashing" time="0.018">
+  <testsuite name="faq-accordion-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:26" time="2.951" tests="1">
+    <testcase classname="faq-accordion-four renders without crashing" name="faq-accordion-four renders without crashing" time="0.021">
     </testcase>
   </testsuite>
-  <testsuite name="faq-accordion-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:40" time="2.781" tests="1">
-    <testcase classname="faq-accordion-three renders without crashing" name="faq-accordion-three renders without crashing" time="0.033">
+  <testsuite name="faq-accordion-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:26" time="2.796" tests="1">
+    <testcase classname="faq-accordion-two renders without crashing" name="faq-accordion-two renders without crashing" time="0.027">
     </testcase>
   </testsuite>
-  <testsuite name="faq-accordion-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:40" time="2.794" tests="1">
-    <testcase classname="faq-accordion-four renders without crashing" name="faq-accordion-four renders without crashing" time="0.023">
+  <testsuite name="faq-accordion-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:26" time="2.936" tests="1">
+    <testcase classname="faq-accordion-three renders without crashing" name="faq-accordion-three renders without crashing" time="0.036">
     </testcase>
   </testsuite>
-  <testsuite name="filter-faq-gallary" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:40" time="3.228" tests="1">
-    <testcase classname="filter-faq-gallary renders without crashing" name="filter-faq-gallary renders without crashing" time="0.017">
+  <testsuite name="faq-accordion-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:26" time="2.889" tests="1">
+    <testcase classname="faq-accordion-one renders without crashing" name="faq-accordion-one renders without crashing" time="0.028">
     </testcase>
   </testsuite>
-  <testsuite name="dropdown-menu" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:42" time="1.444" tests="1">
-    <testcase classname="dropdown-menu renders without crashing" name="dropdown-menu renders without crashing" time="0.013">
+  <testsuite name="blog-inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:29" time="1.45" tests="1">
+    <testcase classname="blog-inner-section renders without crashing" name="blog-inner-section renders without crashing" time="0.014">
     </testcase>
   </testsuite>
-  <testsuite name="dropdown-item" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:43" time="1.833" tests="1">
-    <testcase classname="dropdown-item renders without crashing" name="dropdown-item renders without crashing" time="0.015">
+  <testsuite name="CardSliderTwo" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:28" time="2.049" tests="1">
+    <testcase classname="CardSliderTwo renders without crashing" name="CardSliderTwo renders without crashing" time="0.536">
     </testcase>
   </testsuite>
-  <testsuite name="CardSliderOne" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:43" time="2.42" tests="1">
-    <testcase classname="CardSliderOne renders without crashing" name="CardSliderOne renders without crashing" time="0.515">
+  <testsuite name="section-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:29" time="1.608" tests="1">
+    <testcase classname="section-one renders without crashing" name="section-one renders without crashing" time="0.018">
     </testcase>
   </testsuite>
-  <testsuite name="wallet-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:43" time="2.487" tests="1">
-    <testcase classname="wallet-section renders without crashing" name="wallet-section renders without crashing" time="0.011">
+  <testsuite name="header-home-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:29" time="1.959" tests="1">
+    <testcase classname="header-home-one renders without crashing" name="header-home-one renders without crashing" time="0.019">
     </testcase>
   </testsuite>
-  <testsuite name="CardSliderTwo" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:43" time="2.693" tests="1">
-    <testcase classname="CardSliderTwo renders without crashing" name="CardSliderTwo renders without crashing" time="0.571">
+  <testsuite name="wallet-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:29" time="1.814" tests="1">
+    <testcase classname="wallet-section renders without crashing" name="wallet-section renders without crashing" time="0.015">
     </testcase>
   </testsuite>
-  <testsuite name="header-home-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:43" time="2.313" tests="1">
-    <testcase classname="header-home-one renders without crashing" name="header-home-one renders without crashing" time="0.028">
+  <testsuite name="header-home-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:29" time="1.921" tests="1">
+    <testcase classname="header-home-three renders without crashing" name="header-home-three renders without crashing" time="0.025">
     </testcase>
   </testsuite>
-  <testsuite name="section-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:44" time="2.381" tests="1">
-    <testcase classname="section-one renders without crashing" name="section-one renders without crashing" time="0.021">
+  <testsuite name="CardSliderOne" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:29" time="2.098" tests="1">
+    <testcase classname="CardSliderOne renders without crashing" name="CardSliderOne renders without crashing" time="0.526">
     </testcase>
   </testsuite>
-  <testsuite name="index" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:42" time="4.193" tests="1">
-    <testcase classname="index renders without crashing" name="index renders without crashing" time="0.028">
+  <testsuite name="inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:30" time="1.492" tests="1">
+    <testcase classname="inner-section renders without crashing" name="inner-section renders without crashing" time="0.062">
     </testcase>
   </testsuite>
-  <testsuite name="second-level-dropdown-menu" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:45" time="1.718" tests="1">
-    <testcase classname="second-level-dropdown-menu renders without crashing" name="second-level-dropdown-menu renders without crashing" time="0.011">
+  <testsuite name="header-home-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:30" time="1.443" tests="1">
+    <testcase classname="header-home-two renders without crashing" name="header-home-two renders without crashing" time="0.025">
     </testcase>
   </testsuite>
-  <testsuite name="header-error-six" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:45" time="2.1" tests="1">
-    <testcase classname="header-error-six renders without crashing" name="header-error-six renders without crashing" time="0.035">
+  <testsuite name="inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:31" time="1.439" tests="1">
+    <testcase classname="inner-section renders without crashing" name="inner-section renders without crashing" time="0.016">
     </testcase>
   </testsuite>
-  <testsuite name="tokenization-single-blogs-details" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:46" time="1.671" tests="1">
-    <testcase classname="tokenization-single-blogs-details renders without crashing" name="tokenization-single-blogs-details renders without crashing" time="0.01">
+  <testsuite name="blog-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:31" time="1.588" tests="1">
+    <testcase classname="blog-section renders without crashing" name="blog-section renders without crashing" time="0.03">
     </testcase>
   </testsuite>
-  <testsuite name="header-home-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:46" time="2.117" tests="1">
-    <testcase classname="header-home-four renders without crashing" name="header-home-four renders without crashing" time="0.011">
+  <testsuite name="single-blog-container" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:31" time="1.711" tests="1">
+    <testcase classname="single-blog-container renders without crashing" name="single-blog-container renders without crashing" time="0.014">
     </testcase>
   </testsuite>
-  <testsuite name="inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:45" time="2.76" tests="1">
-    <testcase classname="inner-section renders without crashing" name="inner-section renders without crashing" time="0.028">
+  <testsuite name="trading" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:31" time="1.581" tests="1">
+    <testcase classname="trading renders without crashing" name="trading renders without crashing" time="0.041">
     </testcase>
   </testsuite>
-  <testsuite name="filter-gallary-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:46" time="1.77" tests="1">
-    <testcase classname="filter-gallary-two renders without crashing" name="filter-gallary-two renders without crashing" time="0.011">
+  <testsuite name="single-blog-post" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:31" time="1.515" tests="1">
+    <testcase classname="single-blog-post renders without crashing" name="single-blog-post renders without crashing" time="0.019">
     </testcase>
   </testsuite>
-  <testsuite name="header-home-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:47" time="1.5" tests="1">
-    <testcase classname="header-home-three renders without crashing" name="header-home-three renders without crashing" time="0.014">
+  <testsuite name="contact-form-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:32" time="1.576" tests="1">
+    <testcase classname="contact-form-section renders without crashing" name="contact-form-section renders without crashing" time="0.015">
     </testcase>
   </testsuite>
-  <testsuite name="single-blog-post" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:48" time="1.173" tests="1">
-    <testcase classname="single-blog-post renders without crashing" name="single-blog-post renders without crashing" time="0.014">
+  <testsuite name="blog-post" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:32" time="1.391" tests="1">
+    <testcase classname="blog-post renders without crashing" name="blog-post renders without crashing" time="0.022">
     </testcase>
   </testsuite>
-  <testsuite name="filter-gallary-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:47" time="2.004" tests="1">
-    <testcase classname="filter-gallary-three renders without crashing" name="filter-gallary-three renders without crashing" time="0.011">
+  <testsuite name="filter-gallary-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:33" time="1.535" tests="1">
+    <testcase classname="filter-gallary-two renders without crashing" name="filter-gallary-two renders without crashing" time="0.046">
     </testcase>
   </testsuite>
-  <testsuite name="Team" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:48" time="1.792" tests="1">
-    <testcase classname="Team renders without crashing" name="Team renders without crashing" time="0.119">
+  <testsuite name="single-team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:33" time="1.485" tests="1">
+    <testcase classname="single-team-section renders without crashing" name="single-team-section renders without crashing" time="0.023">
     </testcase>
   </testsuite>
-  <testsuite name="blog-filtering" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:48" time="2.08" tests="1">
-    <testcase classname="blog-filtering renders without crashing" name="blog-filtering renders without crashing" time="0.014">
+  <testsuite name="blog-dark-inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:33" time="1.644" tests="1">
+    <testcase classname="blog-dark-inner-section renders without crashing" name="blog-dark-inner-section renders without crashing" time="0.015">
     </testcase>
   </testsuite>
-  <testsuite name="map-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:48" time="1.826" tests="1">
-    <testcase classname="map-section renders without crashing" name="map-section renders without crashing" time="0.017">
+  <testsuite name="newsletter-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:33" time="1.467" tests="1">
+    <testcase classname="newsletter-section renders without crashing" name="newsletter-section renders without crashing" time="0.025">
     </testcase>
   </testsuite>
-  <testsuite name="roadmap-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:49" time="1.663" tests="1">
-    <testcase classname="roadmap-section renders without crashing" name="roadmap-section renders without crashing" time="0.012">
+  <testsuite name="nav-item" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:33" time="2.08" tests="1">
+    <testcase classname="nav-item renders without crashing" name="nav-item renders without crashing" time="0.026">
     </testcase>
   </testsuite>
-  <testsuite name="blog-dark-inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:48" time="2.136" tests="1">
-    <testcase classname="blog-dark-inner-section renders without crashing" name="blog-dark-inner-section renders without crashing" time="0.027">
+  <testsuite name="blog-pagination" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:34" time="1.458" tests="1">
+    <testcase classname="blog-pagination renders without crashing" name="blog-pagination renders without crashing" time="0.013">
     </testcase>
   </testsuite>
-  <testsuite name="header-home-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:49" time="1.639" tests="1">
-    <testcase classname="header-home-two renders without crashing" name="header-home-two renders without crashing" time="0.034">
+  <testsuite name="dropdown-menu" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:34" time="1.527" tests="1">
+    <testcase classname="dropdown-menu renders without crashing" name="dropdown-menu renders without crashing" time="0.032">
     </testcase>
   </testsuite>
-  <testsuite name="footer-home-five" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:50" time="1.666" tests="1">
-    <testcase classname="footer-home-five renders without crashing" name="footer-home-five renders without crashing" time="0.049">
+  <testsuite name="vision-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:35" time="1.373" tests="1">
+    <testcase classname="vision-section renders without crashing" name="vision-section renders without crashing" time="0.02">
     </testcase>
   </testsuite>
-  <testsuite name="contact-form-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:50" time="2.152" tests="1">
-    <testcase classname="contact-form-section renders without crashing" name="contact-form-section renders without crashing" time="0.012">
+  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:35" time="1.526" tests="1">
+    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.022">
     </testcase>
   </testsuite>
-  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:50" time="1.933" tests="1">
-    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.013">
+  <testsuite name="dropdown-item" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:34" time="1.81" tests="1">
+    <testcase classname="dropdown-item renders without crashing" name="dropdown-item renders without crashing" time="0.099">
     </testcase>
   </testsuite>
-  <testsuite name="communicate-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:51" time="1.618" tests="1">
-    <testcase classname="communicate-section renders without crashing" name="communicate-section renders without crashing" time="0.035">
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:35" time="1.433" tests="1">
+    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.044">
     </testcase>
   </testsuite>
-  <testsuite name="mega-menu-item" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:51" time="1.477" tests="1">
-    <testcase classname="mega-menu-item renders without crashing" name="mega-menu-item renders without crashing" time="0.012">
+  <testsuite name="team-info-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:35" time="1.236" tests="1">
+    <testcase classname="team-info-section renders without crashing" name="team-info-section renders without crashing" time="0.016">
     </testcase>
   </testsuite>
-  <testsuite name="single-blog-container" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:51" time="2.845" tests="1">
-    <testcase classname="single-blog-container renders without crashing" name="single-blog-container renders without crashing" time="0.023">
+  <testsuite name="feature-one-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:36" time="1.484" tests="1">
+    <testcase classname="feature-one-section renders without crashing" name="feature-one-section renders without crashing" time="0.013">
     </testcase>
   </testsuite>
-  <testsuite name="blog-filtering" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:51" time="2.729" tests="1">
-    <testcase classname="blog-filtering renders without crashing" name="blog-filtering renders without crashing" time="0.061">
-    </testcase>
-  </testsuite>
-  <testsuite name="logo-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:52" time="1.572" tests="1">
-    <testcase classname="logo-section renders without crashing" name="logo-section renders without crashing" time="0.019">
-    </testcase>
-  </testsuite>
-  <testsuite name="footer-home-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:53" time="1.569" tests="1">
-    <testcase classname="footer-home-one renders without crashing" name="footer-home-one renders without crashing" time="0.013">
-    </testcase>
-  </testsuite>
-  <testsuite name="video-section-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:53" time="1.569" tests="1">
-    <testcase classname="video-section-three renders without crashing" name="video-section-three renders without crashing" time="0.05">
-    </testcase>
-  </testsuite>
-  <testsuite name="footer-home-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:53" time="1.494" tests="1">
-    <testcase classname="footer-home-four renders without crashing" name="footer-home-four renders without crashing" time="0.016">
-    </testcase>
-  </testsuite>
-  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:52" time="2.423" tests="1">
-    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-pagination" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:54" time="1.421" tests="1">
-    <testcase classname="blog-pagination renders without crashing" name="blog-pagination renders without crashing" time="0.014">
-    </testcase>
-  </testsuite>
-  <testsuite name="index" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:54" time="1.735" tests="1">
-    <testcase classname="index renders without crashing" name="index renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="democratising-healthcare-single-blogs-details" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:54" time="1.453" tests="1">
-    <testcase classname="democratising-healthcare-single-blogs-details renders without crashing" name="democratising-healthcare-single-blogs-details renders without crashing" time="0.013">
-    </testcase>
-  </testsuite>
-  <testsuite name="inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:54" time="1.826" tests="1">
-    <testcase classname="inner-section renders without crashing" name="inner-section renders without crashing" time="0.017">
-    </testcase>
-  </testsuite>
-  <testsuite name="about-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:55" time="1.357" tests="1">
-    <testcase classname="about-section renders without crashing" name="about-section renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="post-navigation" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:55" time="1.144" tests="1">
-    <testcase classname="post-navigation renders without crashing" name="post-navigation renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="whitepaper-single-blogs-details" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:55" time="1.567" tests="1">
-    <testcase classname="whitepaper-single-blogs-details renders without crashing" name="whitepaper-single-blogs-details renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="trading-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:56" time="1.304" tests="1">
-    <testcase classname="trading-section-two renders without crashing" name="trading-section-two renders without crashing" time="0.024">
-    </testcase>
-  </testsuite>
-  <testsuite name="filter-gallary-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:56" time="1.874" tests="1">
-    <testcase classname="filter-gallary-one renders without crashing" name="filter-gallary-one renders without crashing" time="0.019">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumbs-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:56" time="1.477" tests="1">
-    <testcase classname="breadcrumbs-section renders without crashing" name="breadcrumbs-section renders without crashing" time="0.03">
-    </testcase>
-  </testsuite>
-  <testsuite name="faq-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:56" time="1.658" tests="1">
-    <testcase classname="faq-section renders without crashing" name="faq-section renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:57" time="1.579" tests="1">
-    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.015">
-    </testcase>
-  </testsuite>
-  <testsuite name="instant" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:57" time="1.805" tests="1">
-    <testcase classname="instant renders without crashing" name="instant renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:57" time="1.709" tests="1">
-    <testcase classname="blog-inner-section renders without crashing" name="blog-inner-section renders without crashing" time="0.032">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:58" time="1.557" tests="1">
-    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:58" time="1.614" tests="1">
-    <testcase classname="hero-section renders without crashing" name="hero-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="newsletter-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:59" time="1.382" tests="1">
-    <testcase classname="newsletter-section renders without crashing" name="newsletter-section renders without crashing" time="0.032">
-    </testcase>
-  </testsuite>
-  <testsuite name="job-position-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:58" time="1.832" tests="1">
-    <testcase classname="job-position-section renders without crashing" name="job-position-section renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:57" time="3.123" tests="1">
-    <testcase classname="inner-section renders without crashing" name="inner-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="trading-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:59" time="1.294" tests="1">
-    <testcase classname="trading-section renders without crashing" name="trading-section renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="choose-service-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:25:59" time="1.683" tests="1">
-    <testcase classname="choose-service-section renders without crashing" name="choose-service-section renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumbs-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:00" time="1.401" tests="1">
-    <testcase classname="breadcrumbs-section renders without crashing" name="breadcrumbs-section renders without crashing" time="0.046">
-    </testcase>
-  </testsuite>
-  <testsuite name="pricing-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:00" time="1.746" tests="1">
-    <testcase classname="pricing-section-two renders without crashing" name="pricing-section-two renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:00" time="1.295" tests="1">
-    <testcase classname="breadcrumb renders without crashing" name="breadcrumb renders without crashing" time="0.018">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:00" time="1.434" tests="1">
-    <testcase classname="breadcrumb renders without crashing" name="breadcrumb renders without crashing" time="0.016">
-    </testcase>
-  </testsuite>
-  <testsuite name="feature-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:00" time="1.501" tests="1">
-    <testcase classname="feature-section renders without crashing" name="feature-section renders without crashing" time="0.013">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:00" time="1.516" tests="1">
-    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.017">
-    </testcase>
-  </testsuite>
-  <testsuite name="video-section-six" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:01" time="1.416" tests="1">
-    <testcase classname="video-section-six renders without crashing" name="video-section-six renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="mission-vision" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:01" time="1.363" tests="1">
-    <testcase classname="mission-vision renders without crashing" name="mission-vision renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumbs-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:02" time="1.341" tests="1">
-    <testcase classname="breadcrumbs-section renders without crashing" name="breadcrumbs-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="single-card-slider-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:02" time="1.331" tests="1">
-    <testcase classname="single-card-slider-two renders without crashing" name="single-card-slider-two renders without crashing" time="0.026">
-    </testcase>
-  </testsuite>
-  <testsuite name="section-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:02" time="1.422" tests="1">
-    <testcase classname="section-one renders without crashing" name="section-one renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:02" time="2.27" tests="1">
-    <testcase classname="blog-inner-section renders without crashing" name="blog-inner-section renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="blockchain-transforming-healthcar" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:03" time="1.356" tests="1">
-    <testcase classname="blockchain-transforming-healthcar renders without crashing" name="blockchain-transforming-healthcar renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:02" time="2.165" tests="1">
-    <testcase classname="blog-section renders without crashing" name="blog-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="single-team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:03" time="1.172" tests="1">
-    <testcase classname="single-team-section renders without crashing" name="single-team-section renders without crashing" time="0.031">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-content-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:03" time="1.263" tests="1">
+  <testsuite name="blog-content-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:36" time="1.496" tests="1">
     <testcase classname="blog-content-section renders without crashing" name="blog-content-section renders without crashing" time="0.013">
     </testcase>
   </testsuite>
-  <testsuite name="profit" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:03" time="1.253" tests="1">
-    <testcase classname="profit renders without crashing" name="profit renders without crashing" time="0.01">
+  <testsuite name="video-section-five" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:36" time="1.373" tests="1">
+    <testcase classname="video-section-five renders without crashing" name="video-section-five renders without crashing" time="0.015">
     </testcase>
   </testsuite>
-  <testsuite name="menu-data" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:04" time="1.102" tests="1">
-    <testcase classname="menu-data renders without crashing" name="menu-data renders without crashing" time="0.012">
+  <testsuite name="comment-respond-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:37" time="1.299" tests="1">
+    <testcase classname="comment-respond-section renders without crashing" name="comment-respond-section renders without crashing" time="0.038">
     </testcase>
   </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:05" time="1.258" tests="1">
-    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.01">
+  <testsuite name="navbar" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:36" time="1.459" tests="1">
+    <testcase classname="navbar renders without crashing" name="navbar renders without crashing" time="0.018">
     </testcase>
   </testsuite>
-  <testsuite name="navbar" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:05" time="1.197" tests="1">
-    <testcase classname="navbar renders without crashing" name="navbar renders without crashing" time="0.011">
+  <testsuite name="innser-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:37" time="1.466" tests="1">
+    <testcase classname="innser-section renders without crashing" name="innser-section renders without crashing" time="0.038">
     </testcase>
   </testsuite>
-  <testsuite name="footer-home-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:05" time="1.185" tests="1">
-    <testcase classname="footer-home-three renders without crashing" name="footer-home-three renders without crashing" time="0.011">
+  <testsuite name="feature-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:37" time="1.345" tests="1">
+    <testcase classname="feature-section renders without crashing" name="feature-section renders without crashing" time="0.017">
     </testcase>
   </testsuite>
-  <testsuite name="video-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:05" time="1.3" tests="1">
-    <testcase classname="video-section renders without crashing" name="video-section renders without crashing" time="0.013">
+  <testsuite name="trading-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:37" time="1.331" tests="1">
+    <testcase classname="trading-section renders without crashing" name="trading-section renders without crashing" time="0.021">
     </testcase>
   </testsuite>
-  <testsuite name="related-project-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:05" time="1.148" tests="1">
-    <testcase classname="related-project-section renders without crashing" name="related-project-section renders without crashing" time="0.021">
+  <testsuite name="breadcrumb" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:38" time="1.508" tests="1">
+    <testcase classname="breadcrumb renders without crashing" name="breadcrumb renders without crashing" time="0.023">
     </testcase>
   </testsuite>
-  <testsuite name="feature-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:05" time="1.302" tests="1">
-    <testcase classname="feature-section renders without crashing" name="feature-section renders without crashing" time="0.022">
-    </testcase>
-  </testsuite>
-  <testsuite name="innser-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:05" time="2.141" tests="1">
-    <testcase classname="innser-section renders without crashing" name="innser-section renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:06" time="1.251" tests="1">
-    <testcase classname="breadcrumb renders without crashing" name="breadcrumb renders without crashing" time="0.014">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-pagination" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:06" time="1.124" tests="1">
-    <testcase classname="blog-pagination renders without crashing" name="blog-pagination renders without crashing" time="0.019">
-    </testcase>
-  </testsuite>
-  <testsuite name="pricing-section-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:06" time="1.375" tests="1">
-    <testcase classname="pricing-section-one renders without crashing" name="pricing-section-one renders without crashing" time="0.03">
-    </testcase>
-  </testsuite>
-  <testsuite name="vision-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:06" time="1.289" tests="1">
-    <testcase classname="vision-section renders without crashing" name="vision-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="contact-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:06" time="1.266" tests="1">
-    <testcase classname="contact-section renders without crashing" name="contact-section renders without crashing" time="0.027">
-    </testcase>
-  </testsuite>
-  <testsuite name="countdown-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:06" time="1.322" tests="1">
-    <testcase classname="countdown-section renders without crashing" name="countdown-section renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="LocationPin" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:07" time="1.149" tests="1">
-    <testcase classname="LocationPin renders without crashing" name="LocationPin renders without crashing" time="0.018">
-    </testcase>
-  </testsuite>
-  <testsuite name="footer-home-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:07" time="1.271" tests="1">
-    <testcase classname="footer-home-two renders without crashing" name="footer-home-two renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-post-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:08" time="1.372" tests="1">
-    <testcase classname="blog-post-section renders without crashing" name="blog-post-section renders without crashing" time="0.013">
-    </testcase>
-  </testsuite>
-  <testsuite name="healthcare-and-cryptoworld" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:07" time="1.494" tests="1">
-    <testcase classname="healthcare-and-cryptoworld renders without crashing" name="healthcare-and-cryptoworld renders without crashing" time="0.035">
-    </testcase>
-  </testsuite>
-  <testsuite name="content-with-photo-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:08" time="1.361" tests="1">
-    <testcase classname="content-with-photo-section renders without crashing" name="content-with-photo-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="testimonial-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:08" time="1.749" tests="1">
-    <testcase classname="testimonial-section renders without crashing" name="testimonial-section renders without crashing" time="0.032">
-    </testcase>
-  </testsuite>
-  <testsuite name="contact-form-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:08" time="1.427" tests="1">
-    <testcase classname="contact-form-section renders without crashing" name="contact-form-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="comment-respond-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:08" time="1.238" tests="1">
-    <testcase classname="comment-respond-section renders without crashing" name="comment-respond-section renders without crashing" time="0.014">
-    </testcase>
-  </testsuite>
-  <testsuite name="blockquote-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:09" time="1.353" tests="1">
-    <testcase classname="blockquote-section renders without crashing" name="blockquote-section renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:09" time="1.262" tests="1">
-    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.016">
-    </testcase>
-  </testsuite>
-  <testsuite name="project-about-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:09" time="1.445" tests="1">
-    <testcase classname="project-about-section renders without crashing" name="project-about-section renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:09" time="1.587" tests="1">
-    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="single-blog-sidebar-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:09" time="1.405" tests="1">
-    <testcase classname="single-blog-sidebar-section renders without crashing" name="single-blog-sidebar-section renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="comment-list-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:09" time="1.401" tests="1">
-    <testcase classname="comment-list-section renders without crashing" name="comment-list-section renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:10" time="1.631" tests="1">
+  <testsuite name="hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:38" time="1.509" tests="1">
     <testcase classname="hero-section renders without crashing" name="hero-section renders without crashing" time="0.013">
     </testcase>
   </testsuite>
-  <testsuite name="single-blog-post" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:11" time="1.362" tests="1">
-    <testcase classname="single-blog-post renders without crashing" name="single-blog-post renders without crashing" time="0.01">
+  <testsuite name="pricing-section-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:38" time="1.644" tests="1">
+    <testcase classname="pricing-section-one renders without crashing" name="pricing-section-one renders without crashing" time="0.034">
     </testcase>
   </testsuite>
-  <testsuite name="video-section-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:11" time="1.596" tests="1">
-    <testcase classname="video-section-four renders without crashing" name="video-section-four renders without crashing" time="0.008">
+  <testsuite name="breadcrumbs-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:38" time="1.386" tests="1">
+    <testcase classname="breadcrumbs-section renders without crashing" name="breadcrumbs-section renders without crashing" time="0.013">
     </testcase>
   </testsuite>
-  <testsuite name="feature-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:11" time="1.761" tests="1">
-    <testcase classname="feature-section renders without crashing" name="feature-section renders without crashing" time="0.008">
+  <testsuite name="Team" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:38" time="1.645" tests="1">
+    <testcase classname="Team renders without crashing" name="Team renders without crashing" time="0.179">
     </testcase>
   </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:11" time="1.521" tests="1">
-    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.009">
+  <testsuite name="footer-home-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:39" time="1.468" tests="1">
+    <testcase classname="footer-home-three renders without crashing" name="footer-home-three renders without crashing" time="0.021">
     </testcase>
   </testsuite>
-  <testsuite name="whitepaper-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:11" time="1.848" tests="1">
-    <testcase classname="whitepaper-section renders without crashing" name="whitepaper-section renders without crashing" time="0.04">
+  <testsuite name="humb-revolution" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:39" time="1.289" tests="1">
+    <testcase classname="humb-revolution renders without crashing" name="humb-revolution renders without crashing" time="0.019">
     </testcase>
   </testsuite>
-  <testsuite name="blog-sidebar-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:11" time="1.445" tests="1">
-    <testcase classname="blog-sidebar-section renders without crashing" name="blog-sidebar-section renders without crashing" time="0.013">
+  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:40" time="1.265" tests="1">
+    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.016">
     </testcase>
   </testsuite>
-  <testsuite name="artwork-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:12" time="1.551" tests="1">
-    <testcase classname="artwork-section renders without crashing" name="artwork-section renders without crashing" time="0.009">
+  <testsuite name="blog-filtering" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:40" time="1.324" tests="1">
+    <testcase classname="blog-filtering renders without crashing" name="blog-filtering renders without crashing" time="0.022">
     </testcase>
   </testsuite>
-  <testsuite name="breadcrumbs-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:13" time="1.536" tests="1">
-    <testcase classname="breadcrumbs-section renders without crashing" name="breadcrumbs-section renders without crashing" time="0.017">
+  <testsuite name="countdown-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:40" time="1.185" tests="1">
+    <testcase classname="countdown-section renders without crashing" name="countdown-section renders without crashing" time="0.016">
     </testcase>
   </testsuite>
-  <testsuite name="faq-home-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:13" time="1.549" tests="1">
-    <testcase classname="faq-home-one renders without crashing" name="faq-home-one renders without crashing" time="0.014">
+  <testsuite name="filter-gallary-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:40" time="1.3" tests="1">
+    <testcase classname="filter-gallary-one renders without crashing" name="filter-gallary-one renders without crashing" time="0.019">
     </testcase>
   </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:13" time="1.56" tests="1">
-    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.01">
+  <testsuite name="newsletter-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:41" time="1.063" tests="1">
+    <testcase classname="newsletter-section renders without crashing" name="newsletter-section renders without crashing" time="0.045">
     </testcase>
   </testsuite>
-  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:12" time="2.433" tests="1">
-    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.008">
+  <testsuite name="home-two-hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:40" time="1.277" tests="1">
+    <testcase classname="home-two-hero-section renders without crashing" name="home-two-hero-section renders without crashing" time="0.017">
     </testcase>
   </testsuite>
-  <testsuite name="filter-gallary-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:13" time="1.696" tests="1">
-    <testcase classname="filter-gallary-four renders without crashing" name="filter-gallary-four renders without crashing" time="0.013">
+  <testsuite name="map-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:41" time="1.194" tests="1">
+    <testcase classname="map-section renders without crashing" name="map-section renders without crashing" time="0.036">
     </testcase>
   </testsuite>
-  <testsuite name="blog-inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:13" time="1.736" tests="1">
-    <testcase classname="blog-inner-section renders without crashing" name="blog-inner-section renders without crashing" time="0.015">
+  <testsuite name="profit" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:41" time="1.21" tests="1">
+    <testcase classname="profit renders without crashing" name="profit renders without crashing" time="0.013">
     </testcase>
   </testsuite>
-  <testsuite name="chart-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:14" time="1.5" tests="1">
-    <testcase classname="chart-section renders without crashing" name="chart-section renders without crashing" time="0.015">
+  <testsuite name="comment-input-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:41" time="1.25" tests="1">
+    <testcase classname="comment-input-section renders without crashing" name="comment-input-section renders without crashing" time="0.013">
     </testcase>
   </testsuite>
-  <testsuite name="comment-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:14" time="1.439" tests="1">
-    <testcase classname="comment-section renders without crashing" name="comment-section renders without crashing" time="0.02">
-    </testcase>
-  </testsuite>
-  <testsuite name="communication-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:15" time="1.396" tests="1">
-    <testcase classname="communication-section renders without crashing" name="communication-section renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="home-two-hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:15" time="1.254" tests="1">
-    <testcase classname="home-two-hero-section renders without crashing" name="home-two-hero-section renders without crashing" time="0.007">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-pagination" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:15" time="1.196" tests="1">
-    <testcase classname="blog-pagination renders without crashing" name="blog-pagination renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:15" time="1.217" tests="1">
-    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.015">
-    </testcase>
-  </testsuite>
-  <testsuite name="testimonial-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:15" time="1.921" tests="1">
-    <testcase classname="testimonial-section renders without crashing" name="testimonial-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-post" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:15" time="1.186" tests="1">
-    <testcase classname="blog-post renders without crashing" name="blog-post renders without crashing" time="0.013">
-    </testcase>
-  </testsuite>
-  <testsuite name="newsletter-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:16" time="1.15" tests="1">
-    <testcase classname="newsletter-section renders without crashing" name="newsletter-section renders without crashing" time="0.008">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-top-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:16" time="1.1" tests="1">
-    <testcase classname="blog-top-section renders without crashing" name="blog-top-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="whitepaper-sidebar-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:16" time="1.239" tests="1">
-    <testcase classname="whitepaper-sidebar-section renders without crashing" name="whitepaper-sidebar-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="trading" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:17" time="1.176" tests="1">
-    <testcase classname="trading renders without crashing" name="trading renders without crashing" time="0.021">
-    </testcase>
-  </testsuite>
-  <testsuite name="hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:17" time="1.352" tests="1">
-    <testcase classname="hero-section renders without crashing" name="hero-section renders without crashing" time="0.013">
-    </testcase>
-  </testsuite>
-  <testsuite name="hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:17" time="1.475" tests="1">
-    <testcase classname="hero-section renders without crashing" name="hero-section renders without crashing" time="0.038">
-    </testcase>
-  </testsuite>
-  <testsuite name="team-home-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:17" time="1.593" tests="1">
-    <testcase classname="team-home-four renders without crashing" name="team-home-four renders without crashing" time="0.015">
-    </testcase>
-  </testsuite>
-  <testsuite name="cta-home-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:17" time="1.548" tests="1">
-    <testcase classname="cta-home-one renders without crashing" name="cta-home-one renders without crashing" time="0.055">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-sidebar-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:18" time="1.343" tests="1">
-    <testcase classname="blog-sidebar-section renders without crashing" name="blog-sidebar-section renders without crashing" time="0.016">
-    </testcase>
-  </testsuite>
-  <testsuite name="video-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:18" time="1.895" tests="1">
-    <testcase classname="video-section-two renders without crashing" name="video-section-two renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="counter-one-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:18" time="1.399" tests="1">
-    <testcase classname="counter-one-section renders without crashing" name="counter-one-section renders without crashing" time="0.024">
-    </testcase>
-  </testsuite>
-  <testsuite name="about-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:18" time="1.506" tests="1">
-    <testcase classname="about-section renders without crashing" name="about-section renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="about-hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:18" time="1.482" tests="1">
-    <testcase classname="about-hero-section renders without crashing" name="about-hero-section renders without crashing" time="0.016">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:19" time="1.282" tests="1">
-    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="feature-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:19" time="1.214" tests="1">
-    <testcase classname="feature-section renders without crashing" name="feature-section renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="art-work-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:20" time="1.144" tests="1">
-    <testcase classname="art-work-section renders without crashing" name="art-work-section renders without crashing" time="0.008">
-    </testcase>
-  </testsuite>
-  <testsuite name="feature-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:20" time="1.373" tests="1">
-    <testcase classname="feature-section-two renders without crashing" name="feature-section-two renders without crashing" time="0.015">
-    </testcase>
-  </testsuite>
-  <testsuite name="team-info-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:20" time="1.567" tests="1">
-    <testcase classname="team-info-section renders without crashing" name="team-info-section renders without crashing" time="0.014">
-    </testcase>
-  </testsuite>
-  <testsuite name="project-execution-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:20" time="1.254" tests="1">
-    <testcase classname="project-execution-section renders without crashing" name="project-execution-section renders without crashing" time="0.037">
-    </testcase>
-  </testsuite>
-  <testsuite name="video-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:20" time="1.355" tests="1">
-    <testcase classname="video-section renders without crashing" name="video-section renders without crashing" time="0.042">
-    </testcase>
-  </testsuite>
-  <testsuite name="content-with-photo-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:20" time="1.439" tests="1">
-    <testcase classname="content-with-photo-section-two renders without crashing" name="content-with-photo-section-two renders without crashing" time="0.033">
-    </testcase>
-  </testsuite>
-  <testsuite name="video-section-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:20" time="1.382" tests="1">
-    <testcase classname="video-section-one renders without crashing" name="video-section-one renders without crashing" time="0.017">
-    </testcase>
-  </testsuite>
-  <testsuite name="second-level-dropdown-item" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:21" time="1.418" tests="1">
-    <testcase classname="second-level-dropdown-item renders without crashing" name="second-level-dropdown-item renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="blog-pagination" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:21" time="1.448" tests="1">
-    <testcase classname="blog-pagination renders without crashing" name="blog-pagination renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:22" time="1.577" tests="1">
-    <testcase classname="breadcrumb renders without crashing" name="breadcrumb renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="news-letter" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:22" time="1.344" tests="1">
-    <testcase classname="news-letter renders without crashing" name="news-letter renders without crashing" time="0.018">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:22" time="1.477" tests="1">
-    <testcase classname="breadcrumb renders without crashing" name="breadcrumb renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:22" time="1.306" tests="1">
-    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="comment-input-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:22" time="1.57" tests="1">
-    <testcase classname="comment-input-section renders without crashing" name="comment-input-section renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="mega-menu" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:23" time="1.556" tests="1">
-    <testcase classname="mega-menu renders without crashing" name="mega-menu renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="feature-one-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:23" time="1.514" tests="1">
-    <testcase classname="feature-one-section renders without crashing" name="feature-one-section renders without crashing" time="0.026">
-    </testcase>
-  </testsuite>
-  <testsuite name="inovative-service-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:23" time="1.647" tests="1">
-    <testcase classname="inovative-service-section renders without crashing" name="inovative-service-section renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:23" time="1.552" tests="1">
-    <testcase classname="breadcrumb-one renders without crashing" name="breadcrumb-one renders without crashing" time="0.013">
-    </testcase>
-  </testsuite>
-  <testsuite name="project-thumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:24" time="1.205" tests="1">
-    <testcase classname="project-thumb-section renders without crashing" name="project-thumb-section renders without crashing" time="0.013">
-    </testcase>
-  </testsuite>
-  <testsuite name="counter-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:24" time="1.717" tests="1">
-    <testcase classname="counter-section renders without crashing" name="counter-section renders without crashing" time="0.057">
-    </testcase>
-  </testsuite>
-  <testsuite name="feature-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:24" time="1.587" tests="1">
-    <testcase classname="feature-section-two renders without crashing" name="feature-section-two renders without crashing" time="0.034">
-    </testcase>
-  </testsuite>
-  <testsuite name="project-details-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:25" time="1.552" tests="1">
-    <testcase classname="project-details-section renders without crashing" name="project-details-section renders without crashing" time="0.012">
-    </testcase>
-  </testsuite>
-  <testsuite name="tag-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:25" time="1.594" tests="1">
-    <testcase classname="tag-section renders without crashing" name="tag-section renders without crashing" time="0.058">
-    </testcase>
-  </testsuite>
-  <testsuite name="mega-dropdown-item" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:25" time="1.533" tests="1">
-    <testcase classname="mega-dropdown-item renders without crashing" name="mega-dropdown-item renders without crashing" time="0.027">
-    </testcase>
-  </testsuite>
-  <testsuite name="preloader" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:25" time="1.669" tests="1">
-    <testcase classname="preloader renders without crashing" name="preloader renders without crashing" time="0.011">
-    </testcase>
-  </testsuite>
-  <testsuite name="feature-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:26" time="1.624" tests="1">
-    <testcase classname="feature-section renders without crashing" name="feature-section renders without crashing" time="0.014">
-    </testcase>
-  </testsuite>
-  <testsuite name="features-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:26" time="1.621" tests="1">
-    <testcase classname="features-section renders without crashing" name="features-section renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="faq-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:26" time="1.879" tests="1">
-    <testcase classname="faq-section renders without crashing" name="faq-section renders without crashing" time="0.023">
-    </testcase>
-  </testsuite>
-  <testsuite name="nft-roadmap" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:27" time="1.556" tests="1">
-    <testcase classname="nft-roadmap renders without crashing" name="nft-roadmap renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:27" time="1.277" tests="1">
-    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="hero-thumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:27" time="1.31" tests="1">
-    <testcase classname="hero-thumb-section renders without crashing" name="hero-thumb-section renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="whitepaper-post" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:27" time="1.495" tests="1">
-    <testcase classname="whitepaper-post renders without crashing" name="whitepaper-post renders without crashing" time="0.008">
-    </testcase>
-  </testsuite>
-  <testsuite name="whitepaperCrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:28" time="1.318" tests="1">
-    <testcase classname="whitepaperCrumb-section renders without crashing" name="whitepaperCrumb-section renders without crashing" time="0.016">
-    </testcase>
-  </testsuite>
-  <testsuite name="humb-revolution" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:28" time="1.474" tests="1">
-    <testcase classname="humb-revolution renders without crashing" name="humb-revolution renders without crashing" time="0.016">
-    </testcase>
-  </testsuite>
-  <testsuite name="video-section-five" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:28" time="1.225" tests="1">
-    <testcase classname="video-section-five renders without crashing" name="video-section-five renders without crashing" time="0.009">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:28" time="1.278" tests="1">
-    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.01">
-    </testcase>
-  </testsuite>
-  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:29" time="1.113" tests="1">
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:41" time="1.302" tests="1">
     <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.013">
     </testcase>
   </testsuite>
-  <testsuite name="cta-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:29" time="1.428" tests="1">
-    <testcase classname="cta-section renders without crashing" name="cta-section renders without crashing" time="0.031">
+  <testsuite name="video-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:42" time="1.344" tests="1">
+    <testcase classname="video-section renders without crashing" name="video-section renders without crashing" time="0.027">
     </testcase>
   </testsuite>
-  <testsuite name="about-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:26:29" time="3.854" tests="1">
-    <testcase classname="about-section renders without crashing" name="about-section renders without crashing" time="0.009">
+  <testsuite name="democratising-healthcare-single-blogs-details" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:42" time="1.229" tests="1">
+    <testcase classname="democratising-healthcare-single-blogs-details renders without crashing" name="democratising-healthcare-single-blogs-details renders without crashing" time="0.015">
+    </testcase>
+  </testsuite>
+  <testsuite name="whitepaperCrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:42" time="1.509" tests="1">
+    <testcase classname="whitepaperCrumb-section renders without crashing" name="whitepaperCrumb-section renders without crashing" time="0.024">
+    </testcase>
+  </testsuite>
+  <testsuite name="chart-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:42" time="1.459" tests="1">
+    <testcase classname="chart-section renders without crashing" name="chart-section renders without crashing" time="0.024">
+    </testcase>
+  </testsuite>
+  <testsuite name="video-section-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:43" time="1.273" tests="1">
+    <testcase classname="video-section-one renders without crashing" name="video-section-one renders without crashing" time="0.015">
+    </testcase>
+  </testsuite>
+  <testsuite name="whitepaper-sidebar-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:42" time="1.503" tests="1">
+    <testcase classname="whitepaper-sidebar-section renders without crashing" name="whitepaper-sidebar-section renders without crashing" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="inovative-service-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:43" time="1.375" tests="1">
+    <testcase classname="inovative-service-section renders without crashing" name="inovative-service-section renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="healthcare-and-cryptoworld" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:43" time="1.285" tests="1">
+    <testcase classname="healthcare-and-cryptoworld renders without crashing" name="healthcare-and-cryptoworld renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="logo-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:44" time="1.427" tests="1">
+    <testcase classname="logo-section renders without crashing" name="logo-section renders without crashing" time="0.026">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:44" time="1.29" tests="1">
+    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="filter-gallary-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:44" time="1.331" tests="1">
+    <testcase classname="filter-gallary-four renders without crashing" name="filter-gallary-four renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumbs-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:44" time="1.344" tests="1">
+    <testcase classname="breadcrumbs-section renders without crashing" name="breadcrumbs-section renders without crashing" time="0.017">
+    </testcase>
+  </testsuite>
+  <testsuite name="single-blog-sidebar-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:44" time="1.362" tests="1">
+    <testcase classname="single-blog-sidebar-section renders without crashing" name="single-blog-sidebar-section renders without crashing" time="0.043">
+    </testcase>
+  </testsuite>
+  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:45" time="1.398" tests="1">
+    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.02">
+    </testcase>
+  </testsuite>
+  <testsuite name="feature-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:45" time="1.409" tests="1">
+    <testcase classname="feature-section-two renders without crashing" name="feature-section-two renders without crashing" time="0.022">
+    </testcase>
+  </testsuite>
+  <testsuite name="comment-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:45" time="1.408" tests="1">
+    <testcase classname="comment-section renders without crashing" name="comment-section renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:45" time="1.523" tests="1">
+    <testcase classname="hero-section renders without crashing" name="hero-section renders without crashing" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="whitepaper-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:46" time="1.52" tests="1">
+    <testcase classname="whitepaper-section renders without crashing" name="whitepaper-section renders without crashing" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="LocationPin" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:46" time="1.3" tests="1">
+    <testcase classname="LocationPin renders without crashing" name="LocationPin renders without crashing" time="0.019">
+    </testcase>
+  </testsuite>
+  <testsuite name="single-blog-post" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:46" time="1.455" tests="1">
+    <testcase classname="single-blog-post renders without crashing" name="single-blog-post renders without crashing" time="0.016">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:46" time="1.389" tests="1">
+    <testcase classname="breadcrumb renders without crashing" name="breadcrumb renders without crashing" time="0.029">
+    </testcase>
+  </testsuite>
+  <testsuite name="post-navigation" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:47" time="1.265" tests="1">
+    <testcase classname="post-navigation renders without crashing" name="post-navigation renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="hero-thumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:47" time="1.212" tests="1">
+    <testcase classname="hero-thumb-section renders without crashing" name="hero-thumb-section renders without crashing" time="0.011">
+    </testcase>
+  </testsuite>
+  <testsuite name="counter-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:47" time="1.282" tests="1">
+    <testcase classname="counter-section renders without crashing" name="counter-section renders without crashing" time="0.023">
+    </testcase>
+  </testsuite>
+  <testsuite name="section-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:48" time="1.15" tests="1">
+    <testcase classname="section-one renders without crashing" name="section-one renders without crashing" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="pricing-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:48" time="1.319" tests="1">
+    <testcase classname="pricing-section-two renders without crashing" name="pricing-section-two renders without crashing" time="0.015">
+    </testcase>
+  </testsuite>
+  <testsuite name="index" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:48" time="1.303" tests="1">
+    <testcase classname="index renders without crashing" name="index renders without crashing" time="0.03">
+    </testcase>
+  </testsuite>
+  <testsuite name="trading-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:48" time="1.234" tests="1">
+    <testcase classname="trading-section-two renders without crashing" name="trading-section-two renders without crashing" time="0.021">
+    </testcase>
+  </testsuite>
+  <testsuite name="communication-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:48" time="1.198" tests="1">
+    <testcase classname="communication-section renders without crashing" name="communication-section renders without crashing" time="0.015">
+    </testcase>
+  </testsuite>
+  <testsuite name="video-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:48" time="1.426" tests="1">
+    <testcase classname="video-section renders without crashing" name="video-section renders without crashing" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="instant" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:49" time="1.255" tests="1">
+    <testcase classname="instant renders without crashing" name="instant renders without crashing" time="0.017">
+    </testcase>
+  </testsuite>
+  <testsuite name="blog-inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:49" time="1.336" tests="1">
+    <testcase classname="blog-inner-section renders without crashing" name="blog-inner-section renders without crashing" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="video-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:49" time="1.208" tests="1">
+    <testcase classname="video-section-two renders without crashing" name="video-section-two renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="blog-filtering" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:49" time="1.499" tests="1">
+    <testcase classname="blog-filtering renders without crashing" name="blog-filtering renders without crashing" time="0.038">
+    </testcase>
+  </testsuite>
+  <testsuite name="testimonial-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:49" time="1.356" tests="1">
+    <testcase classname="testimonial-section renders without crashing" name="testimonial-section renders without crashing" time="0.015">
+    </testcase>
+  </testsuite>
+  <testsuite name="mission-vision" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:50" time="1.342" tests="1">
+    <testcase classname="mission-vision renders without crashing" name="mission-vision renders without crashing" time="0.015">
+    </testcase>
+  </testsuite>
+  <testsuite name="filter-gallary-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:50" time="1.411" tests="1">
+    <testcase classname="filter-gallary-three renders without crashing" name="filter-gallary-three renders without crashing" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="blog-inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:50" time="1.445" tests="1">
+    <testcase classname="blog-inner-section renders without crashing" name="blog-inner-section renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:50" time="1.386" tests="1">
+    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="communicate-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:51" time="1.296" tests="1">
+    <testcase classname="communicate-section renders without crashing" name="communicate-section renders without crashing" time="0.025">
+    </testcase>
+  </testsuite>
+  <testsuite name="single-card-slider-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:51" time="1.337" tests="1">
+    <testcase classname="single-card-slider-two renders without crashing" name="single-card-slider-two renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="feature-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:51" time="1.21" tests="1">
+    <testcase classname="feature-section renders without crashing" name="feature-section renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="feature-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:51" time="1.194" tests="1">
+    <testcase classname="feature-section renders without crashing" name="feature-section renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:51" time="1.319" tests="1">
+    <testcase classname="breadcrumb renders without crashing" name="breadcrumb renders without crashing" time="0.021">
+    </testcase>
+  </testsuite>
+  <testsuite name="second-level-dropdown-item" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:52" time="1.407" tests="1">
+    <testcase classname="second-level-dropdown-item renders without crashing" name="second-level-dropdown-item renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="tokenization-single-blogs-details" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:52" time="1.438" tests="1">
+    <testcase classname="tokenization-single-blogs-details renders without crashing" name="tokenization-single-blogs-details renders without crashing" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="header-home-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:52" time="1.581" tests="1">
+    <testcase classname="header-home-four renders without crashing" name="header-home-four renders without crashing" time="0.032">
+    </testcase>
+  </testsuite>
+  <testsuite name="video-section-three" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:52" time="1.367" tests="1">
+    <testcase classname="video-section-three renders without crashing" name="video-section-three renders without crashing" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="blog-pagination" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:52" time="1.364" tests="1">
+    <testcase classname="blog-pagination renders without crashing" name="blog-pagination renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="blog-sidebar-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:53" time="1.341" tests="1">
+    <testcase classname="blog-sidebar-section renders without crashing" name="blog-sidebar-section renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:53" time="1.421" tests="1">
+    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:53" time="1.558" tests="1">
+    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.076">
+    </testcase>
+  </testsuite>
+  <testsuite name="video-section-six" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:54" time="1.614" tests="1">
+    <testcase classname="video-section-six renders without crashing" name="video-section-six renders without crashing" time="0.018">
+    </testcase>
+  </testsuite>
+  <testsuite name="whitepaper-post" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:54" time="1.989" tests="1">
+    <testcase classname="whitepaper-post renders without crashing" name="whitepaper-post renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="about-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:54" time="1.646" tests="1">
+    <testcase classname="about-section renders without crashing" name="about-section renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:54" time="1.99" tests="1">
+    <testcase classname="breadcrumb renders without crashing" name="breadcrumb renders without crashing" time="0.026">
+    </testcase>
+  </testsuite>
+  <testsuite name="video-section-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:55" time="1.7" tests="1">
+    <testcase classname="video-section-four renders without crashing" name="video-section-four renders without crashing" time="0.049">
+    </testcase>
+  </testsuite>
+  <testsuite name="feature-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:55" time="1.589" tests="1">
+    <testcase classname="feature-section renders without crashing" name="feature-section renders without crashing" time="0.04">
+    </testcase>
+  </testsuite>
+  <testsuite name="blog-post-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:56" time="1.708" tests="1">
+    <testcase classname="blog-post-section renders without crashing" name="blog-post-section renders without crashing" time="0.028">
+    </testcase>
+  </testsuite>
+  <testsuite name="footer-home-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:56" time="1.375" tests="1">
+    <testcase classname="footer-home-two renders without crashing" name="footer-home-two renders without crashing" time="0.02">
+    </testcase>
+  </testsuite>
+  <testsuite name="project-execution-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:56" time="1.39" tests="1">
+    <testcase classname="project-execution-section renders without crashing" name="project-execution-section renders without crashing" time="0.038">
+    </testcase>
+  </testsuite>
+  <testsuite name="hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:56" time="1.609" tests="1">
+    <testcase classname="hero-section renders without crashing" name="hero-section renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="content-with-photo-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:56" time="1.569" tests="1">
+    <testcase classname="content-with-photo-section renders without crashing" name="content-with-photo-section renders without crashing" time="0.106">
+    </testcase>
+  </testsuite>
+  <testsuite name="footer-home-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:57" time="1.71" tests="1">
+    <testcase classname="footer-home-four renders without crashing" name="footer-home-four renders without crashing" time="0.049">
+    </testcase>
+  </testsuite>
+  <testsuite name="content-with-photo-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:57" time="1.822" tests="1">
+    <testcase classname="content-with-photo-section-two renders without crashing" name="content-with-photo-section-two renders without crashing" time="0.045">
+    </testcase>
+  </testsuite>
+  <testsuite name="blog-sidebar-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:58" time="1.568" tests="1">
+    <testcase classname="blog-sidebar-section renders without crashing" name="blog-sidebar-section renders without crashing" time="0.016">
+    </testcase>
+  </testsuite>
+  <testsuite name="cta-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:58" time="1.734" tests="1">
+    <testcase classname="cta-section renders without crashing" name="cta-section renders without crashing" time="0.069">
+    </testcase>
+  </testsuite>
+  <testsuite name="contact-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:58" time="1.879" tests="1">
+    <testcase classname="contact-section renders without crashing" name="contact-section renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="news-letter" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:59" time="1.488" tests="1">
+    <testcase classname="news-letter renders without crashing" name="news-letter renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="team-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:59" time="1.842" tests="1">
+    <testcase classname="team-section renders without crashing" name="team-section renders without crashing" time="0.024">
+    </testcase>
+  </testsuite>
+  <testsuite name="art-work-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:46:59" time="1.552" tests="1">
+    <testcase classname="art-work-section renders without crashing" name="art-work-section renders without crashing" time="0.018">
+    </testcase>
+  </testsuite>
+  <testsuite name="blog-pagination" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:00" time="1.681" tests="1">
+    <testcase classname="blog-pagination renders without crashing" name="blog-pagination renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="second-level-dropdown-menu" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:00" time="1.477" tests="1">
+    <testcase classname="second-level-dropdown-menu renders without crashing" name="second-level-dropdown-menu renders without crashing" time="0.011">
+    </testcase>
+  </testsuite>
+  <testsuite name="project-thumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:01" time="1.401" tests="1">
+    <testcase classname="project-thumb-section renders without crashing" name="project-thumb-section renders without crashing" time="0.018">
+    </testcase>
+  </testsuite>
+  <testsuite name="counter-one-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:01" time="1.509" tests="1">
+    <testcase classname="counter-one-section renders without crashing" name="counter-one-section renders without crashing" time="0.016">
+    </testcase>
+  </testsuite>
+  <testsuite name="related-project-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:01" time="1.564" tests="1">
+    <testcase classname="related-project-section renders without crashing" name="related-project-section renders without crashing" time="0.016">
+    </testcase>
+  </testsuite>
+  <testsuite name="comment-list-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:01" time="1.419" tests="1">
+    <testcase classname="comment-list-section renders without crashing" name="comment-list-section renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="footer-home-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:02" time="1.592" tests="1">
+    <testcase classname="footer-home-one renders without crashing" name="footer-home-one renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="blog-pagination" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:02" time="1.519" tests="1">
+    <testcase classname="blog-pagination renders without crashing" name="blog-pagination renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:02" time="1.395" tests="1">
+    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="about-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:03" time="1.273" tests="1">
+    <testcase classname="about-section renders without crashing" name="about-section renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="artwork-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:02" time="1.647" tests="1">
+    <testcase classname="artwork-section renders without crashing" name="artwork-section renders without crashing" time="0.018">
+    </testcase>
+  </testsuite>
+  <testsuite name="inner-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:03" time="1.433" tests="1">
+    <testcase classname="inner-section renders without crashing" name="inner-section renders without crashing" time="0.017">
+    </testcase>
+  </testsuite>
+  <testsuite name="header-error-six" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:03" time="1.957" tests="1">
+    <testcase classname="header-error-six renders without crashing" name="header-error-six renders without crashing" time="0.078">
+    </testcase>
+  </testsuite>
+  <testsuite name="blockchain-transforming-healthcar" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:04" time="1.764" tests="1">
+    <testcase classname="blockchain-transforming-healthcar renders without crashing" name="blockchain-transforming-healthcar renders without crashing" time="0.065">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:04" time="1.701" tests="1">
+    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.098">
+    </testcase>
+  </testsuite>
+  <testsuite name="choose-service-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:04" time="1.54" tests="1">
+    <testcase classname="choose-service-section renders without crashing" name="choose-service-section renders without crashing" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="contact-form-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:04" time="1.687" tests="1">
+    <testcase classname="contact-form-section renders without crashing" name="contact-form-section renders without crashing" time="0.069">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumbs-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:04" time="1.767" tests="1">
+    <testcase classname="breadcrumbs-section renders without crashing" name="breadcrumbs-section renders without crashing" time="0.019">
+    </testcase>
+  </testsuite>
+  <testsuite name="whitepaper-single-blogs-details" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:05" time="1.648" tests="1">
+    <testcase classname="whitepaper-single-blogs-details renders without crashing" name="whitepaper-single-blogs-details renders without crashing" time="0.018">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:05" time="1.518" tests="1">
+    <testcase classname="breadcrumb-one renders without crashing" name="breadcrumb-one renders without crashing" time="0.067">
+    </testcase>
+  </testsuite>
+  <testsuite name="faq-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:06" time="1.422" tests="1">
+    <testcase classname="faq-section renders without crashing" name="faq-section renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="features-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:06" time="1.304" tests="1">
+    <testcase classname="features-section renders without crashing" name="features-section renders without crashing" time="0.068">
+    </testcase>
+  </testsuite>
+  <testsuite name="nft-roadmap" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:06" time="1.196" tests="1">
+    <testcase classname="nft-roadmap renders without crashing" name="nft-roadmap renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:06" time="1.306" tests="1">
+    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.023">
+    </testcase>
+  </testsuite>
+  <testsuite name="cta-home-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:07" time="1.359" tests="1">
+    <testcase classname="cta-home-one renders without crashing" name="cta-home-one renders without crashing" time="0.071">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:07" time="1.458" tests="1">
+    <testcase classname="breadcrumb renders without crashing" name="breadcrumb renders without crashing" time="0.095">
+    </testcase>
+  </testsuite>
+  <testsuite name="roadmap-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:07" time="1.421" tests="1">
+    <testcase classname="roadmap-section renders without crashing" name="roadmap-section renders without crashing" time="0.022">
+    </testcase>
+  </testsuite>
+  <testsuite name="footer-home-five" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:07" time="1.438" tests="1">
+    <testcase classname="footer-home-five renders without crashing" name="footer-home-five renders without crashing" time="0.049">
+    </testcase>
+  </testsuite>
+  <testsuite name="mega-menu-item" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:08" time="1.43" tests="1">
+    <testcase classname="mega-menu-item renders without crashing" name="mega-menu-item renders without crashing" time="0.042">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:08" time="1.678" tests="1">
+    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.049">
+    </testcase>
+  </testsuite>
+  <testsuite name="feature-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:08" time="1.525" tests="1">
+    <testcase classname="feature-section renders without crashing" name="feature-section renders without crashing" time="0.02">
+    </testcase>
+  </testsuite>
+  <testsuite name="hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:08" time="1.461" tests="1">
+    <testcase classname="hero-section renders without crashing" name="hero-section renders without crashing" time="0.018">
+    </testcase>
+  </testsuite>
+  <testsuite name="faq-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:09" time="1.6" tests="1">
+    <testcase classname="faq-section renders without crashing" name="faq-section renders without crashing" time="0.047">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:09" time="1.559" tests="1">
+    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.059">
+    </testcase>
+  </testsuite>
+  <testsuite name="job-position-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:09" time="1.443" tests="1">
+    <testcase classname="job-position-section renders without crashing" name="job-position-section renders without crashing" time="0.015">
+    </testcase>
+  </testsuite>
+  <testsuite name="team-home-four" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:10" time="1.663" tests="1">
+    <testcase classname="team-home-four renders without crashing" name="team-home-four renders without crashing" time="0.063">
+    </testcase>
+  </testsuite>
+  <testsuite name="testimonial-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:09" time="1.84" tests="1">
+    <testcase classname="testimonial-section renders without crashing" name="testimonial-section renders without crashing" time="0.045">
+    </testcase>
+  </testsuite>
+  <testsuite name="preloader" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:10" time="1.746" tests="1">
+    <testcase classname="preloader renders without crashing" name="preloader renders without crashing" time="0.079">
+    </testcase>
+  </testsuite>
+  <testsuite name="about-hero-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:10" time="1.471" tests="1">
+    <testcase classname="about-hero-section renders without crashing" name="about-hero-section renders without crashing" time="0.064">
+    </testcase>
+  </testsuite>
+  <testsuite name="blockquote-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:10" time="1.591" tests="1">
+    <testcase classname="blockquote-section renders without crashing" name="blockquote-section renders without crashing" time="0.109">
+    </testcase>
+  </testsuite>
+  <testsuite name="feature-section-two" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:11" time="1.719" tests="1">
+    <testcase classname="feature-section-two renders without crashing" name="feature-section-two renders without crashing" time="0.08">
+    </testcase>
+  </testsuite>
+  <testsuite name="faq-home-one" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:11" time="1.823" tests="1">
+    <testcase classname="faq-home-one renders without crashing" name="faq-home-one renders without crashing" time="0.105">
+    </testcase>
+  </testsuite>
+  <testsuite name="mega-dropdown-item" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:12" time="1.47" tests="1">
+    <testcase classname="mega-dropdown-item renders without crashing" name="mega-dropdown-item renders without crashing" time="0.058">
+    </testcase>
+  </testsuite>
+  <testsuite name="mega-menu" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:12" time="1.611" tests="1">
+    <testcase classname="mega-menu renders without crashing" name="mega-menu renders without crashing" time="0.091">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:12" time="1.487" tests="1">
+    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.046">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumb-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:12" time="1.391" tests="1">
+    <testcase classname="breadcrumb-section renders without crashing" name="breadcrumb-section renders without crashing" time="0.05">
+    </testcase>
+  </testsuite>
+  <testsuite name="tag-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:13" time="1.548" tests="1">
+    <testcase classname="tag-section renders without crashing" name="tag-section renders without crashing" time="0.083">
+    </testcase>
+  </testsuite>
+  <testsuite name="blog-top-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:13" time="1.428" tests="1">
+    <testcase classname="blog-top-section renders without crashing" name="blog-top-section renders without crashing" time="0.017">
+    </testcase>
+  </testsuite>
+  <testsuite name="menu-data" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:14" time="1.556" tests="1">
+    <testcase classname="menu-data renders without crashing" name="menu-data renders without crashing" time="0.022">
+    </testcase>
+  </testsuite>
+  <testsuite name="project-about-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:14" time="1.361" tests="1">
+    <testcase classname="project-about-section renders without crashing" name="project-about-section renders without crashing" time="0.026">
+    </testcase>
+  </testsuite>
+  <testsuite name="project-details-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:14" time="1.347" tests="1">
+    <testcase classname="project-details-section renders without crashing" name="project-details-section renders without crashing" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="breadcrumbs-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:14" time="1.231" tests="1">
+    <testcase classname="breadcrumbs-section renders without crashing" name="breadcrumbs-section renders without crashing" time="0.026">
+    </testcase>
+  </testsuite>
+  <testsuite name="about-section" errors="0" failures="0" skipped="0" timestamp="2025-04-10T12:47:15" time="1.735" tests="1">
+    <testcase classname="about-section renders without crashing" name="about-section renders without crashing" time="0.013">
     </testcase>
   </testsuite>
 </testsuites>
