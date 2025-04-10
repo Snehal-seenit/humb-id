@@ -1,3 +1,4 @@
+import React from 'react';
 import Head from "next/head";
 import FaqAccordionTwo from "../components/common/faq/faq-accordion-two";
 import ClientSliderOne from "../components/common/sliders/client/client-slider-one";

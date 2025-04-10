@@ -1,3 +1,4 @@
+import React from 'react';
 import BreadcrumbSection from "./breadcrumb-section";
 import TeamSection from "./team-section";
 

@@ -1,13 +1,11 @@
+import React from 'react'; // Import React to resolve JSX scope issue
 import Head from "next/head";
 import AboutSection from "../components/about/about-section";
 import Breadcrumb from "../components/about/breadcrumb";
 import TeamSection from "../components/about/team-section";
-import CounterOneSection from "../components/common/counter/counter-one-section";
 import FaqSection from "../components/common/faq/faq-section";
-import FeatureOneSection from "../components/common/feature/feature-one-section";
-import ClientSliderTwo from "./../components/common/sliders/client/client-slider-two";
-import VideoSectionThree from "./../components/common/video/video-section-three";
 import MissionVision from "../components/about/mission-vision";
+
 export default function AboutUs() {
 	return (
 		<>
@@ -17,10 +15,10 @@ export default function AboutUs() {
 			<Breadcrumb />
 			<AboutSection />
 			<MissionVision />
+			{/* Uncomment and use these components if needed */}
 			{/* <FeatureOneSection /> */}
 			{/* <VideoSectionThree /> */}
 			{/* <CounterOneSection /> */}
-			
 			<FaqSection />
 			<TeamSection />
 			{/* <ClientSliderTwo /> */}

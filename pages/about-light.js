@@ -1,3 +1,4 @@
+import React from 'react'; // Import React to resolve JSX scope issue
 import ArtWorkSection from "../components/about-light/artwork-section";
 import BreadCrumbSection from "../components/about-light/breadcrumb-section";
 import CounterSection from "../components/about-light/counter-section";

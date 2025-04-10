@@ -1,7 +1,7 @@
-/* eslint-disable @next/next/no-img-element */
-import Link from "next/link";
 import React from "react";
 
+/* eslint-disable @next/next/no-img-element */
+import Link from "next/link";
 export default function PostNavigation() {
 	return (
 		<div className="fugu--post-navigation-wrap">

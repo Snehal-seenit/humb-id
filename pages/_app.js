@@ -1,3 +1,4 @@
+import React from 'react';
 import "bootstrap/dist/css/bootstrap.css";
 import "slick-carousel/slick/slick.css";
 import Layout from "../components/layout";

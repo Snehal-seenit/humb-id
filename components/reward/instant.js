@@ -1,3 +1,4 @@
+import React from 'react';
 import Profit from "./profit";
 import Trading from "./trading";
 

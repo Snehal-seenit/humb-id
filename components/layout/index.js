@@ -1,3 +1,4 @@
+import React from 'react';
 import FooterHomeFive from "./footer/footer-home-five";
 import FooterHomeFour from "./footer/footer-home-four";
 import FooterHomeOne from "./footer/footer-home-one";

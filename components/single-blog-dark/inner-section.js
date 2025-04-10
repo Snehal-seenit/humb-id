@@ -1,3 +1,4 @@
+import React from 'react';
 /* eslint-disable @next/next/no-img-element */
 import BreadcrumbSection from "./breadcrumb-section";
 import SingleBlogPost from "./single-blog-post";

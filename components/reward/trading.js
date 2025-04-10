@@ -1,3 +1,4 @@
+import React from 'react';
 export default function Trading() {
   return (
     <div className="container fugu-about-section">

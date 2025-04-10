@@ -44,7 +44,6 @@ const rewards = [
     reward: "2% of HUMB's Yearly Profit",
   },
 ];
-
 export default function RewardCardsBootstrap() {
   return (
     <div className="container py-5  text-white">
@@ -84,8 +83,7 @@ export default function RewardCardsBootstrap() {
               14% of HUMB’s annual profit is the maximum profit pool that will
               be kept aside for distribution among traders.
             </li>
-
-            <li className=" font14to16 circle-list">
+<li className=" font14to16 circle-list">
               Base profit distribution calculation of the 14% profit kept aside
               will be done on the 6% and 4% profit categories that traders will
               fall under and will be done on the 14% profit share kept aside for
@@ -114,8 +112,7 @@ export default function RewardCardsBootstrap() {
               profit and additional profit will be deposited as USDC in the
               traders wallets.
             </li>
-
-            <li className="font14to16 circle-list">
+<li className="font14to16 circle-list">
               Profit distributions are calculated based on the total number of
               eligible users in each category.
             </li>

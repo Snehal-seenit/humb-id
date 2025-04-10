@@ -1,3 +1,4 @@
+import React from 'react';
 import CountdownSection from "../components/coming-soon/countdown-section";
 import LogoSection from "../components/coming-soon/logo-section";
 import NewsletterSection from "../components/coming-soon/newsletter-section";

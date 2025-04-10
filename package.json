@@ -61,18 +61,18 @@
 		"^.+\\.(js|jsx|ts|tsx|mjs)$": [
 		  "babel-jest",
 		  {
-			"presets": [
-			  "next/babel"
-			]
+			"presets": ["next/babel"]
 		  }
 		]
 	  },
-	  "moduleNameMapper": {
-		"\\.(css|less|scss|sass)$": "<rootDir>/__mocks__/styleMock.js"
-	  },
 	  "transformIgnorePatterns": [
 		"/node_modules/(?!(swiper|react-slick|slick-carousel|ssr-window|dom7)/)"
-	  ]
+	  ],
+	  "moduleNameMapper": {
+		"\\.(css|less|scss|sass)$": "<rootDir>/__mocks__/styleMock.js",
+		"^swiper/css$": "<rootDir>/__mocks__/styleMock.js",
+		"^swiper/css/.*$": "<rootDir>/__mocks__/styleMock.js"
+	  }
 	},
 	"jest-junit": {
 	  "outputDirectory": "./",

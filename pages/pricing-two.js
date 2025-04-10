@@ -1,3 +1,4 @@
+import React from 'react';
 import FaqSection from "../components/common/faq/faq-section";
 import PricingSectionTwo from "../components/common/pricing/pricing-section-two";
 import BreadcrumbOne from "./../components/common/breadcrumb/breadcrumb-one";

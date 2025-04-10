@@ -1,3 +1,4 @@
+import React from 'react';
 import Head from "next/head";
 
 import Breadcrumb from "../components/token/breadcrumb";

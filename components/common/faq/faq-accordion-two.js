@@ -1,3 +1,4 @@
+import React from 'react';
 /* eslint-disable @next/next/no-img-element */
 
 import { Accordion } from "react-bootstrap";

@@ -1,3 +1,4 @@
+import React from 'react';
 import SingleBlogPost from "./single-blog-post";
 import SingleBlogSidebarSection from "./single-blog-sidebar-section";
 

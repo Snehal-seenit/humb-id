@@ -1,3 +1,4 @@
+import React from 'react';
 export default function CounterSection() {
 	return (
 		<div className="fugu--counter-section">

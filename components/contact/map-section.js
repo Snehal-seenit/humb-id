@@ -1,3 +1,4 @@
+import React from 'react';
 import GoogleMapReact from "google-map-react";
 import LocationPin from "./LocationPin";
 const AnyReactComponent = ({ text }) => <div>{text}</div>;

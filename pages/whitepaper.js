@@ -23,7 +23,7 @@
 // 	return { props: { header: "onell      ", footer: "one" } };
 // }
 
-
+import React from 'react';
 import WhitepaperSection from "../components/whitepaper/whitepaper-section";
 import WhitepaperCrumbSection from "../components/whitepaper/whitepaperCrumb-section";
 

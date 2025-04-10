@@ -1,3 +1,4 @@
+import React from 'react';
 import JobPositionSection from "../components/career/job-position-section";
 import SectionOne from "../components/career/section-one";
 import BreadcrumbOne from "../components/common/breadcrumb/breadcrumb-one";

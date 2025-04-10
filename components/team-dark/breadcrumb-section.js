@@ -1,3 +1,4 @@
+import React from 'react';
 export default function BreadcrumbSection() {
 	return (
 		<div className="fugu--breadcrumbs-section">

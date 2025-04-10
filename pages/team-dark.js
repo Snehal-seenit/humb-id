@@ -1,3 +1,4 @@
+import React from 'react';
 import InnerSection from "../components/team-dark/innser-section";
 
 export default function TeamDark() {

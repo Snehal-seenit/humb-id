@@ -1,11 +1,11 @@
-/* eslint-disable @next/next/no-img-element */
 import React from "react";
+
+/* eslint-disable @next/next/no-img-element */
 import BlockquoteSection from "./blockquote-section";
 import CommentRespondSection from "./comment-respond-section";
 import CommentSection from "./comment-section";
 import PostNavigation from "./post-navigation";
 import TagSection from "./tag-section";
-
 export default function SingleBlogPost() {
 	return (
 		<div className="fugu--single-blog-section">

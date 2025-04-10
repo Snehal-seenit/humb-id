@@ -1,3 +1,4 @@
+import React from 'react';
 import BreadcrumbOne from "../components/common/breadcrumb/breadcrumb-one";
 import ClientSliderTwo from "../components/common/sliders/client/client-slider-two";
 import FaqSection from "./../components/common/faq/faq-section";

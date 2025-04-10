@@ -1,3 +1,4 @@
+import React from 'react';
 import BlogContentSection from "../common/blog/blog-content-section";
 import BreadcrumbsSection from "./../common/blog/breadcrumbs-section";
 

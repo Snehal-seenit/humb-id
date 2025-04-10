@@ -1,3 +1,4 @@
+import React from 'react';
 import Head from "next/head";
 import FaqAccordionOne from "../components/common/faq/faq-accordion-one";
 import NftCollectionSection from "../components/common/sliders/card/card-slider-two";

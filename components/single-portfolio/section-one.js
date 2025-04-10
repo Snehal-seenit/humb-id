@@ -1,10 +1,10 @@
 import React from "react";
+
 import ProjectAboutSection from "./project-about-section";
 import ProjectDetailsSection from "./project-details-section";
 import ProjectExecutionSection from "./project-execution-section";
 import ProjectThumbSection from "./project-thumb-section";
 import RelatedProjectSection from "./related-project-section";
-
 export default function SectionOne() {
 	return (
 		<div className="section fugu-section-padding3">

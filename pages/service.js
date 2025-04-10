@@ -1,3 +1,4 @@
+import React from 'react';
 import FaqSection from "../components/common/faq/faq-section";
 import BreadcrumbSection from "../components/service/breadcrumb-section";
 import ChooseServiceSection from "../components/service/choose-service-section";

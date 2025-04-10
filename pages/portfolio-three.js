@@ -1,3 +1,4 @@
+import React from 'react';
 import BreadcrumbOne from "./../components/common/breadcrumb/breadcrumb-one";
 
 import dynamic from "next/dynamic";

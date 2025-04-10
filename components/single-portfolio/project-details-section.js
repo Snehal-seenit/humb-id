@@ -1,3 +1,4 @@
+import React from 'react';
 export default function ProjectDetailsSection() {
 	return (
 		<div className="fugu-gallery-data4">

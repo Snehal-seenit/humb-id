@@ -1,3 +1,4 @@
+import React from 'react';
 import InnerSection from "../components/contact-dark/inner-section";
 
 export default function ContactDark() {

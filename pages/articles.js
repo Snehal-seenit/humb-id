@@ -1,5 +1,7 @@
+import React from 'react'; // Import React to resolve JSX scope issue
+
 /* eslint-disable react/no-unescaped-entities */
-export default function ErrorPage() {
+export default function Articles() { // Renamed from ErrorPage to Articles
 	return (
 		<div className="section">
 			<div className="container">

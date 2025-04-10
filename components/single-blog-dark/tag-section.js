@@ -1,6 +1,6 @@
-import Link from "next/link";
 import React from "react";
 
+import Link from "next/link";
 export default function TagSection() {
 	return (
 		<div className="fugu--tags fugu--tags2">

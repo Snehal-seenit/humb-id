@@ -1,7 +1,7 @@
-/* eslint-disable @next/next/no-img-element */
-import Link from "next/link";
 import React from "react";
 
+/* eslint-disable @next/next/no-img-element */
+import Link from "next/link";
 export default function BreadcrumbSection() {
 	return (
 		<div className="fugu-breadcrumb-section">

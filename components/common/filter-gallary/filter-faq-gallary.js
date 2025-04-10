@@ -1,3 +1,4 @@
+import React from 'react';
 import { Accordion } from "react-bootstrap";
 import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";

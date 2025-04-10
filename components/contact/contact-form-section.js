@@ -1,3 +1,4 @@
+import React from 'react';
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import { useForm } from "react-hook-form";

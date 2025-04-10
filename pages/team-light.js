@@ -1,3 +1,4 @@
+import React from 'react';
 import InnerSection from "../components/team-light/inner-section";
 
 export default function TeamLight() {

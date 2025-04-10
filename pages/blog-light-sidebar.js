@@ -1,3 +1,4 @@
+import React from 'react'; // Import React to resolve JSX scope issue
 import BlogInnerSection from "../components/blog-light-sidebar/blog-inner-section";
 
 export default function BlogLightSidebar() {

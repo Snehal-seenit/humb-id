@@ -1,3 +1,4 @@
+import React from 'react';
 import Head from "next/head";
 import FaqHomeOne from "../components/common/faq/faq-home-one";
 import FeatureSectionTwo from "../components/common/feature/feature-section-two";

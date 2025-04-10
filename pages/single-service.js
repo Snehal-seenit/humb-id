@@ -1,3 +1,4 @@
+import React from 'react';
 import ClientSliderTwo from "../components/common/sliders/client/client-slider-two";
 import BreadcrumbSection from "../components/single-service/breadcrumb-section";
 import ChartSection from "../components/single-service/chart-section";

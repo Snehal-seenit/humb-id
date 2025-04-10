@@ -1,3 +1,4 @@
+import React from 'react';
 import Head from "next/head";
 import TestimonialSliderTwo from "../components/common/sliders/testimonial/testimonial-slider-two";
 import TextSliderOne from "../components/common/sliders/text/text-slider-one";

@@ -1,3 +1,4 @@
+import React from 'react';
 /* eslint-disable @next/next/no-img-element */
 /* eslint-disable react/no-unescaped-entities */
 import CountUp from "react-countup";

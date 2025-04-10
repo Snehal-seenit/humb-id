@@ -1,3 +1,4 @@
+import React from 'react'; // Import React to resolve JSX scope issue
 import AboutHeroSection from "../components/about-dark/about-hero-section";
 import AboutSection from "../components/about-dark/about-section";
 import FeatureSection from "../components/about-dark/feature-section";
@@ -23,6 +24,7 @@ export default function AboutDark() {
 		</>
 	);
 }
+
 export async function getStaticProps() {
 	return { props: { header: "three", footer: "three" } };
 }

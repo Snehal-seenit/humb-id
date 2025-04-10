@@ -1,3 +1,4 @@
+import React from 'react';
 import BreadcrumbSection from "../components/single-team/breadcrumb-section";
 import SingleTeamSection from "../components/single-team/single-team-section";
 import TeamInfoSection from "../components/single-team/team-info-section";

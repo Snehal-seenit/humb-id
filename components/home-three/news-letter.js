@@ -1,6 +1,6 @@
-/* eslint-disable @next/next/no-img-element */
 import React from "react";
 
+/* eslint-disable @next/next/no-img-element */
 export default function NewsLetter() {
 	return (
 		<div className="fugu--newslatter-section">

@@ -1,3 +1,4 @@
+import React from 'react';
 export default function FaqSection() {
 	return (
 		<div className="fugu--faq-section fugu--section-padding">

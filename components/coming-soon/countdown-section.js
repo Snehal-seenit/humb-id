@@ -1,3 +1,4 @@
+import React from 'react';
 import Countdown from "react-countdown";
 export default function CountdownSection() {
 	return (

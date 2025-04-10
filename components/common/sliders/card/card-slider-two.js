@@ -1,3 +1,4 @@
+import React from 'react';
 /* eslint-disable @next/next/no-img-element */
 import { useState } from "react";
 import Slider from "react-slick";

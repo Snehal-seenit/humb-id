@@ -1,7 +1,7 @@
-/* eslint-disable react/no-unescaped-entities */
-/* eslint-disable @next/next/no-img-element */
 import React from "react";
 
+/* eslint-disable react/no-unescaped-entities */
+/* eslint-disable @next/next/no-img-element */
 export default function FeatureOneSection() {
 	return (
 		<div className="section bg-warning-200 fugu-section-padding3">

@@ -1,6 +1,6 @@
-/* eslint-disable react/no-unescaped-entities */
 import React from "react";
 
+/* eslint-disable react/no-unescaped-entities */
 export default function FeatureSection() {
 	return (
 		<div className="fugu--feature-section fugu--section-padding2">

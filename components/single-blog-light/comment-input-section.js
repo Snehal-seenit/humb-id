@@ -1,3 +1,4 @@
+import React from 'react';
 export default function CommentInputSection() {
 	return (
 		<div className="fugu-input-field-section">
