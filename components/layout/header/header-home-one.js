@@ -1,12 +1,9 @@
 import Link from "next/link";
 import { useState } from "react";
 import {
-  BlogDropdownMenus,
-  ContactDropdownMenus,
   DemoDropdownMenus,
-  ElementsMegaMenu,
-  WhitePaper,
   PagesDropdownMenus,
+  WhitePaper,
 } from "../navbar/menu-data";
 import NavItem from "../navbar/nav-item";
 import Navbar from "../navbar/navbar";
@@ -33,12 +30,14 @@ export default function HeaderHomeOne() {
         <nav className="navbar site-navbar">
           <div className="brand-logo">
             <Link href={"/"}>
-              <img
-                src="/images/logo/Logo (1).png"
-                alt="logo"
-                className="light-version-logo"
-                style={{ maxWidth: "180px" }}
-              />
+              <span>
+                <img
+                  src="/images/logo/Logo (1).png"
+                  alt="logo"
+                  className="light-version-logo"
+                  style={{ maxWidth: "180px" }}
+                />
+              </span>
             </Link>
           </div>
           <div className="menu-block-wrapper">
@@ -70,50 +69,42 @@ export default function HeaderHomeOne() {
                   menuItems={PagesDropdownMenus}
                   handleCloseMobileMenu={handleCloseMobileMenu}
                 />
-                {/* <NavItem navItemText="Resources" menuItems={ElementsMegaMenu} /> */}
                 <NavItem
                   navItemText="Resources"
                   menuItems={WhitePaper}
                   handleCloseMobileMenu={handleCloseMobileMenu}
                 />
-                {/* <NavItem navItemText="About Us" menuItems={BlogDropdownMenus} /> */}
-                {/* <NavItem navItemText="Support" menuItems={ContactDropdownMenus} /> */}
-
                 <li
                   className="nav-item nav-item-has-children"
                   onClick={handleCloseMobileMenu}
                 >
-                  <Link href="/about-us" className="nav-link-item drop-trigger">
-                    About HUMB{" "}
+                  <Link href="/about-us">
+                    <span className="nav-link-item drop-trigger">About HUMB</span>
                   </Link>
-                  {/* <a href="#" class="nav-link-item drop-trigger">About Us</a> */}
                 </li>
                 <li
                   className="nav-item nav-item-has-children"
                   onClick={handleCloseMobileMenu}
                 >
-                  <Link
-                    href="https://www.humb.support/"
-                    className="nav-link-item drop-trigger" target="_blank"
-                  >
-                    Support
+                  <Link href="https://www.humb.support/" target="_blank">
+                    <span className="nav-link-item drop-trigger">Support</span>
                   </Link>
                 </li>
                 <div className="nav-item nav-item-has-children d-block d-md-none">
-                  <a className="fugu-btn fugu-header-btn m-4" href="https://app.humb.io/register">
-                      Login / Sign Up
-                  </a>
+                  <span className="fugu-btn fugu-header-btn m-4" href="https://app.humb.io/register">
+                    Login / Sign Up
+                  </span>
                 </div>
               </Navbar>
             </nav>
           </div>
           <div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-            <a
+            <span
               className="fugu-btn fugu-header-btn"
               href="https://app.humb.io/register"
             >
               Login / Sign Up
-            </a>
+            </span>
           </div>
 
           <div

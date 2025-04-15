@@ -1,5 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
-
 import Link from "next/link";
 
 export default function CommunicationSection() {
@@ -10,12 +8,13 @@ export default function CommunicationSection() {
 					<div className="fugu--default-content content-sm content-black">
 						<h2>Prefer to reach out directly?</h2>
 						<p>
-							Nexto is a universal marketplace that has been working with NFTS Art since 2002. we are
+							Nexto is a universal marketplace that has been working with NFTS Art since 2002. We are
 							ready to change the world with NFTs!
 						</p>
 					</div>
 				</div>
 				<div className="row">
+					{/* Career Section */}
 					<div className="col-xl-4 col-md-6">
 						<div
 							className="fugu--iconbox-wrap fugu--iconbox-wrap3 fugu--iconbox-wrap5 wow fadeInUpX"
@@ -27,13 +26,17 @@ export default function CommunicationSection() {
 							<div className="fugu--iconbox-data">
 								<h4>Careers</h4>
 								<p>the job or series of jobs that you do during your working making progress</p>
-								<Link href={"#"}>
-									Join our team
-									<img src="/images/svg2/arrow-right-black.svg" alt="" />
+								<Link href={"#"} legacyBehavior>
+									<span>
+										Join our team{" "}
+										<img src="/images/svg2/arrow-right-black.svg" alt="" />
+									</span>
 								</Link>
 							</div>
 						</div>
 					</div>
+
+					{/* Help & Support Section */}
 					<div className="col-xl-4 col-md-6">
 						<div
 							className="fugu--iconbox-wrap fugu--iconbox-wrap3 fugu--iconbox-wrap5 wow fadeInUpX"
@@ -45,13 +48,17 @@ export default function CommunicationSection() {
 							<div className="fugu--iconbox-data">
 								<h4>Help & Support</h4>
 								<p>Help and support desk support refers to the process of information support</p>
-								<Link href={"#"}>
-									Contact support
-									<img src="/images/svg2/arrow-right-black.svg" alt="" />
+								<Link href={"#"} legacyBehavior>
+									<span>
+										Contact support{" "}
+										<img src="/images/svg2/arrow-right-black.svg" alt="" />
+									</span>
 								</Link>
 							</div>
 						</div>
 					</div>
+
+					{/* Ask Question Section */}
 					<div className="col-xl-4 col-md-6">
 						<div
 							className="fugu--iconbox-wrap fugu--iconbox-wrap3 fugu--iconbox-wrap5 wow fadeInUpX"
@@ -63,9 +70,11 @@ export default function CommunicationSection() {
 							<div className="fugu--iconbox-data">
 								<h4>Ask Question</h4>
 								<p>Questions is a game for people to get to know each other better and played</p>
-								<Link href={"#"}>
-									Ask questions
-									<img src="/images/svg2/arrow-right-black.svg" alt="" />
+								<Link href={"#"} legacyBehavior>
+									<span>
+										Ask questions{" "}
+										<img src="/images/svg2/arrow-right-black.svg" alt="" />
+									</span>
 								</Link>
 							</div>
 						</div>

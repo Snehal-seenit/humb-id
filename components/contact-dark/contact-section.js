@@ -1,11 +1,11 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import { useForm } from "react-hook-form";
+
 export default function ContactSection() {
 	const {
 		register,
 		handleSubmit,
-		watch,
 		formState: { errors },
 	} = useForm();
 	const onSubmit = (data) => console.log(data);
@@ -20,25 +20,22 @@ export default function ContactSection() {
 							<li>
 								<Link href={"#"}>
 									<span>
-										<img src="/images/svg2/phone2.svg" alt="" />
+										<img src="/images/svg2/phone2.svg" alt="" /> +008-245-5667
 									</span>
-									+008-245-5667
 								</Link>
 							</li>
 							<li>
 								<Link href={"#"}>
 									<span>
-										<img src="/images/svg2/mail2.svg" alt="" />
+										<img src="/images/svg2/mail2.svg" alt="" /> mail@example.com
 									</span>
-									mail@example.com
 								</Link>
 							</li>
 							<li>
 								<Link href={"#"}>
 									<span>
-										<img src="/images/svg2/map2.svg" alt="" />
+										<img src="/images/svg2/map2.svg" alt="" /> 389 Ranchview, California 62639
 									</span>
-									389 Ranchview, California 62639
 								</Link>
 							</li>
 						</ul>
@@ -49,9 +46,9 @@ export default function ContactSection() {
 							<li>
 								<Link href={"#"}>
 									<span>
-										<img src="/images/svg2/clock.svg" alt="" />
+										<img src="/images/svg2/clock.svg" alt="" /> Monday to Thursday: 7:00 – 15:00
+										Friday to Saturday: 7:00 – 15:00 Sunday: CLOSED
 									</span>
-									Monday to Thursday: 7:00 – 15:00 Friday to Saturday: 7:00 – 15:00 Sunday: CLOSED
 								</Link>
 							</li>
 						</ul>

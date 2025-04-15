@@ -4,15 +4,16 @@
 import Isotope from "isotope-layout";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
+
 export default function FilterGallaryFour() {
 	const isotope = useRef();
 	const [activeClass, setActiveClass] = useState("*");
 	const [filterKey, setFilterKey] = useState("*");
+
 	useEffect(() => {
-		setTimeout(() => {
+		const timeoutId = setTimeout(() => {
 			isotope.current = new Isotope("#fugu-gallery-masonay3", {
 				itemSelector: ".fugu-grid-item",
-
 				resizable: false,
 				masonry: {
 					columnWidth: ".fugu-grid-item",
@@ -20,14 +21,21 @@ export default function FilterGallaryFour() {
 				},
 			});
 		}, 1000);
-		return () => isotope.current.destroy();
+
+		return () => {
+			clearTimeout(timeoutId);
+			if (isotope.current && typeof isotope.current.destroy === "function") {
+				isotope.current.destroy();
+			}
+		};
 	}, []);
 
 	useEffect(() => {
-		if (isotope.current)
+		if (isotope.current) {
 			filterKey === "*"
 				? isotope.current.arrange({ filter: `*` })
 				: isotope.current.arrange({ filter: `.${filterKey}` });
+		}
 	}, [filterKey]);
 
 	const handleFilterKeyChange = (key) => () => {

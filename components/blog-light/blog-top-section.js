@@ -7,8 +7,10 @@ export default function BlogTopSection() {
 			<div className="fugu--blog-top-wrap">
 				<div className="fugu--blog-wrap">
 					<div className="fugu--blog-thumb">
-						<Link href={"single-blog-light"}>
-							<img src="/images/all-img/blog2/dark/blog.png" alt="" />
+						<Link href="single-blog-light" legacyBehavior>
+							<span>
+								<img src="/images/all-img/blog2/dark/blog.png" alt="Blog thumbnail" />
+							</span>
 						</Link>
 						<div className="fugu--blog-badge">Art & Analysis</div>
 					</div>
@@ -16,21 +18,28 @@ export default function BlogTopSection() {
 						<div className="fugu--blog-date">
 							<ul>
 								<li>
-									<Link href="#">
-										<img src="/images/svg2/calendar2.svg" alt="" />
-										July 18, 2022
+									<Link href="#" legacyBehavior>
+										<span>
+											<img src="/images/svg2/calendar2.svg" alt="Calendar" />
+											July 18, 2022
+										</span>
 									</Link>
 								</li>
 								<li>
-									<Link href="#">
-										<img src="/images/svg2/clock2.svg" alt="" />5 min read
+									<Link href="#" legacyBehavior>
+										<span>
+											<img src="/images/svg2/clock2.svg" alt="Clock" />
+											5 min read
+										</span>
 									</Link>
 								</li>
 							</ul>
 						</div>
 						<div className="fugu--blog-title">
-							<Link href={"single-blog-light"}>
-								<h3>NFTs & Japanese Culture: a rising, diverse community</h3>
+							<Link href="single-blog-light" legacyBehavior>
+								<span>
+									<h3>NFTs & Japanese Culture: a rising, diverse community</h3>
+								</span>
 							</Link>
 						</div>
 						<p>
@@ -39,10 +48,10 @@ export default function BlogTopSection() {
 						</p>
 						<div className="fugu--blog-user">
 							<div className="fugu--blog-user-thumb">
-								<img src="/images/all-img/blog2/author1.png" alt="" />
+								<img src="/images/all-img/blog2/author1.png" alt="Author" />
 							</div>
 							<div className="fugu--blog-user-data">
-								<span>Dianne Russell</span>
+								Dianne Russell
 								<p>Author</p>
 							</div>
 						</div>
