@@ -8,7 +8,7 @@
 		"start": "next start",
 		"lint": "next lint",
 		"export": "next export",
-		"test": "jest --watchAll",
+		"test":  "jest --ci",
 		"test:ci": "jest --ci --reporters=default --reporters=jest-junit",
 		"generate-tests": "node generate-tests.js"
 	},
