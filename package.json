@@ -3,13 +3,13 @@
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
-		"dev": "next dev",
-		"build": "next build",
-		"start": "next start",
-		"export": "next export",
-		"lint": "next lint --max-warnings=0 || true",
-		"test": "jest --ci --reporters=default --reporters=jest-junit",
-		"test:watch": "jest --watch"
+	  "dev": "next dev",
+	  "build": "next build",
+	  "start": "next start",
+	  "export": "next export",
+	  "lint": "next lint --max-warnings=0 || true",
+	  "test": "jest --ci --reporters=default --reporters=jest-junit",
+	  "test:watch": "jest --watch"
 	},
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.2.0",
@@ -84,4 +84,5 @@
 		"outputDirectory": "./",
 		"outputName": "junit.xml"
 	}
-}
+  }
+  
