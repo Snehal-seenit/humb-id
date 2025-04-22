@@ -1,9 +1,8 @@
 module.exports = {
   presets: [
-    'next/babel', // Next.js preset (includes necessary Babel settings for Next.js)
+    'next/babel', // Next.js preset
   ],
   plugins: [
-    '@babel/plugin-transform-runtime', // Helps optimize async/await and other JS features
+    '@babel/plugin-transform-runtime', // Handles async/await, generators, etc.
   ],
-  // Optionally, you can also add any additional configurations or plugins, like support for TypeScript.
 };
