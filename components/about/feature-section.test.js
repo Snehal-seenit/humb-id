@@ -1,10 +1,30 @@
-import React from "react";
-
+import "@testing-library/jest-dom";
 import { render, screen } from "@testing-library/react";
-import feature_section from "./feature-section";
-describe("feature-section", () => {
+import React from "react";
+import FeatureSection from "./feature-section";
+
+describe("FeatureSection", () => {
   test("renders without crashing", () => {
-    render(<feature_section />);
-    // screen.debug();
+    render(<FeatureSection />);
+  });
+
+  test("renders section heading", () => {
+    render(<FeatureSection />);
+    expect(
+      screen.getByText(/modern features that set apart from everyone else/i)
+    ).toBeInTheDocument();
+  });
+
+  test("renders all feature titles", () => {
+    render(<FeatureSection />);
+    expect(screen.getByText(/safe and secure/i)).toBeInTheDocument();
+    expect(screen.getByText(/complete transparency/i)).toBeInTheDocument();
+    expect(screen.getByText(/creative team/i)).toBeInTheDocument();
+  });
+
+  test("renders all three feature icons", () => {
+    render(<FeatureSection />);
+    const images = document.querySelectorAll('.fugu-iconbox-icon4 img');
+    expect(images.length).toBe(3);
   });
 });

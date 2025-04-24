@@ -1,10 +1,11 @@
+// map-section.test.js
+import { render } from "@testing-library/react";
 import React from "react";
+import MapSection from "./map-section"; // Correct import
 
-import { render, screen } from "@testing-library/react";
-import map_section from "./map-section";
-describe("map-section", () => {
+describe("MapSection Unit Test", () => {
   test("renders without crashing", () => {
-    render(<map_section />);
-    // screen.debug();
+    const mockLocation = { address: "Mock Address", lat: 0, lng: 0 };
+    render(<MapSection location={mockLocation} zoomLevel={10} />);
   });
 });

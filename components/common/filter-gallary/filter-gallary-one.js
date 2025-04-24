@@ -19,7 +19,10 @@ export default function FilterGalarryOne() {
 				},
 			});
 		}, 1000);
-		return () => isotope.current.destroy();
+		//
+		//return () => isotope.current.destroy();
+		return () => isotope.current?.destroy?.();
+
 	}, []);
 
 	useEffect(() => {

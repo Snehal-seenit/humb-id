@@ -1,10 +1,11 @@
-import React from "react";
-
 import { render, screen } from "@testing-library/react";
-import second_level_dropdown_item from "./second-level-dropdown-item";
+import React from "react";
+import SecondLevelDropdownItem from "./second-level-dropdown-item"; // Corrected import (uppercase component name)
+
 describe("second-level-dropdown-item", () => {
   test("renders without crashing", () => {
-    render(<second_level_dropdown_item />);
-    // screen.debug();
+    render(<SecondLevelDropdownItem navItemText="Test Item" path="/example" />);
+    // Ensure the text is rendered correctly
+    expect(screen.getByText("Test Item")).toBeInTheDocument();
   });
 });

@@ -21,7 +21,13 @@ export default function FilterGallaryFour() {
 				},
 			});
 		}, 1000);
-		return () => isotope.current.destroy();
+
+		return () => {
+			// Add a check to ensure isotope.current is defined before calling destroy
+			if (isotope.current) {
+				isotope.current.destroy();
+			}
+		};
 	}, []);
 
 	useEffect(() => {

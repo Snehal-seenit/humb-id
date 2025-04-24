@@ -1,10 +1,12 @@
-import React from "react";
+// components/about/breadcrumb.test.js
 
-import { render, screen } from "@testing-library/react";
-import breadcrumb from "./breadcrumb";
-describe("breadcrumb", () => {
-  test("renders without crashing", () => {
-    render(<breadcrumb />);
-    // screen.debug();
+// Import jest-dom for custom matchers
+import '@testing-library/jest-dom'; // Correct import
+import { render } from '@testing-library/react';
+import Breadcrumb from './breadcrumb'; // Ensure this path is correct based on your structure
+
+describe('breadcrumb', () => {
+  test('renders without crashing', () => {
+    render(<Breadcrumb />); // Use uppercase "B" for the component
   });
 });

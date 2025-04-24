@@ -1,5 +1,6 @@
-import React from 'react';
+// map-section.js
 import GoogleMapReact from "google-map-react";
+import React from 'react';
 import LocationPin from "./LocationPin";
 const AnyReactComponent = ({ text }) => <div>{text}</div>;
 export default function MapSection({ location, zoomLevel }) {

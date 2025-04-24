@@ -1,10 +1,11 @@
+import { render } from "@testing-library/react";
 import React from "react";
+import DropdownMenu from "./dropdown-menu";
 
-import { render, screen } from "@testing-library/react";
-import dropdown_menu from "./dropdown-menu";
-describe("dropdown-menu", () => {
+describe("DropdownMenu unit test", () => {
   test("renders without crashing", () => {
-    render(<dropdown_menu />);
+    render(<DropdownMenu menuItems={[]} isOpenDropDown={false} handleCloseMobileMenu={() => {}} />);
+    // Optionally debug or assert
     // screen.debug();
   });
 });

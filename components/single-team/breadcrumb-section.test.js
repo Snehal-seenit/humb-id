@@ -1,10 +1,10 @@
+import { render } from "@testing-library/react";
 import React from "react";
+import BreadcrumbSection from "./breadcrumb-section"; // Update path if needed
 
-import { render, screen } from "@testing-library/react";
-import breadcrumb_section from "./breadcrumb-section";
-describe("breadcrumb-section", () => {
+describe("BreadcrumbSection", () => {
   test("renders without crashing", () => {
-    render(<breadcrumb_section />);
-    // screen.debug();
+    render(<BreadcrumbSection />);
+    // screen.debug(); // Uncomment to debug rendered output
   });
 });

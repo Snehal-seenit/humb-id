@@ -1,10 +1,7 @@
-import React from "react";
+// File: filter-gallary-three.test.js
+import { render } from "@testing-library/react";
+import FilterGallaryThree from "./filter-gallary-three";
 
-import { render, screen } from "@testing-library/react";
-import filter_gallary_three from "./filter-gallary-three";
-describe("filter-gallary-three", () => {
-  test("renders without crashing", () => {
-    render(<filter_gallary_three />);
-    // screen.debug();
-  });
+test("renders without crashing", () => {
+  render(<FilterGallaryThree />);
 });
