@@ -12,7 +12,8 @@
   "test:watch": "jest --watch",
   "test:integration": "jest \"components/**/*.integration.test.js\"",
   "integration-test": "jest \"components/**/*.integration.test.js\"",
-  "test:unit": "jest \"components/**/*.unit.test.js\""
+  "test:unit": "jest \"components/**/*.unit.test.js\"",
+  "test:coverage": "jest --coverage"
 },
 	"dependencies": {
 	  "@fortawesome/fontawesome-svg-core": "^6.5.1",
